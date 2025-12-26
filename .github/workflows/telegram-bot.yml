@@ -1,0 +1,52 @@
+name: Run Telegram Bot
+
+on:
+  schedule:
+    - cron: '0 13 * * *'  # Todos los días 
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Git config
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run the bot
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
+          CKAN_URL: ${{ secrets.CKAN_URL }}
+          PERS_PATH: ${{ secrets.PERS_PATH }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          RECEIVERS: ${{ secrets.RECEIVERS }}
+          MISSING_DATA: ${{ secrets.MISSING_DATA }}
+        run: |
+          python main.py
+
+      - name: Commit and push last_data_juguete.json if changed and missing_data.json
+        run: |
+          git add last_data_juguete.json missing_data.json
+          git diff --cached --quiet || (
+            git commit -m "Update JSON files [bot]"
+            git pull --rebase origin main
+            git push origin main
+          )
+

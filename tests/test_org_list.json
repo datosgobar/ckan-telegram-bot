@@ -1,0 +1,174 @@
+[
+    {
+        "name": "aaip",
+        "display_name": "Agencia de Acceso a la Información Pública"
+    },
+    {
+        "name": "acumar",
+        "display_name": "Autoridad de Cuenca Matanza Riachuelo"
+    },
+    {
+        "name": "dine",
+        "display_name": "Dirección Nacional Electoral"
+    },
+    {
+        "name": "arsat",
+        "display_name": "Empresa Argentina de Soluciones Satelitales"
+    },
+    {
+        "name": "enacom",
+        "display_name": "Ente Nacional de Comunicaciones"
+    },
+    {
+        "name": "enargas",
+        "display_name": "Ente Nacional Regulador del Gas"
+    },
+    {
+        "name": "ign",
+        "display_name": "Instituto Geográfico Nacional"
+    },
+    {
+        "name": "pami",
+        "display_name": " Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI)"
+    },
+    {
+        "name": "inti",
+        "display_name": "Instituto Nacional de Tecnología Industrial (INTI)"
+    },
+    {
+        "name": "jgm",
+        "display_name": " Jefatura de Gabinete de Ministros"
+    },
+    {
+        "name": "capital-humano",
+        "display_name": "Ministerio de Capital Humano"
+    },
+    {
+        "name": "defensa",
+        "display_name": " Ministerio de Defensa"
+    },
+    {
+        "name": "transformacion",
+        "display_name": "Ministerio de Desregulación y Transformación del Estado"
+    },
+    {
+        "name": "economia",
+        "display_name": " Ministerio de Economía"
+    },
+    {
+        "name": "justicia",
+        "display_name": " Ministerio de Justicia"
+    },
+    {
+        "name": "exterior",
+        "display_name": "Ministerio de Relaciones Exteriores, Comercio Internacional y Culto"
+    },
+    {
+        "name": "salud",
+        "display_name": "Ministerio de Salud"
+    },
+    {
+        "name": "seguridad",
+        "display_name": " Ministerio de Seguridad"
+    },
+    {
+        "name": "otros",
+        "display_name": "Otros organismos"
+    },
+    {
+        "name": "renaper",
+        "display_name": "Registro Nacional de las Personas (RENAPER)"
+    },
+    {
+        "name": "agroindustria",
+        "display_name": "Secretaría de Agricultura, Ganadería y Pesca"
+    },
+    {
+        "name": "cultura",
+        "display_name": "Secretaría de Cultura"
+    },
+    {
+        "name": "educacion",
+        "display_name": "Secretaría de Educación"
+    },
+    {
+        "name": "energia",
+        "display_name": "Secretaría de Energía"
+    },
+    {
+        "name": "produccion",
+        "display_name": "Secretaría de Industria y Comercio"
+    },
+    {
+        "name": "mineria",
+        "display_name": "Secretaría de Minería"
+    },
+    {
+        "name": "obras",
+        "display_name": "Secretaría de Obras Públicas"
+    },
+    {
+        "name": "sedronar",
+        "display_name": "Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina "
+    },
+    {
+        "name": "trabajo",
+        "display_name": "Secretaría de Trabajo, Empleo y Seguridad Social"
+    },
+    {
+        "name": "transporte",
+        "display_name": " Secretaría de Transporte"
+    },
+    {
+        "name": "desarrollo-social",
+        "display_name": "Secretaría Nacional de Niñez, Adolescencia y Familia"
+    },
+    {
+        "name": "shn",
+        "display_name": "Servicio de Hidrografía Naval"
+    },
+    {
+        "name": "smn",
+        "display_name": "Servicio Meteorológico Nacional"
+    },
+    {
+        "name": "ambiente",
+        "display_name": "Subsecretaría de Ambiente"
+    },
+    {
+        "name": "mincyt",
+        "display_name": "Subsecretaría de Ciencia y Tecnología"
+    },
+    {
+        "name": "habitat",
+        "display_name": "Subsecretaría de Integración Socio Urbana"
+    },
+    {
+        "name": "sspre",
+        "display_name": "Subsecretaría de Presupuesto"
+    },
+    {
+        "name": "sspm",
+        "display_name": "Subsecretaría de Programación Macroeconómica"
+    },
+    {
+        "name": "ssprys",
+        "display_name": "Subsecretaría de Programación Microeconómica"
+    },
+    {
+        "name": "generos",
+        "display_name": "Subsecretaría de Protección contra la Violencia de Género"
+    },
+    {
+        "name": "turismo",
+        "display_name": "Subsecretaría de Turismo"
+    },
+    {
+        "name": "ssn",
+        "display_name": "Superintendencia de Seguros de la Nación"
+    },
+    {
+        "name": "interior",
+        "display_name": "Vicejefatura de Gabinete del Interior"
+    }
+]

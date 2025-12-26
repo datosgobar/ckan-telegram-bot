@@ -1,0 +1,15 @@
+# Ignorar archivos y carpetas comunes de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar entorno de desarrollo
+.idea/
+
+# Ignorar archivos de entorno salvo el de ejemplo
+*.env
+!ejemplo.env
+
+#Ignorar logs
+
+*.log
+app.log
