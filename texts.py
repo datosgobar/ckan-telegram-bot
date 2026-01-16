@@ -19,9 +19,14 @@ def text_one_dataset(update_df,org_dict_list):
             f"📢 {escape_md(verbose_org)} publicó un nuevo dataset:\n\n"
              f"📊 **[{escape_md(update_df['title'].iloc[0])}]({update_df['link'].iloc[0]})**\n"
         )
+    elif maintainer == "" or maintainer == None:
+        text = (
+            f"📢 {escape_md(verbose_org)} publicó un nuevo dataset en el Portal Nacional de Datos Públicos:\n\n"
+            f"📊 **[{escape_md(update_df['title'].iloc[0])}]({update_df['link'].iloc[0]})**\n"
+        )
     else:
         text = (
-            f"📢 {escape_md(maintainer + ' - '+verbose_org)} publicó un nuevo dataset:\n\n"
+            f"📢 {escape_md(maintainer + ' - '+verbose_org)} publicó un nuevo dataset en el Portal Nacional de Datos Públicos:\n\n"
             f"📊 **[{escape_md(update_df['title'].iloc[0])}]({update_df['link'].iloc[0]})**\n"
         )
 
@@ -42,11 +47,11 @@ def text_sev_dataset(update_df,org_dict_lt):
                         verbose_org = element["display_name"]
 
                 if maintainer.strip() == verbose_org.strip():
-                    text = f"📈 {escape_md(verbose_org)} publicó {len(maintainer_df)} datasets nuevos en el Portal Nacional de Datos Abiertos:\n\n"
+                    text = f"📈 {escape_md(verbose_org)} publicó {len(maintainer_df)} datasets nuevos en el Portal Nacional de Datos Públicos:\n\n"
                     for _, row in maintainer_df.iterrows():
                         text += f"🔹 **[{escape_md(row['title'])}]({row['link']})**\n"
                 else:
-                    text = f"📈 {escape_md(maintainer + ' - ' + verbose_org)} publicó {len(maintainer_df)} datasets nuevos en el Portal Nacional de Datos Abiertos:\n\n"
+                    text = f"📈 {escape_md(maintainer + ' - ' + verbose_org)} publicó {len(maintainer_df)} datasets nuevos en el Portal Nacional de Datos Públicos:\n\n"
                     for _, row in maintainer_df.iterrows():
                         text += f"🔹 **[{escape_md(row['title'])}]({row['link']})**\n"
                 texts.append(text)
@@ -57,11 +62,11 @@ def text_sev_dataset(update_df,org_dict_lt):
             if element["name"] == org:
                 verbose_org = element["display_name"]
         if maintainer == verbose_org:
-            text = f"📈 {escape_md(verbose_org)} publicó {len(update_df)} datasets nuevos en el Portal Nacional de Datos Abiertos:\n\n"
+            text = f"📈 {escape_md(verbose_org)} publicó {len(update_df)} datasets nuevos en el Portal Nacional de Datos Públicos:\n\n"
             for _, row in update_df.iterrows():
                 text += f"🔹 **[{escape_md(row['title'])}]({row['link']})**\n"
         else:
-            text = f"📈 {escape_md(maintainer + ' - ' + verbose_org)} publicó {len(update_df)} datasets nuevos en el Portal Nacional de Datos Abiertos:\n\n"
+            text = f"📈 {escape_md(maintainer + ' - ' + verbose_org)} publicó {len(update_df)} datasets nuevos en el Portal Nacional de Datos Públicos:\n\n"
             for _, row in update_df.iterrows():
                 text += f"🔹 **[{escape_md(row['title'])}]({row['link']})**\n"
         texts.append(text)
@@ -78,7 +83,7 @@ def text_one_org(alias, org_url,org_updates):
     return text
 
 def text_sev_orgs(org_inter, org_updates, ckan_portal):
-    text = f"🎉 {escape_md(f'¡Hay {len(org_inter)} nodos nuevos en el Portal Nacional de Datos Abiertos!')}\n\n"
+    text = f"🎉 {escape_md(f'¡Hay {len(org_inter)} nodos nuevos en el Portal Nacional de Datos Públicos!')}\n\n"
     for org in org_inter:
         alias = org
         for element in org_updates:
