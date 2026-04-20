@@ -169,10 +169,24 @@ def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
         current_missings[mdiff] = last_data['dataset_ids'][mdiff]
     write_json(missing_path,current_missings)
 
-    if len(diffs_df)>0:
+    # Filtro adicional: sacar de diffs_df los que resultaron ser nuevos faltantes
+    missing_diff_titles = [last_data['dataset_ids'][m] for m in missing_diffs]
+    diffs_df = diffs_df.loc[~diffs_df['id'].isin(missing_diffs)]
+    diffs_df = diffs_df.loc[~diffs_df['title'].isin(missing_diff_titles)]
+
+    present_ids = diffs_df['id'].tolist()
+    present_titles = diffs_df['title'].tolist()
+    current_missings = {
+        k: v for k, v in current_missings.items()
+        if k not in present_ids and v not in present_titles
+    }
+    write_json(missing_path, current_missings)
+
+    if len(diffs_df) > 0:
         return diffs_df
     else:
         return None
+
 
 
 def save_ckan_state(data_dict, org_updates, file_path):
