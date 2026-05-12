@@ -53,10 +53,19 @@ def main(link_ckan, file_path):
                     for element in org_updates:
                         if element['name'] == alias:
                             element['new'] = False
-
-                sc.save_ckan_state(data_dict, org_updates, file_path)
                 logger.info("Mandando mensaje por nuevos nodos")
-                return asyncio.run(send_update(text))
+                asyncio.run(send_update(text))
+                other_updates = updates.loc[~updates['org'].isin(org_inter)]
+                if len(other_updates) > 0:
+                    logger.info("También hay datasets nuevos de otros nodos")
+                    text = new_data_message(other_updates, org_updates)
+                    if isinstance(text, list):
+                        for element in text:
+                            asyncio.run(send_update(element))
+                    else:
+                        asyncio.run(send_update(text))
+                sc.save_ckan_state(data_dict, org_updates, file_path)
+                return
             text = new_data_message(updates,org_updates)
             sc.save_ckan_state(data_dict, org_updates, file_path)
             logger.info("Mandando mensaje por nuevos datasets")

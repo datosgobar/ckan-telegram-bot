@@ -14,18 +14,20 @@ logger = logging.getLogger(__name__)
 
 
 def safe_get(url, retries=3, backoff=5, timeout=30):
-    """Hace un GET con reintentos en caso de error de conexión."""
+    """Hace un GET con reintentos en caso de error de conexión o respuesta JSON inválida."""
     for attempt in range(1, retries + 1):
         try:
             resp = requests.get(url, timeout=timeout)
             resp.raise_for_status()
-            return resp
+            return resp.json()
+        except json.JSONDecodeError:
+            print(f"⚠️ JSON inválido en respuesta de {url}, intento {attempt}/{retries}")
         except ChunkedEncodingError:
             print(f"⚠️ Respuesta interrumpida para {url}, intento {attempt}/{retries}")
         except RequestException as e:
             print(f"⚠️ Error en {url}: {e} (intento {attempt}/{retries})")
 
-        time.sleep(backoff * attempt)  # espera progresiva
+        time.sleep(backoff * attempt)
 
     raise RuntimeError(f"No se pudo obtener datos de {url} después de {retries} intentos")
 
@@ -38,8 +40,7 @@ def get_current_datasets(ckan_url, chunk_size=10, max_limit=None):
 
     while True:
         url = f"{ckan_url}api/3/action/package_search?rows={chunk_size}&start={start}"
-        resp = safe_get(url)
-        data = resp.json()
+        data = safe_get(url)
 
         results = data["result"]["results"]
         if not results:
@@ -66,7 +67,7 @@ def get_current_orgs(ckan_url):
     url = ckan_url + "api/3/action/organization_list?all_fields=true"
     org_list = [
         {"name": org["name"], "display_name": org["display_name"]}
-        for org in requests.get(url).json()["result"]
+        for org in safe_get(url)["result"]
     ]
     return org_list
 
@@ -142,22 +143,26 @@ def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
         row = [id,title,maintainer,org,link,contact]
         row = ["" if x is None else x for x in row]
         diffs_df.loc[len(diffs_df)]=row
+
+    diffs_df['_title_norm'] = diffs_df['title'].str.strip().str.lower()
+
     #Se les saca a las novedades las que estén en missing...se actualiza missing
     if os.path.exists(missing_path):
         missings = read_json(missing_path)
         missing_ids = list(missings.keys())
-        missing_titles = list(missings.values())
-        original_df = diffs_df
+        # Títulos vacíos se excluyen del filtro por título para no suprimir
+        # datasets genuinamente nuevos que también tengan título vacío.
+        missing_titles_norm = {v.strip().lower() for v in missings.values() if v}
+        original_df = diffs_df.copy()
         diffs_df = diffs_df.loc[~diffs_df['id'].isin(missing_ids)]
-        diffs_df= diffs_df.loc[~diffs_df['title'].isin(missing_titles)]
+        diffs_df = diffs_df.loc[~diffs_df['_title_norm'].isin(missing_titles_norm)]
         present_ids = original_df['id'].tolist()
-        present_titles = original_df['title'].tolist()
+        present_titles_norm = {t for t in original_df['_title_norm'].tolist() if t}
         found_ids = [i for i in missing_ids if i in present_ids]
-        found_titles = [t for t in missing_titles if t in present_titles]
         current_missings = {
-                k: v for k, v in missings.items()
-                if k not in found_ids and v not in found_titles
-            }
+            k: v for k, v in missings.items()
+            if k not in found_ids and (not v or v.strip().lower() not in present_titles_norm)
+        }
         write_json(missing_path,current_missings)
 
     missing_diffs = list(set(last_dataset_list) - set(new_dataset_list))
@@ -170,17 +175,22 @@ def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
     write_json(missing_path,current_missings)
 
     # Filtro adicional: sacar de diffs_df los que resultaron ser nuevos faltantes
-    missing_diff_titles = [last_data['dataset_ids'][m] for m in missing_diffs]
-    diffs_df = diffs_df.loc[~diffs_df['id'].isin(missing_diffs)]
-    diffs_df = diffs_df.loc[~diffs_df['title'].isin(missing_diff_titles)]
+    missing_diff_titles_norm = {
+        last_data['dataset_ids'][m].strip().lower()
+        for m in missing_diffs
+        if last_data['dataset_ids'][m]
+    }
+    diffs_df = diffs_df.loc[~diffs_df['_title_norm'].isin(missing_diff_titles_norm)]
 
     present_ids = diffs_df['id'].tolist()
-    present_titles = diffs_df['title'].tolist()
+    present_titles_norm = {t for t in diffs_df['_title_norm'].tolist() if t}
     current_missings = {
         k: v for k, v in current_missings.items()
-        if k not in present_ids and v not in present_titles
+        if k not in present_ids and (not v or v.strip().lower() not in present_titles_norm)
     }
     write_json(missing_path, current_missings)
+
+    diffs_df = diffs_df.drop(columns=['_title_norm'])
 
     if len(diffs_df) > 0:
         return diffs_df
