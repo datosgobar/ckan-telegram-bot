@@ -11,22 +11,24 @@ class TestScenarios(unittest.TestCase):
         self.org_list = read_json("test_org_list.json")
         self.file_path = "test_last_data_juguete.json"
         self.missing_path = "test_missing_data.json"
+        self.history_path = "test_history.csv"
 
     def test_scan_updates(self):
         """En test_last_data_juguete hay 3 datasets menos, pero dos de estos nuevos
         están en test_missing_data así que scan_updates sólo debería detectar uno"""
 
-        updates = sc.scan_updates(
+        updates, _ = sc.scan_updates(
             self.new_data,
             self.org_list,
             self.file_path,
             self.missing_path,
-            "url"
+            "url",
+            self.history_path,
         )
         self.assertEqual(len(updates), 1)
 
     def test_scan_organizations(self):
-        org_updates = sc.scan_organizations(self.org_list, self.file_path)
+        org_updates, _ = sc.scan_organizations(self.org_list, self.new_data, self.file_path, self.history_path)
         new_org_names = [org["name"] for org in org_updates if org.get("new") is True]
         self.assertEqual(new_org_names, ["energia"])
 
