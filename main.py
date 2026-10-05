@@ -15,6 +15,8 @@ bot_token = os.getenv("BOT_TOKEN")
 ckan_url = os.getenv("CKAN_URL")
 pers_path = os.getenv("PERS_PATH")
 missing_path = "missing_data.json"
+history_path = "history.csv"
+history_recipient = os.getenv("ADMIN_EMAIL")
 sender = os.getenv("SENDER_EMAIL")
 sender_pass=os.getenv("EMAIL_PASS")
 receivers= os.getenv("RECEIVERS")
@@ -35,14 +37,31 @@ async def send_update(message):
 def main(link_ckan, file_path):
         data_dict = sc.get_current_datasets(link_ckan)
         org_list = sc.get_current_orgs(link_ckan)
-        updates = sc.scan_updates(data_dict, org_list, file_path,missing_path, link_ckan)
+        updates, dataset_events = sc.scan_updates(data_dict, org_list, file_path, missing_path, link_ckan, history_path)
         logger.info("Se terminaron de escanear los datos")
-        # Si no hay datos nuevos termina el proceso, no compara organizaciones.
+
+        # Siempre revisamos organizaciones para registrar en el historial,
+        # incluso si no hay datasets nuevos.
+        org_updates, org_events = sc.scan_organizations(org_list, data_dict, file_path, history_path)
+
+        if (dataset_events + org_events) > 0 and sender and sender_pass and history_recipient:
+            try:
+                send_email_report(
+                    sender_email=sender,
+                    sender_password=sender_pass,
+                    recipient_email=history_recipient,
+                    subject="Novedades detectadas en el portal",
+                    body=f"Se registraron {dataset_events + org_events} novedades (datasets/organizaciones). Ver {history_path} adjunto.",
+                    attachment_paths=[history_path],
+                )
+            except Exception as e:
+                logger.error(f"Error enviando email de novedades: {e}")
+
+        # Si no hay datasets nuevos no se mandan mensajes de Telegram.
         if not isinstance(updates, pd.DataFrame):
             logger.info("No hay novedades, terminando proceso")
             return "No hay nuevos datos en el portal"
         else:
-            org_updates = sc.scan_organizations(org_list, file_path)
             new_org_names = [org["name"] for org in org_updates if org.get("new") is True]
             org_in_data = updates['org'].tolist()
             org_inter = list(set(new_org_names) & set(org_in_data))

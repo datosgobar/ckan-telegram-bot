@@ -2,8 +2,11 @@ name: Run Telegram Bot
 
 on:
   schedule:
-    - cron: '0 13 * * *'  # Todos los días 
+    - cron: '0 17 * * *'  # 14:00 Argentina (UTC-3) = 17:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   run-bot:
@@ -38,14 +41,15 @@ jobs:
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           RECEIVERS: ${{ secrets.RECEIVERS }}
           MISSING_DATA: ${{ secrets.MISSING_DATA }}
+          ADMIN_EMAIL: ${{ secrets.ADMIN_EMAIL }}
         run: |
           python main.py
 
-      - name: Commit and push last_data_juguete.json if changed and missing_data.json
+      - name: Commit and push state files if changed
         run: |
-          git add last_data_juguete.json missing_data.json
+          git add last_data.json missing_data.json history.csv
           git diff --cached --quiet || (
-            git commit -m "Update JSON files [bot]"
+            git commit -m "Update state files [bot]"
             git pull --rebase origin main
             git push origin main
           )

@@ -1,5 +1,24 @@
+import csv
 import json
+from pathlib import Path
 from texts import text_one_dataset, text_sev_dataset, text_one_org, text_sev_orgs
+
+
+def append_history(csv_path, events):
+    """Agrega eventos al CSV de historial. Crea el archivo con cabecera si no existe.
+    events: lista de dicts con claves date, type, state, name, title.
+    Devuelve la cantidad de filas agregadas."""
+    if not events:
+        return 0
+    fieldnames = ['date', 'type', 'state', 'name', 'title']
+    exists = Path(csv_path).exists()
+    with open(csv_path, 'a', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        if not exists:
+            writer.writeheader()
+        for event in events:
+            writer.writerow(event)
+    return len(events)
 
 
 def read_json(file_path):

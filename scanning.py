@@ -6,7 +6,7 @@ import logging
 import requests
 from requests.exceptions import ChunkedEncodingError, RequestException
 import time
-from utils import write_json,read_json
+from utils import write_json, read_json, append_history
 
 logger = logging.getLogger(__name__)
 
@@ -72,15 +72,20 @@ def get_current_orgs(ckan_url):
     return org_list
 
 
-def scan_organizations(org_list, file_path):
+def scan_organizations(org_list, new_data, file_path, history_path):
     """Toma el diccionario preexistente de organizaciones y, si hay nuevas,
-    le agrega las nuevas y las flagea como True"""
+    le agrega las nuevas y las flagea como True. Registra en el historial solo
+    las orgs nuevas que tengan al menos un dataset en el portal actual.
+    Devuelve (org_updates, cantidad_eventos_logueados)."""
 
     last_data = read_json(file_path)
     last_org_list = last_data['organizations']
     if len(org_list) > len(last_org_list):
         existing_names = {org["name"] for org in last_org_list}
+        orgs_with_data = {d['organization']['name'] for d in new_data.values()}
         merged = list(last_org_list)
+        date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+        history_events = []
         for org in org_list:
             if org["name"] not in existing_names:
                 merged.append({
@@ -88,12 +93,21 @@ def scan_organizations(org_list, file_path):
                     "display_name": org["display_name"],
                     "new": True
                 })
-        return merged
+                if org["name"] in orgs_with_data:
+                    history_events.append({
+                        'date': date_str,
+                        'type': 'organization',
+                        'state': 'new',
+                        'name': org["name"],
+                        'title': org["display_name"],
+                    })
+        events_logged = append_history(history_path, history_events)
+        return merged, events_logged
     else:
-        return last_org_list
+        return last_org_list, 0
 
 
-def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
+def scan_updates(new_data, org_list, file_path, missing_path, ckan_url, history_path):
     """
     Guarda en un JSON con el estado de un CKAN (datasets disponibles, organizaciones,etc). Si el
      json ya existe (se creó en interaciones anteriores), se procede a usarlo para comparar
@@ -120,14 +134,17 @@ def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
                     "date": datetime.datetime.now().strftime("%d/%m/%Y"),
                     "total_datasets": len(new_dataset_list),
                     "dataset_ids": {},
+                    "dataset_names": {},
                     "organizations": org_list
                 }
         for k,v in new_data.items():
             data["dataset_ids"][k] = v['title']
+            data["dataset_names"][k] = v.get('name', '')
         write_json(file_path, data)
-        return None
+        return None, 0
     last_data = read_json(file_path)
     last_dataset_list = list(last_data['dataset_ids'].keys())
+    last_dataset_names = last_data.get('dataset_names', {})
     base_url = ckan_url+"dataset/"
     #Se identifican y obtiene info de datasets en datos.gob.ar que no
     # estaban en estado anterior
@@ -136,10 +153,10 @@ def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
     for diff in diffs:
         id = new_data[diff]['id']
         title = new_data[diff]['title']
-        maintainer = new_data[diff]['maintainer']
+        maintainer = new_data[diff].get('dataset_publisher_name') or new_data[diff].get('maintainer')
         org = new_data[diff]['organization']['name']
-        link = base_url+id
-        contact = new_data[diff]['author_email']
+        link = base_url + new_data[diff].get('name', id)
+        contact = new_data[diff].get('author_email') or new_data[diff].get('dataset_publisher_mbox') or ""
         row = [id,title,maintainer,org,link,contact]
         row = ["" if x is None else x for x in row]
         diffs_df.loc[len(diffs_df)]=row
@@ -192,10 +209,30 @@ def scan_updates(new_data, org_list, file_path, missing_path, ckan_url):
 
     diffs_df = diffs_df.drop(columns=['_title_norm'])
 
+    date_str = datetime.datetime.now().strftime("%Y-%m-%d")
+    history_events = []
+    for mdiff in missing_diffs:
+        history_events.append({
+            'date': date_str,
+            'type': 'dataset',
+            'state': 'missing',
+            'name': last_dataset_names.get(mdiff, ''),
+            'title': last_data['dataset_ids'][mdiff],
+        })
+    for _, row in diffs_df.iterrows():
+        history_events.append({
+            'date': date_str,
+            'type': 'dataset',
+            'state': 'new',
+            'name': new_data[row['id']].get('name', ''),
+            'title': row['title'],
+        })
+    events_logged = append_history(history_path, history_events)
+
     if len(diffs_df) > 0:
-        return diffs_df
+        return diffs_df, events_logged
     else:
-        return None
+        return None, events_logged
 
 
 
@@ -205,10 +242,12 @@ def save_ckan_state(data_dict, org_updates, file_path):
         "date": datetime.datetime.now().strftime("%d/%m/%Y"),
         "total_datasets": len(new_dataset_list),
         "dataset_ids": {},
+        "dataset_names": {},
         "organizations": org_updates
     }
     for k, v in data_dict.items():
         new_data["dataset_ids"][k] = v['title']
+        new_data["dataset_names"][k] = v.get('name', '')
 
     write_json(file_path, new_data)
     logger.info("guardando nuevos datasets y organizaciones en memoria")
