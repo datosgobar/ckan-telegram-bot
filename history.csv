@@ -57,3 +57,9 @@ date,type,state,name,title
 2026-10-05,dataset,new,censo-nacional-de-poblacion-hogares-y-viviendas-1991,"Censo Nacional de Población, Hogares y Viviendas 1991"
 2026-10-05,dataset,new,encuesta-permanente-de-hogares-eph-2023,Encuesta Permanente de Hogares (EPH). 2023
 2026-10-05,organization,new,indec,Instituto Nacional de Estadística y Censos (INDEC)
+2026-10-09,dataset,new,mercado-postal1,Mercado Postal
+2026-10-09,dataset,new,telefonia-fija1,Telefonía Fija
+2026-10-09,dataset,new,internet-fija1,Internet Fija
+2026-10-09,dataset,new,portabilidad1,Portabilidad
+2026-10-09,dataset,new,comunicaciones-moviles1,Comunicaciones Móviles
+2026-10-09,dataset,new,tv-por-suscripcion1,Tv por Suscripción
