@@ -1450,3 +1450,1388 @@ date,type,state,name,title
 2026-11-02,dataset,new,defensa-solicitud-aip-mindef-2018,Solicitud AIP Mindef 2018
 2026-11-02,dataset,new,defensa-personal-ministerio-defensa-al-31-enero-2021,Personal Ministerio de Defensa al 31 de enero 2021
 2026-11-02,dataset,new,cultura-cuenta-satelite-cultura-valor-agregado-bruto-vab,Cuenta Satélite de Cultura: Valor Agregado Bruto (V.A.B.)
+2026-11-05,dataset,missing,procesos-de-contratacion-de-la-obra-publica-gestionados-en-la-plataforma-contratar,Procesos de Contratación de la Obra Pública gestionados en la Plataforma CONTRATAR
+2026-11-05,dataset,missing,salas-cinematograficas-y-espectadores,Salas cinematográficas y espectadores
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2014,Presupuesto de la Administración Pública Nacional 2014.
+2026-11-05,dataset,missing,permer-i,PERMER I
+2026-11-05,dataset,missing,recursos-y-reservas-de-litio-tablero-global-del-litio-siacam,Recursos y reservas de litio (Tablero global del litio - SIACAM)
+2026-11-05,dataset,missing,senasa-existencias-equinas,SENASA - Existencias equinas
+2026-11-05,dataset,missing,notas-y-multas-a-empresas-de-glp,Notas y multas a empresas de GLP
+2026-11-05,dataset,missing,medicamentos-para-afiliados,Listado de precios de medicamentos para afiliados
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2023,Presupuesto de la Administración Pública Nacional 2023.
+2026-11-05,dataset,missing,nomenclador,Nomenclador de prácticas médicas- valor por cápitas y  módulos
+2026-11-05,dataset,missing,senasa-movimientos-productos-y-subproductos-animales,SENASA - Movimientos subproductos animales
+2026-11-05,dataset,missing,asalariados-registrados-del-sector-privado-por-rama-de-actividad-de-la-ocupacion-principal,"Asalariados registrados del sector privado, por rama de actividad de la ocupación principal."
+2026-11-05,dataset,missing,encuesta-de-gastos-e-ingresos-de-los-hogares-1985-1986,Encuesta de Gastos e Ingresos de los Hogares 1985-1986
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-administracion-publica-nacional-base-caja,Esquema Ahorro - Inversión - Financiamiento. Administración Pública Nacional. Base Caja.
+2026-11-05,dataset,missing,ahorro-externo-y-ahorro-interno-base-1993,Ahorro externo y ahorro interno. Base 1993
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-nacional-ipc-base-diciembre-2016,Índice de Precios al Consumidor Nacional (IPC). Base diciembre 2016.
+2026-11-05,dataset,missing,codificacion-de-delitos-del-codigo-penal-argentino,Codificación de delitos del Código Penal Argentino
+2026-11-05,dataset,missing,producto-interno-bruto-sectorial-1980-1990,Producto Interno Bruto Sectorial 1980-1990
+2026-11-05,dataset,missing,anuario-estadisticos-educativos,Anuario Estadísticos Educativos
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2025,Base de Datos por Escuela 2025
+2026-11-05,dataset,missing,deuda-externa-privada-bcra,Deuda externa privada - BCRA
+2026-11-05,dataset,missing,precios-fob-oficiales,Precios FOB oficiales
+2026-11-05,dataset,missing,sistema-sociodemografico-educacion,Sistema sociodemográfico - Educación
+2026-11-05,dataset,missing,listado-establecimientos-de-salud-asentados-en-el-registro-federal-refes,Listado Establecimientos de Salud Asentados en el Registro Federal  (REFES).
+2026-11-05,dataset,missing,encuesta-nacional-sobre-prevalencias-de-consumo-de-sustancias-psicoactivas-enprecosp,Encuesta Nacional sobre Prevalencias de Consumo de Sustancias Psicoactivas (EnPreCoSP)
+2026-11-05,dataset,missing,organizaciones-distinguidas-sistema-argentino-calidad-turistica-sact,Organizaciones distinguidas del Sistema Argentino de Calidad Turística (SACT)
+2026-11-05,dataset,missing,produccion-y-consumo-de-gas-natural,Producción y consumo de gas natural
+2026-11-05,dataset,missing,trigo-siembra-cosecha-produccion-rendimiento,"Trigo - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,precio-diario-internacional-azucar,Azúcar - Precio diario internacional
+2026-11-05,dataset,missing,precio-de-exportacion-de-petroleo-crudo,Precio de exportación de petróleo crudo
+2026-11-05,dataset,missing,proyectos-mineros-ubicacion-aproximada,Proyectos Mineros (Ubicación aproximada)
+2026-11-05,dataset,missing,limpieza-de-espejo-de-agua,Limpieza de Espejo de Agua del Río Matanza Riachuelo
+2026-11-05,dataset,missing,series-historicas-de-estadisticas-monetarias,Series históricas de estadísticas monetarias
+2026-11-05,dataset,missing,producto-interno-bruto-a-precios-de-mercado-precios-corrientes-base-1993,Producto Interno Bruto a Precios de Mercado. Precios corrientes. Base 1993
+2026-11-05,dataset,missing,precio-promedio-por-kg-solidos-utiles-pagados-al-productor,Lácteos - Precio promedio por kilo de sólidos útiles
+2026-11-05,dataset,missing,senasa-movimientos-material-reproduccion-animal,SENASA - Movimientos material reproducción animal
+2026-11-05,dataset,missing,estado-de-pozos-de-petroleo-y-gas,Estado de pozos de petróleo y gas
+2026-11-05,dataset,missing,registro-de-obsequios-a-funcionarios-publicos,Registro de obsequios a funcionarios públicos
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-ex-cajas-provinciales-base-caja,Esquema Ahorro - Inversión - Financiamiento. Ex Cajas Provinciales. Base Caja.
+2026-11-05,dataset,missing,cruces-ferroviarios,Cruces Ferroviarios
+2026-11-05,dataset,missing,peajes,Peajes
+2026-11-05,dataset,missing,factores-de-riesgo-en-barrios-populares-del-gran-buenos-aires,Factores de Riesgo en Barrios Populares del Gran Buenos Aires
+2026-11-05,dataset,missing,planinversiones,Plan de Inversiones
+2026-11-05,dataset,missing,actividad-pesquera,Actividad pesquera
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2017,Base de Datos por Escuela 2017
+2026-11-05,dataset,missing,flujos-porcentuales-netos-de-inversion-extranjera-directa,Flujos porcentuales netos de Inversión Extranjera Directa
+2026-11-05,dataset,missing,gestion,Gestión
+2026-11-05,dataset,missing,indicadores,Indicadores de Calidad
+2026-11-05,dataset,missing,turismo-internacional-total-pais,Turismo Internacional - Total País
+2026-11-05,dataset,missing,beneficiarios-medicamentos-esenciales,Beneficiarios medicamentos esenciales
+2026-11-05,dataset,missing,inversiones-en-mercado-de-hidrocarburos-upstream,Inversiones en mercado de hidrocarburos upstream
+2026-11-05,dataset,missing,sube-cantidad-de-transacciones-usos-por-fecha,SUBE - Cantidad de transacciones (usos) por fecha
+2026-11-05,dataset,missing,catalogo-nacional-cultivares-registrados-rnc-rnpc,INASE - Catálogo nacional de cultivares - RNC y RNPC
+2026-11-05,dataset,missing,produccion-de-petroleo-desde-1950,Producción de Petróleo desde 1950
+2026-11-05,dataset,missing,datos-agricolo-ganaderos-alimentos-paises-pertenecientes-naciones-unidas,Internacional - Datos agroindustriales de FAO
+2026-11-05,dataset,missing,instalaciones-hidrocarburos-ductos-res-319-93,Ductos de hidrocarburos y agua (Res. 319/93)
+2026-11-05,dataset,missing,resultados-del-indice-de-transparencia,Resultados del Índice de Transparencia
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2019,Base de Datos por Escuela 2019
+2026-11-05,dataset,missing,indice-de-precios-implicitos-de-la-oferta-y-demanda-globales-base-1993,Índice de precios implícitos de la Oferta y Demanda Globales. Base 1993
+2026-11-05,dataset,missing,conservacion-de-la-biodiversidad,Conservación de la biodiversidad
+2026-11-05,dataset,missing,datos-historicos-de-la-industria-automotriz,Datos históricos de la industria automotriz
+2026-11-05,dataset,missing,catalogo-de-programas,Catálogo de programas
+2026-11-05,dataset,missing,radios-censales-censos-1991-a-2022,Radios censales - Censos 1991 a 2022
+2026-11-05,dataset,missing,proyectos-de-litio-en-el-mundo-tablero-global-del-litio-siacam,Proyectos de litio en el mundo (Tablero global del litio - SIACAM)
+2026-11-05,dataset,missing,balance-de-pagos-mbp5,Balance de Pagos (MBP5)
+2026-11-05,dataset,missing,compras-emergencia-covid19,Compras emergencia COVID19
+2026-11-05,dataset,missing,nomina-del-personal-civil-de-la-administracion-publica-nacional-apn,Nómina del personal civil de la Administración Pública Nacional (APN)
+2026-11-05,dataset,missing,disponibilidad-de-petroleo-a-fin-de-mes,Disponibilidad de petróleo a fin de mes
+2026-11-05,dataset,missing,generacion-transporte-electrico,Mapas de Generación y Transporte Eléctrico
+2026-11-05,dataset,missing,radiacion-solar1,Radiación Solar
+2026-11-05,dataset,missing,asalariados-registrados-del-sector-privado-por-provincia,"Asalariados registrados del sector privado, por provincia."
+2026-11-05,dataset,missing,balance-de-pagos-mbp6,Balance de Pagos (MBP6)
+2026-11-05,dataset,missing,grandes-proyectos-de-inversion-res-256-2000,Grandes Proyectos de Inversión (Res 256/2000)
+2026-11-05,dataset,missing,parques-nacionales-protegidos,Parques Nacionales Protegidos
+2026-11-05,dataset,missing,ora-reservas-agua-suelo,ORA - Reservas de agua en suelo
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2025,Encuesta Permanente de Hogares (EPH). 2025
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2024,Encuesta Permanente de Hogares (EPH). 2024
+2026-11-05,dataset,missing,cantidad-de-prestaciones-financiadas-por-el-programa-sumar-y-su-monto-desagregado-por-jurisdicc,"Cantidad de prestaciones financiadas por el Programa Sumar y su monto, desagregado por jurisdicción"
+2026-11-05,dataset,missing,existencias-lacteas-periodo-comprendido-entre-anos-1998-2008,Lácteos - Existencias entre los años 1998 y 2008
+2026-11-05,dataset,missing,programa-fortalecer,Programa FORTALECER
+2026-11-05,dataset,missing,puestos-de-trabajo-en-la-administracion-publica-nacional-apn,Puestos de trabajo en la Administración Pública Nacional (APN)
+2026-11-05,dataset,missing,produccion-estimada-maiz-destinada-elaboracion-alcohol-etilico,Maíz - Producción para alcohol etílico
+2026-11-05,dataset,missing,consejos-paticipativos,Consejos participativos
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-1995,Presupuesto de la Administración Pública Nacional 1995.
+2026-11-05,dataset,missing,mas-cultura,Más Cultura
+2026-11-05,dataset,missing,operaciones-por-periodo,"SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado por Mes"
+2026-11-05,dataset,missing,porcentaje-de-diagnosticos-tardios-de-vih-argentina-2010-en-adelante,Porcentaje de diagnósticos tardíos de VIH. Argentina 2010 en adelante
+2026-11-05,dataset,missing,puestos-de-trabajo-por-departamento-partido-y-sector-de-actividad,Puestos de trabajo por departamento/partido y sector de actividad
+2026-11-05,dataset,missing,datos-historicos-de-la-industria-siderurgica,Datos históricos de la industria siderúrgica
+2026-11-05,dataset,missing,elaboracion-productos-lacteos-liquidos,Lácteos - Elaboración de productos líquidos
+2026-11-05,dataset,missing,posicion-de-inversion-internacional-neta,Posición de Inversión Internacional neta
+2026-11-05,dataset,missing,indicadores-educativos,Indicadores Educativos
+2026-11-05,dataset,missing,areas-provinciales,Áreas Protegidas Provinciales
+2026-11-05,dataset,missing,estadistica-de-tramites-de-automotores,Estadística de trámites de automotores
+2026-11-05,dataset,missing,cantidad-de-empleadores-que-declararon-trabajadores-por-sector-de-actividad,"Cantidad de empleadores que declararon trabajadores, por sector de actividad"
+2026-11-05,dataset,missing,trayectoria-de-pozos,Trayectorias de Pozo Vaca Muerta
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2016,Encuesta Permanente de Hogares (EPH). 2016
+2026-11-05,dataset,missing,regimen-de-integracion-de-motocicletas,Régimen de Integración de Motocicletas
+2026-11-05,dataset,missing,diseno-de-la-politica-industrial-y-de-desarrollo-productivo-2020-2023,Diseño de la política industrial y de desarrollo productivo 2020-2023
+2026-11-05,dataset,missing,matriz-od-vial-cargas,"Matriz Origen-Destino vial de Transporte de Cargas - años 2012, 2014, 2016 y 2018"
+2026-11-05,dataset,missing,variaciones-de-obreros-ocupados-horas-trabajadas-y-salario-por-obrero-en-la-industria,"Variaciones de obreros ocupados, horas trabajadas y salario por obrero en la industria"
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2002,Presupuesto de la Administración Pública Nacional 2002.
+2026-11-05,dataset,missing,expresiones-de-voluntad-sobre-donacion-de-organos-y-tejidos,Expresiones de voluntad sobre donación de órganos y tejidos
+2026-11-05,dataset,missing,parques-provinciales-protegidos,Parques Provinciales Protegidos
+2026-11-05,dataset,missing,produccion-hidrocarburos-yacimientos,Producción de hidrocarburos - Yacimientos
+2026-11-05,dataset,missing,encuesta-de-viajes-y-turismo-de-los-hogares-evyth-microdatos,Encuesta de Viajes y Turismo de los Hogares (EVyTH) - Microdatos
+2026-11-05,dataset,missing,instituciones-educativas-escuelas-por-la-cuenca-acumar,"Instituciones Educativas Alcanzadas por el Programa ""Escuelas por la Cuenca"" de ACUMAR"
+2026-11-05,dataset,missing,concentracion-anual-del-valor-exportado-en-los-primeros-5-destinos-y-en-los-primeros-5-producto,Concentración anual del valor exportado en los primeros 5 destinos y en los primeros 5 productos
+2026-11-05,dataset,missing,fiscalizacion-ambiental,Fiscalización ambiental
+2026-11-05,dataset,missing,empleos-generados-en-proyectos-de-litio-siacam,Empleos generados en proyectos de litio (SIACAM)
+2026-11-05,dataset,missing,tasa-de-asalarizacion-y-de-asalariados-sin-descuento-jubilatorio-eph-continua,Tasa de asalarización y de asalariados sin descuento jubilatorio. EPH Continua.
+2026-11-05,dataset,missing,cuenta-a-i-f-base-devengado-administracion-central,Cuenta A.I.F. - Base devengado. Administración Central
+2026-11-05,dataset,missing,pavimentos,Pavimentos
+2026-11-05,dataset,missing,precios-mayoristas-frutas-hortalizas,Frutas y hortalizas - Precios mayoristas
+2026-11-05,dataset,missing,base-de-registro-federal-de-gobiernos-locales,Base de Registro Federal de Gobiernos Locales (ReFeGLo)
+2026-11-05,dataset,missing,sorgo-siembra-cosecha-produccion-rendimiento,"Sorgo - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,produccion-estimada-aceite-soja-destinado-elaboracion-biodiesel,Soja - Producción de aceite para biodiesel
+2026-11-05,dataset,missing,programa-de-apoyo-a-la-competitividad-pac-emprendedores-reactivacion-productiva,Programa de Apoyo a la Competitividad (PAC). Emprendedores Reactivación Productiva
+2026-11-05,dataset,missing,evaluacion-de-formaciones-en-la-argentina,Evaluación de Formaciones en la Argentina
+2026-11-05,dataset,missing,semillas-algodon-con-destino-industria,Algodón - semillas destino industrial
+2026-11-05,dataset,missing,declaraciones-juradas-de-actividades-anteriores-y-posteriores-a-la-funcion-publica,Declaraciones Juradas de actividades anteriores y posteriores a la función pública
+2026-11-05,dataset,missing,tenencia-de-la-tierra-infraestructura-y-salud-de-los-nucleos-de-agricultura-familiar-naf,"Agricultura Familiar - Tenencia tierra, infraestructura y salud (NAF)"
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2018,Presupuesto de la Administración Pública Nacional 2018.
+2026-11-05,dataset,missing,encuesta-nacional-de-factores-de-riesgo-enfr-2005,Encuesta Nacional de Factores de Riesgo (ENFR) 2005
+2026-11-05,dataset,missing,salario-minimo-vital-y-movil-en-pesos-corrientes,"Salario mínimo, vital y móvil en pesos corrientes"
+2026-11-05,dataset,missing,reservas-internacionales-y-pasivos-del-bcra,Reservas internacionales y pasivos del BCRA
+2026-11-05,dataset,missing,recursos-tributarios-totales-y-por-tributo,Recursos tributarios totales y por tributo
+2026-11-05,dataset,missing,cartera-de-proyectos-mineros-en-argentina-del-siacam,Cartera de Proyectos Mineros en Argentina del SIACAM
+2026-11-05,dataset,missing,programa-prosar,Programa PROSAR
+2026-11-05,dataset,missing,denuncias-a-empresas-y-trabajadores-de-control-de-admision-y-permanencia-en-rencap,Denuncias a empresas y trabajadores de control de admisión y permanencia en RENCAP
+2026-11-05,dataset,missing,puestos-de-trabajo-asalariados-registrados-por-sector-de-actividad,"Puestos de trabajo asalariados registrados, por sector de actividad"
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-provincia-de-san-luis-base-2003-100,Índice de Precios al Consumidor de la Provincia de San Luis. Base 2003 = 100
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-recursos-afectados-base-caja,Esquema Ahorro - Inversión - Financiamiento. Recursos Afectados. Base Caja.
+2026-11-05,dataset,missing,sistema-sociodemografico-poblacion,Sistema sociodemográfico - Población
+2026-11-05,dataset,missing,red-de-carga-de-rmba,Red de carga de RMBA
+2026-11-05,dataset,missing,indice-de-salarios-base-octubre-2016,Índice de salarios. Base octubre 2016
+2026-11-05,dataset,missing,principales-tasas-de-interes-de-referencia,Principales Tasas de Interés de Referencia
+2026-11-05,dataset,missing,programa-consumidores-hipervulnerables,Programa Consumidores Hipervulnerables
+2026-11-05,dataset,missing,covid-19-casos-registrados-en-la-republica-argentina,COVID-19. Casos registrados en la República Argentina
+2026-11-05,dataset,missing,robos-y-recuperos-de-autos,Robos y recuperos de autos
+2026-11-05,dataset,missing,estimador-mensual-industrial-emi-indice-base-2004,Estimador Mensual Industrial (EMI). Índice. Base 2004
+2026-11-05,dataset,missing,flujos-de-inversion-extranjera-directa-por-sector-bcra,Flujos de Inversión Extranjera Directa por sector - BCRA
+2026-11-05,dataset,missing,tabaco-volumen-de-paquetes-de-cigarrillos-vendidos,Tabaco - Volumen de paquetes de cigarrillos vendidos
+2026-11-05,dataset,missing,puntos-de-vacunacion,Puntos de vacunación
+2026-11-05,dataset,missing,asignacion-salarial-de-las-autoridades-superiores-del-poder-ejecutivo-nacional,Asignación Salarial de las Autoridades Superiores del Poder Ejecutivo Nacional
+2026-11-05,dataset,missing,existencia-ciervo-colorado,Ganadería - Existencia de ciervo colorado
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2021,Base de Datos por Escuela 2021
+2026-11-05,dataset,missing,programa-de-apoyo-a-la-competitividad-pac-emprendedores-2021,Programa de apoyo a la competitividad (PAC)  Emprendedores 2021
+2026-11-05,dataset,missing,pronostico-del-tiempo-a-5-dias,Prónostico del Tiempo a 5 días
+2026-11-05,dataset,missing,linea-137-victimas-de-violencia-sexual,Línea 137 - víctimas de violencia sexual - llamados e intervenciones domiciliarias
+2026-11-05,dataset,missing,percentiles-de-salarios-por-genero-y-actividad,Percentiles de salarios por género y actividad
+2026-11-05,dataset,missing,utilizacion-de-la-capacidad-instalada-en-la-industria-en-porcentaje-base-2006,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2006
+2026-11-05,dataset,missing,solicitudes-de-acceso-a-informacion-publica,Solicitudes de Acceso a Información Pública
+2026-11-05,dataset,missing,exportaciones-por-sector-saldo-comercial-y-rangos-de-exportacion-de-la-empresa-exportadora,"Exportaciones por sector, saldo comercial y rangos de exportación de la empresa exportadora"
+2026-11-05,dataset,missing,vehiculos-expuestos-a-riesgos,Vehículos expuestos a riesgos
+2026-11-05,dataset,missing,establecimientos-seguimiento-particular-cuenca-matanza-riachuelo,Establecimientos de Seguimiento Particular en la Cuenca Matanza Riachuelo (2024-2025)
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2022,Encuesta Permanente de Hogares (EPH). 2022
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-gba-base-1974-serie-discontinuada,Índice de Precios al Consumidor GBA - Base 1974. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,exportaciones-por-provincia-y-por-pais-de-destino,Exportaciones por provincia y por país de destino
+2026-11-05,dataset,missing,produccion-de-petroleo-y-gas-por-pozo,Producción de petróleo y gas por pozo (Capítulo IV)
+2026-11-05,dataset,missing,lacteos-exportaciones,Lácteos - Exportaciones
+2026-11-05,dataset,missing,modulo-de-acceso-y-uso-de-tics-eph,Módulo de Acceso y Uso de TICs (EPH)
+2026-11-05,dataset,missing,costo-salarial-por-rama-de-actividad-economica,"Costo Salarial, por rama de actividad económica"
+2026-11-05,dataset,missing,produccion-de-uvas,INV - Producción de uvas
+2026-11-05,dataset,missing,infraestructura-hidrica,Infraestructura hídrica
+2026-11-05,dataset,missing,limpieza-de-residuos-en-la-cuenca-matanza-riachuelo,Limpieza de Residuos en la Cuenca Matanza Riachuelo
+2026-11-05,dataset,missing,soja-con-destino-industria,Soja - destino industrial
+2026-11-05,dataset,missing,remuneracion-neta-de-los-puestos-de-trabajo-por-sector-de-actividad-economica,"Remuneración neta de los puestos de trabajo, por sector de actividad económica"
+2026-11-05,dataset,missing,archivo-2008-2017-areas-economicas-locales-oede,Archivo 2008-2017: Áreas Económicas Locales (OEDE)
+2026-11-05,dataset,missing,vuelos-de-traslado-de-vacunas-contra-la-covid-19-adquiridas-por-argentina,Vuelos de traslado de Vacunas contra la COVID-19 adquiridas por Argentina
+2026-11-05,dataset,missing,fichas-sectoriales-cep-xxi,Fichas Sectoriales CEP XXI
+2026-11-05,dataset,missing,licitaciones-y-adjudicaciones,Licitaciones y adjudicaciones
+2026-11-05,dataset,missing,comercializacion-hidrocarburos-combustibles-liquidos-terminales-de-despacho,Comercialización de hidrocarburos - Terminales de despacho de combustibles líquidos (Res. 1102)
+2026-11-05,dataset,missing,estadistica-de-tramites-de-motovehiculos,Estadística de trámites de motovehículos
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-1996,Presupuesto de la Administración Pública Nacional 1996.
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2020,Base de Datos por Escuela 2020
+2026-11-05,dataset,missing,estructura-de-poblacion-argentina,Estructura de población Argentina
+2026-11-05,dataset,missing,indice-adelantado-de-produccion-industrial-cammesa,Índice adelantado de producción industrial – CAMMESA
+2026-11-05,dataset,missing,seguimiento-de-obras-de-agua-y-cloaca-2018-2023,Seguimiento de Obras de Agua y Cloaca (2018-2023)
+2026-11-05,dataset,missing,indice-de-terminos-del-intercambio-base-2004,Índice de términos del intercambio. Base 2004
+2026-11-05,dataset,missing,participacion-en-el-mercado-por-bandera-de-estaciones-de-servicio,Participación en el Mercado por bandera de estaciones de servicio
+2026-11-05,dataset,missing,datos-estructurales-de-poderes-judiciales-y-ministerios-publicos-provinciales,Datos estructurales de poderes judiciales y ministerios públicos provinciales
+2026-11-05,dataset,missing,padron-de-afiliados,Afiliaciones
+2026-11-05,dataset,missing,registro-de-cape-emitidos-resolucion-166-2019,Registro de CAPE Emitidos - Resolución 166/2019
+2026-11-05,dataset,missing,tasa-de-natalidad,Tasa de Natalidad
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-sector-publico-nacional-base-caja,Esquema Ahorro - Inversión - Financiamiento. Sector Público Nacional. Base Caja.
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2008,Presupuesto de la Administración Pública Nacional 2008.
+2026-11-05,dataset,missing,oferta-y-demanda-globales-base-2004,Oferta y Demanda Globales. Base 2004
+2026-11-05,dataset,missing,listado-de-registros-seccionales-de-la-dnrnpa,Registros Seccionales de la Propiedad Automotor
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2022,Presupuesto de la Administración Pública Nacional 2022.
+2026-11-05,dataset,missing,situacion-patrimonial-del-sistema-financiero,Situación patrimonial del sistema financiero
+2026-11-05,dataset,missing,encuestas-satisfaccion-a-usuarios-en-centros-de-atencion-de-superintendencia-de-servicios-de-sa,Encuestas Satisfacción a Usuarios en centros de atención de Superintendencia de Servicios de Salud
+2026-11-05,dataset,missing,principales-indicadores-del-sistema-financiero,Principales Indicadores del Sistema Financiero
+2026-11-05,dataset,missing,infraestructura-de-salud-cuidados-y-generos-equipamiento-sanitario,"Infraestructura de salud, cuidados y géneros - Equipamiento sanitario"
+2026-11-05,dataset,missing,establecimientos-excluidos-del-registro-de-agentes-contaminantes-de-acumar-2017-2023,Establecimientos Excluidos del Registro de Agentes Contaminantes de ACUMAR (2017-2023)
+2026-11-05,dataset,missing,tasa-de-subocupacion-por-aglomerado-1974-2003,Tasa de Subocupación por aglomerado 1974-2003
+2026-11-05,dataset,missing,serie-de-profesionales-de-medicina,Serie de profesionales de medicina
+2026-11-05,dataset,missing,exploracion-hidrocarburos-permisos-de-exploracion,Exploración de hidrocarburos - Permisos de Exploración
+2026-11-05,dataset,missing,ingreso-de-la-inversion-extranjera-directa-por-pais-primer-nivel-de-residencia-bcra,Ingreso de la inversión extranjera directa por país primer nivel de residencia - BCRA
+2026-11-05,dataset,missing,pobreza-e-indigencia-eph-puntual,Pobreza e indigencia. EPH puntual.
+2026-11-05,dataset,missing,cobros-y-pagos-por-bienes-por-modalidad-de-pago-balance-cambiario,Cobros y pagos por bienes por modalidad de pago - Balance Cambiario
+2026-11-05,dataset,missing,senasa-movimientos-porcinos,SENASA - Movimientos porcinos
+2026-11-05,dataset,missing,indice-de-salario-por-obrero-iso,Índice de Salario por Obrero (ISO)
+2026-11-05,dataset,missing,biblioteca,Biblioteca
+2026-11-05,dataset,missing,balances,Balances
+2026-11-05,dataset,missing,stock-de-inversion-extranjera-directa-bcra,Stock de Inversión Extranjera Directa - BCRA
+2026-11-05,dataset,missing,conceptos-sobre-energia,Conceptos sobre Energía
+2026-11-05,dataset,missing,sector-publico-cultural,Sector público cultural
+2026-11-05,dataset,missing,indices-de-salarios-industriales-basicos-de-convenios-en-la-capital-federal-desde-1962,Índices de salarios industriales básicos de convenios en la Capital Federal desde 1962
+2026-11-05,dataset,missing,resultado-financiero,Resultado Financiero
+2026-11-05,dataset,missing,equipamiento-cientifico-tecnologico,Equipamiento científico-tecnológico
+2026-11-05,dataset,missing,calidad-higienico-sanitaria-produccion-leche-cruda-nivel-nacional,Lácteos - Calidad higiénico sanitaria de la leche cruda a nivel nacional
+2026-11-05,dataset,missing,cobertura-geografica-de-la-encuesta-permanente-de-hogares,Cobertura geográfica de la Encuesta Permanente de Hogares
+2026-11-05,dataset,missing,encuesta-turismo-internacional,Encuesta de Turismo Internacional (ETI)
+2026-11-05,dataset,missing,especies-exoticas-invasoras,Especies Exóticas Invasoras
+2026-11-05,dataset,missing,estructura-organica-y-autoridades-del-poder-ejecutivo-nacional,Estructura Orgánica y Autoridades del Poder Ejecutivo Nacional
+2026-11-05,dataset,missing,capacidaddistribuidora,Uso de la Capacidad Contratada por Distribuidora
+2026-11-05,dataset,missing,indicador-sintetico-de-la-actividad-de-la-construccion-isac-base-2004,Indicador sintético de la actividad de la construcción (ISAC). Base 2004.
+2026-11-05,dataset,missing,estado-del-bosque-nativo,Estado del bosque nativo
+2026-11-05,dataset,missing,encuesta-nacional-de-factores-de-riesgo-enfr-2009,Encuesta Nacional de Factores de Riesgo (ENFR) 2009
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2016,Base de Datos por Escuela 2016
+2026-11-05,dataset,missing,prestamos-a-las-entidades-financieras,Préstamos a las entidades financieras
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2010,Encuesta Permanente de Hogares (EPH). 2010
+2026-11-05,dataset,missing,plantas-biodigestoras-de-biomasa,Plantas biodigestoras de biomasa
+2026-11-05,dataset,missing,registro-nacional-de-barrios-populares,Registro Nacional de Barrios Populares
+2026-11-05,dataset,missing,solicitudes-de-informacion-publica-recibidas-por-acumar,Solicitudes de Información Pública Recibidas por ACUMAR
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-ipc-nacional-por-capitulos-base-2003-serie-discontinuada,Índice de Precios al Consumidor (IPC) Nacional. Por capítulos. Base 2003. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,produccion-primaria-tabaco,Tabaco - Producción
+2026-11-05,dataset,missing,solicitudes-de-acceso-a-la-informacion-publica,Solicitudes de acceso a la información pública
+2026-11-05,dataset,missing,argentina-energy-for-growth,Argentina Energy for growth
+2026-11-05,dataset,missing,seleccion-de-magistrados-del-poder-judicial-y-el-ministerio-publico-de-la-nacion,Selección de magistrados del Poder Judicial y el Ministerio Público de la Nación
+2026-11-05,dataset,missing,medicamentos-mas-consumidos,Listado de los medicamentos más consumidos
+2026-11-05,dataset,missing,activos-y-pasivos-del-banco-central-de-la-republica-argentina,Activos y pasivos del Banco Central de la Republica Argentina
+2026-11-05,dataset,missing,empresas-de-transporte,Empresas de transporte urbano de pasajeros de Región Metropolitana de Buenos Aires - SUBE
+2026-11-05,dataset,missing,utilizacion-de-la-capacidad-instalada-en-la-industria-en-porcentaje-base-2004,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2004
+2026-11-05,dataset,missing,datos-de-fractura-de-pozos-adjunto-iv,Datos de fractura de pozos de hidrocarburos (Adjunto IV)
+2026-11-05,dataset,missing,percepcion-publica-de-la-ciencia-y-la-tecnologia,Percepción pública de la Ciencia y la Tecnología
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2013,Base de Datos por Escuela 2013
+2026-11-05,dataset,missing,magistrados-justicia-federal-y-de-la-justicia-nacional,Magistrados de la Justicia Federal y de la Justicia Nacional
+2026-11-05,dataset,missing,padron-oficial-de-establecimientos-educativos,Padrón Oficial de Establecimientos Educativos
+2026-11-05,dataset,missing,salarios-basicos-de-convenio-del-oficial-de-la-industria-manufacturera,Salarios básicos de convenio del oficial de la industria manufacturera.
+2026-11-05,dataset,missing,indice-de-precios-implicitos-del-valor-agregado-bruto-base-2004,Índice de precios implícitos del Valor Agregado Bruto. Base 2004
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20111,Resultados Provisionales Elecciones 2011
+2026-11-05,dataset,missing,conectividad-multimodal-e-infraestructura-del-transporte-modo-vial,Conectividad multimodal e infraestructura del transporte - Modo vial
+2026-11-05,dataset,missing,te-siembra-cosecha-produccion-rendimiento,"Té - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,agentes-culturales-argentina,Mapa Cultural: Agentes y Actividades Culturales
+2026-11-05,dataset,missing,exploracion-hidrocarburos-sismicas-3d,Exploración de hidrocarburos - Inventario de Sísmicas 3D
+2026-11-05,dataset,missing,brasil-salario-medio-real,Brasil Salario medio real
+2026-11-05,dataset,missing,ipc-nacional-tasas-de-variacion-mensual-por-categorias-base-dic-2016,IPC Nacional. Tasas de variación mensual por Categorías. Base Dic-2016
+2026-11-05,dataset,missing,indicadores-de-produccion-de-la-industria-manufacturera,Indicadores de producción de la Industria manufacturera
+2026-11-05,dataset,missing,estimador-mensual-de-actividad-economica-emae-base-1993,Estimador Mensual de Actividad Económica (EMAE). Base 1993
+2026-11-05,dataset,missing,indice-de-salarios-base-2012,Índice de salarios. Base 2012
+2026-11-05,dataset,missing,lineas-de-transporte-de-rmba,Líneas de transporte de RMBA
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2020,Presupuesto de la Administración Pública Nacional 2020.
+2026-11-05,dataset,missing,senasa-existencias-porcinas,SENASA - Existencias porcinas
+2026-11-05,dataset,missing,derecho-de-autor-declaraciones-juradas-de-obras-editadas,Derecho de autor. Declaraciones juradas de obras editadas
+2026-11-05,dataset,missing,ambiente-y-demarcacion-gestion-de-residuos,Ambiente y demarcación - Gestión de residuos
+2026-11-05,dataset,missing,encuesta-de-turismo-internacional,Encuesta de Turismo Internacional
+2026-11-05,dataset,missing,solicitudes-condicion-legitimo-usuario-armas-fuego,Solicitudes de Condición de Legítimo Usuario de Armas de Fuego
+2026-11-05,dataset,missing,senasa-exportacion-de-productos-de-origen-vegetal-certificados,SENASA - Exportación de productos de origen vegetal certificados
+2026-11-05,dataset,missing,pisac-programa-de-investigacion-sobre-la-sociedad-argentina-contemporanea,PISAC - Programa de Investigación sobre la Sociedad Argentina Contemporánea
+2026-11-05,dataset,missing,programa-ahora-12,Programa Ahora 12
+2026-11-05,dataset,missing,aguayenergia,40 Años Agua y Energía Eléctrica (1947-1987)
+2026-11-05,dataset,missing,boletos-vendidos,Boletos Vendidos
+2026-11-05,dataset,missing,estimador-mensual-industrial-emi-indice-base-2012,Estimador Mensual Industrial (EMI). Índice. Base 2012
+2026-11-05,dataset,missing,registro-de-empresas-e-instalaciones-de-glp,Registro de empresas e instalaciones de GLP
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2023,Base de Datos por Escuela 2023
+2026-11-05,dataset,missing,registro-mipyme,Registro MiPyME
+2026-11-05,dataset,missing,tasa-ruralidad-por-radio-censal,Censo - Tasa de ruralidad por radio censal
+2026-11-05,dataset,missing,encuesta-nacional-sobre-calidad-de-vida-de-adultos-mayores-encaviam-2012,Encuesta Nacional sobre Calidad de Vida de Adultos Mayores (ENCaVIAM) 2012
+2026-11-05,dataset,missing,obras-de-generacion-de-electricidad,Obras de generación de electricidad
+2026-11-05,dataset,missing,exportacion-productos-equinos,Ganadería - Exportación de equinos
+2026-11-05,dataset,missing,plan-nacional-inversiones-turisticas-50-destinos,Plan Nacional de Inversiones Turísticas - 50 Destinos
+2026-11-05,dataset,missing,medicamentos-para-entidades,Listado de precios de medicamentos para entidades
+2026-11-05,dataset,missing,elaboracion-de-productos-lacteos-solidos,Lácteos - Elaboración de productos sólidos
+2026-11-05,dataset,missing,estadisticas-de-servicios-publicos-base-1993,Estadísticas de Servicios Públicos. Base 1993
+2026-11-05,dataset,missing,procuracion-general-de-la-nacion-casos,Procuración General de la Nación - Casos
+2026-11-05,dataset,missing,sorgo-con-destino-industria,Sorgo - destino industrial
+2026-11-05,dataset,missing,ventas-internas-de-biodiesel,Biocombustible - Ventas internas biodiesel
+2026-11-05,dataset,missing,salud,Salud
+2026-11-05,dataset,missing,estadistica-mediaciones-prejudiciales-y-judiciales,Estadística de mediaciones prejudiciales y judiciales
+2026-11-05,dataset,missing,portabilidad1,Portabilidad
+2026-11-05,dataset,missing,producciones,Mediciones de Petróleo y Gas
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2006,Presupuesto de la Administración Pública Nacional 2006.
+2026-11-05,dataset,missing,estimador-mensual-de-actividad-economica-emae-base-2004,Estimador Mensual de Actividad Económica (EMAE). Base 2004
+2026-11-05,dataset,missing,porcentaje-de-puestos-ocupados-por-mujeres-por-sector-de-actividad,"Porcentaje de puestos ocupados por mujeres, por sector de actividad"
+2026-11-05,dataset,missing,listado-de-estaciones-meteorologicas-del-smn,Listado de Estaciones Meteorológicas del SMN
+2026-11-05,dataset,missing,activos-externos-en-millones-de-dolares,Activos externos en millones de dólares
+2026-11-05,dataset,missing,gasto-publico-consolidado,Gasto Público Consolidado
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central,Compras y Contrataciones de Nivel Central
+2026-11-05,dataset,missing,tercer-plan-de-accion-nacional-de-gobierno-abierto,Tercer Plan de Acción Nacional de Gobierno Abierto
+2026-11-05,dataset,missing,precios-de-paquetes-de-cigarrillos-vendidos-equivalentes-a-veinte-unidades,Precios de paquetes de cigarrillos vendidos equivalentes a veinte unidades
+2026-11-05,dataset,missing,formacion-bruta-de-capital-fijo-por-sector-y-rama-de-produccion,Formación bruta de capital fijo por sector y rama de producción
+2026-11-05,dataset,missing,ley-de-educacion-ambiental-integral,Ley de educación ambiental integral
+2026-11-05,dataset,missing,indices-de-valor-precio-y-cantidad-de-las-exportaciones-de-bienes,"Índices de valor, precio y cantidad de las exportaciones de bienes"
+2026-11-05,dataset,missing,olivo,Olivo
+2026-11-05,dataset,missing,asistencia-de-emergencia-al-trabajo-y-la-produccion-atp,Asistencia de Emergencia al Trabajo y la Producción (ATP)
+2026-11-05,dataset,missing,mapas-de-refinacion-y-comercializacion-de-hidrocarburos,Mapas de refinación y comercialización de hidrocarburos
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-del-gran-resistencia-chaco,Índice de Precios al Consumidor del Gran Resistencia Chaco
+2026-11-05,dataset,missing,estimacion-variacion-interanual-e-intermensual-produccion-leche-cruda,Lácteos - Estimación de la producción de leche cruda
+2026-11-05,dataset,missing,serie-historica-de-defunciones-ocurridas-en-argentina-por-jurisdiccion,Serie histórica de defunciones ocurridas en Argentina por jurisdicción
+2026-11-05,dataset,missing,estudio-nacional-sobre-el-perfil-de-las-personas-con-discapacidad-2018,Estudio Nacional sobre el Perfil de las Personas con Discapacidad (2018)
+2026-11-05,dataset,missing,encuesta-nacional-sobre-consumos-y-practicas-de-cuidado-2022,Encuesta Nacional sobre Consumos y Prácticas de Cuidado 2022
+2026-11-05,dataset,missing,defunciones-generales-mensuales-ocurridas-y-registradas-en-la-republica-argentina,Defunciones Generales Mensuales ocurridas y registradas en la República Argentina.
+2026-11-05,dataset,missing,registro-nacional-de-prestadores-de-establecimientos-de-salud-inscriptos,Registro Nacional de Prestadores de Establecimientos de Salud Inscriptos
+2026-11-05,dataset,missing,senasa-movimientos-cervidos,SENASA - Movimientos cérvidos
+2026-11-05,dataset,missing,precios-de-gas-natural,Precios de Gas Natural
+2026-11-05,dataset,missing,distribucion-del-empleo-formal-en-el-amba,Distribución del empleo formal en el AMBA
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2013,Presupuesto de la Administración Pública Nacional 2013.
+2026-11-05,dataset,missing,medicion-de-petroleo-y-gas,Padrón de medidores de petróleo y gas
+2026-11-05,dataset,missing,partes-diarios-de-gas-natural,Partes diarios de gas natural
+2026-11-05,dataset,missing,padron-de-beneficiarios-de-obras-sociales-nacionales,Padrón de beneficiarios de Obras Sociales Nacionales
+2026-11-05,dataset,missing,sistema-de-contrataciones-electronicas,Sistema de Contrataciones Electrónicas
+2026-11-05,dataset,missing,observaciones-diarias-de-temperaturas-extremas,Observaciones diarias de Temperaturas Extremas
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2021,Presupuesto de la Administración Pública Nacional 2021.
+2026-11-05,dataset,missing,energias-renovables-plantas-biocombustibles,Energías renovables - Plantas de biocombustibles
+2026-11-05,dataset,missing,registro-nacional-de-productores-apicolas,Apicultura - Registro Nacional de Productores Apícolas
+2026-11-05,dataset,missing,indice-de-tipo-de-cambio-real-multilateral-base-diciembre-de-2001-100-serie-discontinuada,Índice de Tipo de Cambio Real Multilateral Base Diciembre de 2001 = 100 (SERIE DISCONTINUADA)
+2026-11-05,dataset,missing,existencias-bovinas-en-tambos,SENASA - Existencias Bovinas en Tambos
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2003,Presupuesto de la Administración Pública Nacional 2003.
+2026-11-05,dataset,missing,declaraciones-juradas-patrimoniales-integrales,Declaraciones Juradas Patrimoniales Integrales de carácter público
+2026-11-05,dataset,missing,flujos-de-inversion-extranjera-directa-por-pais-primer-nivel-de-residencia-bcra,Flujos de Inversión Extranjera Directa por país primer nivel de residencia - BCRA
+2026-11-05,dataset,missing,existencias-ovinas-nacionales-desde-1875-al-2017,Ganadería - Existencias ovinas desde 1875 al 2017
+2026-11-05,dataset,missing,stock-de-inversion-extranjera-directa-por-sector-bcra,Stock de Inversión Extranjera Directa por sector - BCRA
+2026-11-05,dataset,missing,regalias-de-petroleo-crudo-gas-natural-glp-gasolina-y-condensado,"Regalías de Petróleo Crudo, Gas Natural, GLP, Gasolina y de Condensado"
+2026-11-05,dataset,missing,impuestos-y-subsidios-sobre-tarifas-electricas-a-usuario-final,Impuestos y Subsidios sobre Tarifas Eléctricas a Usuario Final - Discontinuado
+2026-11-05,dataset,missing,mercado-postal,Mercado Postal
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central-2018,Compras y contrataciones de Nivel Central- 2018
+2026-11-05,dataset,missing,producciones-cientifico-tecnologicas,Producciones científico-tecnológicas
+2026-11-05,dataset,missing,anuarios-de-combustibles-1950-1999,Anuarios de Combustibles 1950-1999 - Discontinuado
+2026-11-05,dataset,missing,exportaciones-fob-por-rubro,Exportaciones FOB por rubro
+2026-11-05,dataset,missing,programa-soluciona-verde,Programa SOLUCIONA VERDE
+2026-11-05,dataset,missing,personal,Personal
+2026-11-05,dataset,missing,producto-interno-bruto-1950-1964,Producto Interno Bruto 1950-1964
+2026-11-05,dataset,missing,stock-de-inversion-extranjera-directa-por-pais-primer-nivel-de-residencia-bcra,Stock de Inversión Extranjera Directa por país primer nivel de residencia - BCRA
+2026-11-05,dataset,missing,estimador-mensual-de-actividad-economica-emae-apertura-sectorial-base-2004,Estimador Mensual de Actividad Económica (EMAE). Apertura Sectorial. Base 2004
+2026-11-05,dataset,missing,certificados-unicos-habilitantes-de-circulacion-cuhc,Certificados Únicos Habilitantes de Circulación - CUHC
+2026-11-05,dataset,missing,codigo-de-etica-y-conducta,Código de Etica y Conducta
+2026-11-05,dataset,missing,indice-de-produccion-minero-ipim1,Indice de producción minero (IPIM)
+2026-11-05,dataset,missing,produccion-nacional-fiscalizada-por-especies-ubicacion-registrada-inase,INASE - Producción de semillas por especies y ubicación
+2026-11-05,dataset,missing,censo-nacional-de-poblacion-hogares-y-viviendas-2001,"Censo Nacional de Población, Hogares y Viviendas 2001"
+2026-11-05,dataset,missing,agentes-contaminantes-identificados-cuenca-matanza-riachuelo,Agentes Contaminantes Identificados en la Cuenca Matanza Riachuelo (2024-2025)
+2026-11-05,dataset,missing,delitos-contra-la-propiedad-sistema-de-alerta-temprana-estadisticas-criminales,Delitos contra la propiedad. Sistema de Alerta Temprana. Estadísticas criminales
+2026-11-05,dataset,missing,campana-vacunacion,Campaña de vacunación antigripal
+2026-11-05,dataset,missing,avena-siembra-cosecha-produccion-rendimiento,"Avena - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,programa-capacitacion-4-0-y-economia-del-conocimiento-para-gobiernos-subnacionales,Programa Capacitación 4.0 y Economía del Conocimiento para Gobiernos Subnacionales
+2026-11-05,dataset,missing,servicio-de-normalizacion-de-direcciones-y-unidades-territoriales-de-argentina,Servicio de normalización de direcciones y unidades territoriales de Argentina
+2026-11-05,dataset,missing,transporte,"Capacidad de Transporte Contratada en Firme, por Cargador"
+2026-11-05,dataset,missing,cantidad-de-usuarios-de-empresas-de-medicinas-prepagas,Cantidad  de Usuarios de Empresas de Medicinas Prepagas
+2026-11-05,dataset,missing,linea-de-base-de-basurales-2017-cmr,Línea de Base de Basurales 2017 en la Cuenca Matanza Riachuelo
+2026-11-05,dataset,missing,cuentas-nacionales-1935-1962,Cuentas Nacionales 1935-1962
+2026-11-05,dataset,missing,registro-de-establecimientos-de-la-cuenca-matanza-riachuelo-2019,Registro de Establecimientos de la Cuenca Matanza Riachuelo (2019)
+2026-11-05,dataset,missing,bienes-secuestrados-y-decomisados-durante-el-proceso-penal,Bienes secuestrados y decomisados durante el proceso penal
+2026-11-05,dataset,missing,agentes-contaminantes-vigentes-en-la-cuenca-matanza-riachuelo-2017-2023,Agentes Contaminantes Vigentes en la Cuenca Matanza Riachuelo (2017-2023)
+2026-11-05,dataset,missing,cuenta-satelite-de-cultura-generacion-del-ingreso,Cuenta Satélite de Cultura: cuenta generación del Ingreso
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional,Presupuesto de la Administración Pública Nacional .
+2026-11-05,dataset,missing,indicador-sintetico-de-la-actividad-de-la-construccion-isac-base-2004-discontinuado,Indicador sintético de la actividad de la construcción (ISAC). Base 2004. (DISCONTINUADO)
+2026-11-05,dataset,missing,arroz-siembra-cosecha-produccion-rendimiento,"Arroz - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,ejecuciones-presupuestarias,Ejecuciones presupuestarias
+2026-11-05,dataset,missing,distribucion-de-apellidos-en-argentina,Distribución de apellidos en Argentina
+2026-11-05,dataset,missing,indicadores-sectoriales-y-provinciales,Indicadores Sectoriales y Provinciales
+2026-11-05,dataset,missing,listado-de-mediadores,Listado de mediadores
+2026-11-05,dataset,missing,insumo-de-mano-de-obra-por-sector-de-actividad-economica,Insumo de mano de obra por sector de actividad económica
+2026-11-05,dataset,missing,regimen-de-aduana-en-factoria-raf,Régimen de Aduana en Factoría (RAF)
+2026-11-05,dataset,missing,refinacion-hidrocarburos-refinerias,Refinerías de hidrocarburos
+2026-11-05,dataset,missing,precio-internacional-pi-del-petroleo-crudo,Precio Internacional (PI)  del petróleo crudo
+2026-11-05,dataset,missing,indice-de-precios-internos-basicos-del-productor-dic-2015-100,Índice de Precios Internos Básicos del Productor. Dic-2015 = 100
+2026-11-05,dataset,missing,distribucion-electrica-edenor,Distribución Eléctrica Edenor
+2026-11-05,dataset,missing,expansion-de-redes-de-distribucion,Expansión de Redes de Distribución
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-provincia-de-neuquen-base-enero-2007-100,Índice de Precios al Consumidor de la Provincia de Neuquén. Base Enero 2007 = 100
+2026-11-05,dataset,missing,autorizacion-portacion-armas-fuego,Solicitudes de Autorización de Portación de Armas de Fuego
+2026-11-05,dataset,missing,poder-de-compra-de-las-exportaciones-de-bienes-y-ganancia-del-intercambio,Poder de compra de las exportaciones de bienes y ganancia del intercambio
+2026-11-05,dataset,missing,listado-de-comunidades-indigenas,Listado de comunidades Indígenas (histórico)
+2026-11-05,dataset,missing,encuesta-nacional-de-consumos-culturales,Encuesta Nacional de Consumos Culturales
+2026-11-05,dataset,missing,aerodromos,Aeródromos
+2026-11-05,dataset,missing,exportaciones-e-importaciones-por-intensidad-tecnologica,Exportaciones e importaciones por Intensidad tecnológica
+2026-11-05,dataset,missing,acceso-a-la-informacion-publica,Acceso a la información pública
+2026-11-05,dataset,missing,bajas-de-autos,Bajas de autos
+2026-11-05,dataset,missing,mercado-liniers-sa-resumen-precios-cantidad-peso-promedio,"Ganadería - Mercado de Liniers: precios, cantidad y peso promedio"
+2026-11-05,dataset,missing,datos-comercio-exterior,Comercio exterior - Consulta de datos
+2026-11-05,dataset,missing,captura-pesquera,Captura pesquera
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2017,Encuesta Permanente de Hogares (EPH). 2017
+2026-11-05,dataset,missing,asignacion-universal-por-hijo,Asignación Universal por Hijo
+2026-11-05,dataset,missing,rutas-nacionales,Rutas Nacionales
+2026-11-05,dataset,missing,encuesta-nacional-de-factores-de-riesgo-enfr-2013,Encuesta Nacional de Factores de Riesgo (ENFR) 2013
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2024,Base de Datos por Escuela 2024
+2026-11-05,dataset,missing,materiales-didacticos-de-uso-responsable-de-la-energia-y-de-eficiencia-energetica,Materiales didácticos de Uso Responsable de la Energía y de Eficiencia Energética
+2026-11-05,dataset,missing,maiz-siembra-cosecha-rendimiento-produccion,"Maíz - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,autoridades,Autoridades nacionales desde 1944
+2026-11-05,dataset,missing,catalogo-de-recursos-hidricos,Catálogo de Recursos Hídricos
+2026-11-05,dataset,missing,detalle-de-entrada-y-salida-de-buques-y-pasajeros-transportados,Detalle de entrada y salida de buques y pasajeros transportados
+2026-11-05,dataset,missing,existencias-lacteas-litros-equivalentes,Lácteos - Existencias en litros equivalentes
+2026-11-05,dataset,missing,temperatura,La temperatura y su influencia en la demanda de energía eléctrica.
+2026-11-05,dataset,missing,reclamos-resueltos-enargas,Reclamos resueltos por el ENARGAS
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2007,Presupuesto de la Administración Pública Nacional 2007.
+2026-11-05,dataset,missing,matriz-de-contabilidad-social-para-argentina-2015,Matriz de Contabilidad Social para Argentina 2015
+2026-11-05,dataset,missing,diagnostico-federal-de-politicas-productivas-con-enfoque-de-genero-en-argentina,Diagnóstico federal de políticas productivas con enfoque de género en Argentina
+2026-11-05,dataset,missing,cuenta-a-i-f-base-devengado-sector-publico-argentino,Cuenta A.I.F. - Base Devengado. Sector Público Argentino
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2015,Encuesta Permanente de Hogares (EPH). 2015
+2026-11-05,dataset,missing,indices-de-horas-trabajadas-iht-revisado,Índices de Horas trabajadas (IHT) (Revisado)
+2026-11-05,dataset,missing,mijo-siembra-cosecha-produccion-rendimiento,"Mijo - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central-2019,Compras y contrataciones de Nivel Central- 2019
+2026-11-05,dataset,missing,relevamiento-del-indice-de-transparencia,Relevamiento del Índice de Transparencia
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2018,Encuesta Permanente de Hogares (EPH). 2018
+2026-11-05,dataset,missing,uso-suelo-segun-censo-nacional-agropecuario-2002,Censo - Uso del suelo CNA 02
+2026-11-05,dataset,missing,ventas-de-supermercados-base-1996-serie-descontinuada,Ventas de Supermercados (Base 1996) - SERIE DESCONTINUADA
+2026-11-05,dataset,missing,sube-cantidad-de-tarjetas-usuarios-por-fecha,SUBE - Cantidad de tarjetas (usuarios) por fecha
+2026-11-05,dataset,missing,innovacion-sector-servicios,Innovación sector servicios
+2026-11-05,dataset,missing,superficie-nacional-fiscalizada-por-especies-registrada-inase,INASE - Superficie fiscalizada de semillas por especies
+2026-11-05,dataset,missing,indice-de-confianza-en-el-gobierno,Índice de Confianza en el Gobierno
+2026-11-05,dataset,missing,consumos-energeticos-mercosur,Consumos Energéticos Mercosur
+2026-11-05,dataset,missing,tablero-global-del-cobre-siacam,Tablero global del cobre (SIACAM)
+2026-11-05,dataset,missing,senasa-movimientos-caprinos,SENASA - Movimientos caprinos
+2026-11-05,dataset,missing,limites-maritimos-internacionales-por-distancia,Límites maritimos internacionales por distancia
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central-abril-2022,Compras y contrataciones de Nivel Central ABRIL 2022
+2026-11-05,dataset,missing,producto-interno-bruto-sectorial-1970-1980,Producto Interno Bruto Sectorial 1970-1980
+2026-11-05,dataset,missing,resultado-tecnico,Resultado Técnico
+2026-11-05,dataset,missing,plan-nacional-de-calidad,Plan Nacional de Calidad
+2026-11-05,dataset,missing,empresas-y-cooperativas-distribuidoras,Empresas y Cooperativas Distribuidoras
+2026-11-05,dataset,missing,producto-interno-bruto-en-dolares-producto-interno-bruto-per-capita-y-poblacion,"Producto Interno Bruto en dólares, Producto Interno Bruto per cápita y población"
+2026-11-05,dataset,missing,areas-protegidas-privadas,Áreas protegidas privadas
+2026-11-05,dataset,missing,censo-explotaciones-agropecuarias-cna-02,Censo - Explotaciones agropecuarias CNA 02
+2026-11-05,dataset,missing,importaciones-cif-por-region-y-pais,Importaciones CIF por region y país
+2026-11-05,dataset,missing,ministerios-publicos-casos,Ministerios públicos - Casos
+2026-11-05,dataset,missing,fletes-y-seguros-del-comercio-exterior-argentino,Fletes y seguros del comercio exterior argentino
+2026-11-05,dataset,missing,distribucion-de-laboratorios-del-instituto-nacional-de-tecnologia-industrial,Distribución de Laboratorios del Instituto Nacional de Tecnología Industrial
+2026-11-05,dataset,missing,proyectos-hidroelectricos,Proyectos hidroeléctricos
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2003,Encuesta Permanente de Hogares (EPH). 2003
+2026-11-05,dataset,missing,vigilancia-de-las-enfermedades-por-virus-del-dengue-y-zika,Vigilancia de las enfermedades por virus del Dengue y Zika
+2026-11-05,dataset,missing,avena-con-destino-industria,Avena - Destino industrial
+2026-11-05,dataset,missing,componentes-del-vab-por-sector-de-actividad-economica,Componentes del VAB por sector de actividad económica
+2026-11-05,dataset,missing,telefonia-fija1,Telefonía Fija
+2026-11-05,dataset,missing,deteccion-satelital-de-venteos,Detección Satelital de Venteos
+2026-11-05,dataset,missing,encuesta-nacional-de-gastos-de-los-hogares-2012-2013,Encuesta Nacional de Gastos de los Hogares 2012-2013
+2026-11-05,dataset,missing,importacion-temporaria-ctit,Importación Temporaria CTIT
+2026-11-05,dataset,missing,costo-del-nivel-de-vida-en-la-capital-federal,Costo del Nivel de Vida en la Capital Federal.
+2026-11-05,dataset,missing,canasta-basica-alimentaria-y-total-linea-de-indigencia-y-linea-de-pobreza-desde-1988,"Canasta básica alimentaria y total, línea de indigencia y línea de pobreza desde 1988"
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2021,Encuesta Permanente de Hogares (EPH). 2021
+2026-11-05,dataset,missing,superficie-nacional-fiscalizada-por-especie-ubicacion-registrada-inase,INASE - Superficie fiscalizada de semillas por especie y ubicación
+2026-11-05,dataset,missing,elecciones_legislativas_2025,Resultados Provisionales Elecciones 2025
+2026-11-05,dataset,missing,archivo-2002-2019-indicadores-sectoriales-de-la-construccion,Archivo 2002-2019: Indicadores Sectoriales de la Construcción
+2026-11-05,dataset,missing,precios-de-comercio-exterior2,Precios de Comercio Exterior
+2026-11-05,dataset,missing,exportaciones-por-provincia-y-rubro,Exportaciones por provincia y rubro
+2026-11-05,dataset,missing,agentes-institorios,Agentes Institorios
+2026-11-05,dataset,missing,balance-cambiario-del-siacam,Balance Cambiario del SIACAM
+2026-11-05,dataset,missing,base-saij-de-normativa-provincial,Base SAIJ de Normativa Provincial
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2026,Encuesta Permanente de Hogares (EPH). 2026
+2026-11-05,dataset,missing,espacios-culturales-argentina-sinca,Mapa Cultural: Espacios Culturales
+2026-11-05,dataset,missing,cuenta-satelite-de-cultura-produccion,Cuenta Satélite de Cultura: producción
+2026-11-05,dataset,missing,censo-ganaderia-cna-02,Censo - Ganadería CNA 02
+2026-11-05,dataset,missing,poroto-siembra-cosecha-produccion-rendimiento,"Poroto - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,produccion-de-petroleo-y-gas-tablas-dinamicas,Producción de Petróleo y Gas (SESCO)
+2026-11-05,dataset,missing,exportaciones-fob-por-pais-y-region,Exportaciones FOB por país y region
+2026-11-05,dataset,missing,consumo-de-carne-aviar,Aves - Consumo de carne aviar
+2026-11-05,dataset,missing,escenarios-energeticos,Escenarios Energéticos
+2026-11-05,dataset,missing,sanciones-aplicadas-en-defensa-de-las-y-los-consumidores,Sanciones aplicadas en defensa de las y los consumidores
+2026-11-05,dataset,missing,total-de-beneficiarios-inscriptos-al-programa-sumar-con-cobertura-efectiva-basica-ceb,Total de beneficiarios inscriptos al Programa Sumar con Cobertura Efectiva Básica (CEB)
+2026-11-05,dataset,missing,explotaciones-agropecuarias-segun-censo-nacional-agropecuario-anos-1988-2002-2008,"Censo - Explotaciones agropecuarias CNA 88, 02 y 08"
+2026-11-05,dataset,missing,embarques-de-oleaginosas-y-cereales,Embarques de Oleaginosas y Cereales
+2026-11-05,dataset,missing,fondos-comunes-de-inversion,Fondos Comunes de Inversión
+2026-11-05,dataset,missing,informes-estadisticos-del-sector-electrico-quinquenales-y-decenales,Informes Estadísticos del Sector Eléctrico (Quinquenales y Decenales)
+2026-11-05,dataset,missing,brasil-tipo-de-cambio-nominal-y-real,Brasil Tipo de cambio nominal y real
+2026-11-05,dataset,missing,tasas-de-sifilis-por-100-mil-habitantes-por-sexo-y-jurisdiccion-de-residencia,Tasas de sífilis por 100 mil habitantes por sexo y jurisdicción de residencia
+2026-11-05,dataset,missing,areas-protegidas-de-categoria-internacional,Áreas protegidas de categoría internacional
+2026-11-05,dataset,missing,renuncias-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional,Renuncias de magistrados de la Justicia Federal y de la Justicia Nacional
+2026-11-05,dataset,missing,conectividad-aerea,Conectividad Aérea
+2026-11-05,dataset,missing,distribucion-personal-del-ingreso-coeficiente-de-gini-y-brecha-de-ingreso,Distribución Personal del Ingreso. Coeficiente de Gini y Brecha de Ingreso.
+2026-11-05,dataset,missing,informe-analisis-de-la-demanda-electrica-del-primer-semestre-de-2017,Informe: Análisis de la demanda eléctrica del  primer semestre de 2017
+2026-11-05,dataset,missing,indice-de-precios-implicitos-del-valor-agregado-bruto-base-1993,Índice de precios implícitos del Valor Agregado Bruto. Base 1993
+2026-11-05,dataset,missing,archivos-recibidos-de-los-poderes-judiciales-provinciales-justicia-no-penal,Archivos recibidos de los poderes judiciales provinciales - Justicia no penal
+2026-11-05,dataset,missing,disponibilidad-de-agua,Disponibilidad de agua
+2026-11-05,dataset,missing,registro-de-viajes-financiados-por-terceros,Registro de viajes financiados por terceros
+2026-11-05,dataset,missing,coeficiente-de-variacion-salarial-cvs,Coeficiente de Variación Salarial (CVS)
+2026-11-05,dataset,missing,finanzas,Finanzas
+2026-11-05,dataset,missing,registro-de-institutos-de-vida-consagrada,Registro de Institutos de Vida Consagrada
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central-2020,Compras y contrataciones de Nivel Central 2020
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2011,Encuesta Permanente de Hogares (EPH). 2011
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-eepp-pami-fondos-fiduciarios-y-otros-base-caja,"Esquema Ahorro - Inversión - Financiamiento. EEPP, PAMI, Fondos Fiduciarios y Otros. Base Caja"
+2026-11-05,dataset,missing,flujopromedio,"Flujo Promedio Entregado vs. Capacidad Nominal de Transporte, por Gasoducto"
+2026-11-05,dataset,missing,saldo-comercial-clasificado-el-nomenclador-comun-del-mercosur-ncm,Saldo comercial clasificado el Nomenclador Común del Mercosur (NCM)
+2026-11-05,dataset,missing,presupuesto,Presupuesto institucional
+2026-11-05,dataset,missing,sistema-sociodemografico-cuidados,Sistema sociodemográfico - Cuidados
+2026-11-05,dataset,missing,localidades-bahra,Localidades BAHRA
+2026-11-05,dataset,missing,exigencias-de-encaje-o-liquidez,Exigencias de encaje o liquidez
+2026-11-05,dataset,missing,instalaciones-hidrocarburos-instalaciones-res-318,Instalaciones de hidrocarburos - Instalaciones empadronadas Res. 318/2010
+2026-11-05,dataset,missing,organigrama,Organigrama
+2026-11-05,dataset,missing,sexta-encuesta-para-estudiantes-de-ensenanza-media-2014,Sexta Encuesta para Estudiantes de Enseñanza Media- 2014
+2026-11-05,dataset,missing,puntos-carga-sube,Puntos de Carga SUBE
+2026-11-05,dataset,missing,productos-y-sustancias-quimicas,Productos y sustancias químicas
+2026-11-05,dataset,missing,centrales-electricas,Centrales Eléctricas
+2026-11-05,dataset,missing,indice-de-volumen-fisico-ivf,Índice de Volumen Físico (IVF)
+2026-11-05,dataset,missing,codigos-geograficos-del-indec-2022,Códigos geográficos del INDEC 2022
+2026-11-05,dataset,missing,estructura-de-poblacion-de-origen-extranjero,Estructura de poblacion de origen extranjero
+2026-11-05,dataset,missing,economia,Economía
+2026-11-05,dataset,missing,lino-con-destino-industria,Lino - Destino industrial
+2026-11-05,dataset,missing,actividad-energetica,Actividad energética
+2026-11-05,dataset,missing,expectativas-de-inflacion,Expectativas de Inflación
+2026-11-05,dataset,missing,irradiancia-normal-directa,Energías renovables - Irradiancia normal directa
+2026-11-05,dataset,missing,estadistica-de-designaciones-de-magistrados-de-la-justicia-federal-y-nacional-por-genero,Estadística de designaciones de magistrados de la Justicia Federal y Nacional por género
+2026-11-05,dataset,missing,geologia-climatologia-isobatas,Geología Climatología Isobatas
+2026-11-05,dataset,missing,datos-demograficos-y-de-salud-en-la-cuenca-matanza-riachuelo,Datos Demográficos y de Salud en la Cuenca Matanza Riachuelo
+2026-11-05,dataset,missing,plantas-productoras-y-refinadoras-de-aceite-vegetal,Plantas Productoras y Refinadoras de Aceite Vegetal
+2026-11-05,dataset,missing,agregados-monetarios,Agregados monetarios
+2026-11-05,dataset,missing,metodos-labranza-segun-censo-nacional-agropecuario-2002,Censo - Métodos de labranza CNA 02
+2026-11-05,dataset,missing,senasa-movimientos-piscicola,SENASA - Movimientos piscícola
+2026-11-05,dataset,missing,salto-grande,Salto Grande
+2026-11-05,dataset,missing,valor-agregado-bruto-a-precios-basicos-por-rama-de-actividad-economica,Valor Agregado Bruto a precios básicos por rama de actividad económica
+2026-11-05,dataset,missing,designaciones-de-magistrados-de-la-justicia-federal-y-la-justicia-nacional,Designaciones de magistrados de la Justicia Federal y de la Justicia Nacional
+2026-11-05,dataset,missing,archivo-1996-2016-indicadores-de-empresas-privadas-oede,Archivo 1996-2016: Indicadores de Empresas privadas (OEDE)
+2026-11-05,dataset,missing,actividad-minera,Actividad minera
+2026-11-05,dataset,missing,estaciones-de-bombeo,Estaciones de Bombeo
+2026-11-05,dataset,missing,indice-de-precios-internos-basicos-al-por-mayor-dic-2015-100,Índice de Precios Internos Básicos al por Mayor. Dic-2015 = 100
+2026-11-05,dataset,missing,indice-de-precios-implicitos-del-producto-interno-bruto-ipi-pib-base-1993-serie-discontinuada,Índice de Precios Implícitos del Producto Interno Bruto (IPI-PIB). Base 1993. (SERIE DISCONTINUADA)
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-nacional-urbano-ipc-nu-base-10-2013-9-2014-serie-discontinuada,Índice de Precios al Consumidor Nacional Urbano (IPC-NU). Base 10/2013 - 9/2014. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,lacteos-importaciones,Lácteos - Importaciones
+2026-11-05,dataset,missing,regimen-especial-de-compras-y-contrataciones-a-proveedores-sociales-y-mipymes,Régimen Especial de Compras y Contrataciones a Proveedores Sociales y MiPyMEs
+2026-11-05,dataset,missing,distribucion-gas-concesiones-de-empresas-distribuidoras,Distribución de gas natural - Concesiones de empresas distribuidoras
+2026-11-05,dataset,missing,poderes-judiciales-causas-penales,Poderes judiciales - Causas penales
+2026-11-05,dataset,missing,derecho-de-autor-publicaciones-periodicas,Derecho de autor. Publicaciones periódicas
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2020,Encuesta Permanente de Hogares (EPH). 2020
+2026-11-05,dataset,missing,anuarios-de-cooperativas-electricas,Anuarios de Cooperativas Eléctricas
+2026-11-05,dataset,missing,indice-de-precios-internos-al-por-mayor-ipim-serie-discontinuada,Índice de Precios Internos al por Mayor (IPIM). SERIE DISCONTINUADA
+2026-11-05,dataset,missing,calidad-del-aire,Calidad del aire
+2026-11-05,dataset,missing,registro-nacional-de-cultos,Registro Nacional de Cultos
+2026-11-05,dataset,missing,publicidad-oficial,Publicidad Oficial
+2026-11-05,dataset,missing,ingreso-de-la-inversion-extranjera-directa-por-sector-bcra,Ingreso de la inversión extranjera directa por sector - BCRA
+2026-11-05,dataset,missing,primer-relevamiento-nacional-de-dispositivos-2022,Primer Relevamiento nacional de dispositivos - 2022
+2026-11-05,dataset,missing,censo-maquinaria-cna-02,Censo - Maquinaria CNA 02
+2026-11-05,dataset,missing,sector-teatral,Sector teatral
+2026-11-05,dataset,missing,cuentas-nacionales-1980-1996,Cuentas Nacionales 1980-1996
+2026-11-05,dataset,missing,tipo-de-cambio-usd-futuro-dolar,Tipo de Cambio $-USD - Futuro Dólar
+2026-11-05,dataset,missing,tendencia-poblacional-de-biodiversidad,Tendencia poblacional de biodiversidad
+2026-11-05,dataset,missing,relevamiento-de-expectativas-de-mercado-rem,Relevamiento de Expectativas de Mercado (REM)
+2026-11-05,dataset,missing,contratar-historico,Contratar (histórico)
+2026-11-05,dataset,missing,embargos-y-levantamiento-de-embargos-de-autos,Embargos y levantamiento de embargos de autos
+2026-11-05,dataset,missing,establecimientos-de-seguimiento-particular-en-la-cuenca-matanza-riachuelo-2016-2023,Establecimientos de Seguimiento Particular en la Cuenca Matanza Riachuelo (2016-2023)
+2026-11-05,dataset,missing,salarios-promedio-y-mediano-por-sector-de-actividad,"Salarios promedio y mediano, por sector de actividad"
+2026-11-05,dataset,missing,poblacion-nacionalizada-en-argentina,Población Nacionalizada en Argentina
+2026-11-05,dataset,missing,analisis-de-distribucion-espacial-de-los-dispositivos-de-la-red-sedronar-2023,Análisis de distribución espacial de los dispositivos de la red sedronar - 2023
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20151,Resultados Provisionales Elecciones 2015
+2026-11-05,dataset,missing,ventas-internas-bioetanol-por-tipo-insumo,Biocombustible - Ventas internas de bioetanol por tipo de insumo
+2026-11-05,dataset,missing,linea-137-victimas-de-violencia-familiar,Línea 137 - víctimas de violencia familiar - llamados e intervenciones domiciliarias
+2026-11-05,dataset,missing,distribucion-geografica-de-los-establecimientos-productivos,Distribución geográfica de los establecimientos productivos
+2026-11-05,dataset,missing,indice-de-precios-internos-basicos-del-productor-serie-discontinuada,Índice de Precios Internos Básicos del Productor. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,remuneracion-neta-por-sector-de-actividad-economica-en-el-sector-privado,Remuneración neta por sector de actividad económica en el sector privado
+2026-11-05,dataset,missing,informacion-socioeconomica-areas-urbanas-segun-calles-osm,Información Socioeconómica Áreas Urbanas Según Calles OSM
+2026-11-05,dataset,missing,the-beginning-of-the-transformation,The beginning of the transformation
+2026-11-05,dataset,missing,perforacion-de-pozos-de-petroleo-y-gas,Perforación de pozos de petróleo y gas
+2026-11-05,dataset,missing,acopio-tabaco,Tabaco - Acopio
+2026-11-05,dataset,missing,poblacion-con-ingresos-por-debajo-de-la-linea-de-pobreza-eph-puntual-y-continua,Población con ingresos por debajo de la línea de pobreza. EPH puntual y continua.
+2026-11-05,dataset,missing,innovacion-productiva-empresas-que-mas-invierten-en-id-a-nivel-mundial,Innovación productiva: empresas que más invierten en I+D a nivel mundial
+2026-11-05,dataset,missing,maiz-con-destino-industria,Maíz - Destino industrial
+2026-11-05,dataset,missing,unidades-territoriales,Unidades Territoriales
+2026-11-05,dataset,missing,censos-docentes,Censos Docentes
+2026-11-05,dataset,missing,lista-aeropuertos,Lista de Aeropuertos
+2026-11-05,dataset,missing,espacios-de-genero-en-las-carteras-de-produccion-provinciales,Espacios de género en las carteras de producción provinciales
+2026-11-05,dataset,missing,estadistica-de-tramites-de-maquinarias,Estadística de trámites de maquinarias
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-continua-subocupacion-demandante,Principales variables ocupacionales. EPH continua. Subocupación demandante
+2026-11-05,dataset,missing,base-de-datos-de-la-3-encuesta-mundial-de-salud-escolar-emse-con-resultados-nacionales-argentin,"Base de datos de la 3° Encuesta Mundial de Salud Escolar (EMSE) con resultados nacionales, Argentina"
+2026-11-05,dataset,missing,programa-potenciar-industria-del-videojuego,Programa POTENCIAR INDUSTRIA DEL VIDEOJUEGO
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2005,Presupuesto de la Administración Pública Nacional 2005.
+2026-11-05,dataset,missing,emisiones-de-gases-de-efecto-invernadero-gei,Emisiones de gases de efecto invernadero (GEI)
+2026-11-05,dataset,missing,asentamientos-humanos-sistemas-de-ciudades-e-infraestructuras-equipamiento-educativo,"Asentamientos humanos, sistemas de ciudades e infraestructuras - Equipamiento educativo"
+2026-11-05,dataset,missing,encuesta-viajes-turismo-hogares-evyth,Encuesta de Viajes y Turismo de los Hogares (EVyTH)
+2026-11-05,dataset,missing,comunicaciones-moviles,Comunicaciones Móviles
+2026-11-05,dataset,missing,produccion-hidrocarburos-lotes-de-explotacion,Producción de hidrocarburos - Lotes de Explotación
+2026-11-05,dataset,missing,comercio-de-minerales-de-argentina-siacam,Comercio de Minerales de Argentina (SIACAM)
+2026-11-05,dataset,missing,evolucion-de-la-demanda-de-grandes-usuarios,Evolución de la Demanda Eléctrica de Grandes Usuarios - Discontinuado
+2026-11-05,dataset,missing,normativa-acumar,Normativa de ACUMAR
+2026-11-05,dataset,missing,notificacion-de-casos-de-vih,Notificación de casos de VIH
+2026-11-05,dataset,missing,actas-de-recepcion-de-vacunas-covid-19,Actas de recepción de vacunas COVID-19
+2026-11-05,dataset,missing,encuesta-mundial-de-tabaquismo-en-adultos-emta-2012,Encuesta Mundial de Tabaquismo en Adultos (EMTA) 2012
+2026-11-05,dataset,missing,capacitacion-sobre-plataformas,Capacitación sobre plataformas
+2026-11-05,dataset,missing,puestos-de-trabajo-declarados-por-sector-provincia,Puestos de trabajo declarados  por sector provincia
+2026-11-05,dataset,missing,empleo-registrado-del-sector-privado-por-sector-de-actividad,"Empleo registrado del sector privado, por sector de actividad."
+2026-11-05,dataset,missing,sistema-ferroviario-integrado-sifer,Sistema Ferroviario Integrado (SIFER)
+2026-11-05,dataset,missing,consultas-de-datasets,Consultas de datasets
+2026-11-05,dataset,missing,produccion-gas-natural-desde-1950,Producción Gas Natural desde 1950
+2026-11-05,dataset,missing,tabla-de-conversion-de-radios-censales-2001-2010,Tabla de conversión de radios censales 2001-2010
+2026-11-05,dataset,missing,produccion-de-glp-por-planta,Producción de GLP por planta
+2026-11-05,dataset,missing,canasta-basica-total-regiones-del-pais,Canasta básica total. Regiones del país
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2010,Presupuesto de la Administración Pública Nacional 2010.
+2026-11-05,dataset,missing,limites-maritimos-internacionales-onu-2016,Límites maritimos internacionales ONU 2016
+2026-11-05,dataset,missing,mediaciones-prejudiciales-y-judiciales,Listado de mediaciones prejudiciales y judiciales. Ley 26.589
+2026-11-05,dataset,missing,cobertura-satelite-arsat-1,Cobertura Satélite ARSAT-1
+2026-11-05,dataset,missing,residuos-solidos-urbanos,Residuos Sólidos Urbanos
+2026-11-05,dataset,missing,indices-bursatiles-argentina-desagregacion-sectorial,Indices Bursátiles Argentina. Desagregación sectorial
+2026-11-05,dataset,missing,redes-de-distribucion-electrica-del-consejo-federal,Redes de distribución eléctrica
+2026-11-05,dataset,missing,porcentaje-de-puestos-ocupados-por-mujeres-sobre-la-poblacion-joven-por-sector-y-provincia,"Porcentaje de puestos ocupados por mujeres sobre la población joven, por sector y provincia."
+2026-11-05,dataset,missing,archivo-2003-2019-indicadores-sectoriales-de-automotores,Archivo 2003-2019: Indicadores Sectoriales de Automotores
+2026-11-05,dataset,missing,asistencia-de-emergencia-al-trabajo-y-la-produccion,Asistencia de Emergencia al Trabajo y la Producción
+2026-11-05,dataset,missing,anuario-exportaciones-frutas,Frutas - Anuario de exportaciones
+2026-11-05,dataset,missing,crucerismo-maritimo,Crucerismo Marítimo
+2026-11-05,dataset,missing,consolidacion-del-camino-de-sirga,Consolidación del Camino de Sirga
+2026-11-05,dataset,missing,vigilancia-de-chagas-agudo-vectorial,Vigilancia de Chagas agudo vectorial
+2026-11-05,dataset,missing,publicaciones-cammesa,Datos de la Compañía Administradora del Mercado Mayorista Eléctrico S.A. (CAMMESA)
+2026-11-05,dataset,missing,titulos-publicos-de-deuda,Títulos Públicos de Deuda
+2026-11-05,dataset,missing,encuesta-nacional-de-gastos-de-los-hogares-1996-1997,Encuesta Nacional de Gastos de los Hogares 1996-1997
+2026-11-05,dataset,missing,produccion-hidrocarburos-concesiones-de-explotacion,Producción de hidrocarburos - Concesiones de Explotación
+2026-11-05,dataset,missing,aeropuertosargentina,Aeropuertos
+2026-11-05,dataset,missing,cuenta-corriente-del-balance-de-pagos-flujos-monetarios,Cuenta Corriente del Balance de Pagos. Flujos monetarios
+2026-11-05,dataset,missing,encuesta-ocupacion-hotelera-parahotelera-eoh,Encuesta de Ocupación Hotelera y Parahotelera (EOH)
+2026-11-05,dataset,missing,produccion-bioetanol-por-insumo-utilizado,Biocombustible - Producción por insumo bioetanol
+2026-11-05,dataset,missing,mercado-postal1,Mercado Postal
+2026-11-05,dataset,missing,principales-tasas-de-interes,Principales tasas de interés
+2026-11-05,dataset,missing,prestaciones-de-la-seguridad-social-seguimiento-fisico-financiero,Prestaciones de la seguridad social. Seguimiento Físico-Financiero.
+2026-11-05,dataset,missing,modulo-de-la-eahu-sobre-trabajo-no-remunerado-y-uso-del-tiempo-tercer-trimestre-2013,Módulo de la EAHU sobre Trabajo No Remunerado y Uso del Tiempo - Tercer trimestre 2013
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central-2021,Compras y contrataciones de Nivel Central 2021
+2026-11-05,dataset,missing,derecho-de-autor-registro-de-obras-publicadas,Derecho de autor. Registro de obras publicadas
+2026-11-05,dataset,missing,precios-bioetanol,Precios de bioetanol
+2026-11-05,dataset,missing,oralidad-en-los-procesos-civiles,Oralidad en los procesos civiles
+2026-11-05,dataset,missing,energias-renovables-balance-por-radio-censal-de-energia-derivada-de-la-biomasa-wisdom,Energías Renovables - Balance por radio censal de Energía derivada de la Biomasa WISDOM
+2026-11-05,dataset,missing,preservacion-de-resultados-electorales,Preservación de Resultados Electorales
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-provincia-de-santa-fe-base-2014-100,Índice de Precios al Consumidor de la Provincia de Santa Fe. Base 2014 = 100
+2026-11-05,dataset,missing,soporte-de-plataformas,Soporte de plataformas
+2026-11-05,dataset,missing,consumo-cultural-privado,Cuente satélite de Cultura: consumo cultural privado
+2026-11-05,dataset,missing,convenio-con-laboratorios,Convenio con laboratorios
+2026-11-05,dataset,missing,politica-de-ingresos-prestaciones-de-la-seguridad-social-anses,Política de Ingresos. Prestaciones de la seguridad social. ANSES
+2026-11-05,dataset,missing,plan-de-apertura-de-datos-del-ministerio-de-desarrollo-productivo,Plan de Apertura de Datos del Ministerio de Desarrollo Productivo
+2026-11-05,dataset,missing,estimador-mensual-industrial-emi-variaciones-interanuales-base-2004,Estimador Mensual Industrial (EMI). Variaciones Interanuales. Base 2004
+2026-11-05,dataset,missing,archivo-1992-2019-indicadores-sectoriales-de-acero,Archivo 1992-2019: Indicadores Sectoriales de Acero
+2026-11-05,dataset,missing,superficie-implantada-con-vinedos-republica-argentina,INV - Superficie implantada con viñedos
+2026-11-05,dataset,missing,senasa-existencias-bovinas,SENASA - Existencias de bovinos
+2026-11-05,dataset,missing,graduados-universitarios-del-sistema-araucano-2016-2018,Graduados universitarios del sistema Araucano (2016-2018)
+2026-11-05,dataset,missing,creditos,Créditos
+2026-11-05,dataset,missing,telefonia-fija,Telefonía Fija
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-continua-desempleo,Principales variables ocupacionales. EPH continua. Desempleo
+2026-11-05,dataset,missing,feriados-nacionales,Feriados Nacionales
+2026-11-05,dataset,missing,puntos-de-cultura,Puntos de Cultura
+2026-11-05,dataset,missing,ventas-en-centros-de-compras-nacional,Ventas en centros de compras nacional
+2026-11-05,dataset,missing,cantidad-de-capacitaciones-y-personas-capacitadas-en-la-tematica-de-diversidad-sexual-y-corpora,Cantidad de capacitaciones y personas capacitadas en la temática de diversidad sexual y corporal
+2026-11-05,dataset,missing,emisiones-de-co2-producidas-por-centrales-termicas-de-generacion-electrica,Emisiones de CO2. Producidas por centrales térmicas de generación eléctrica
+2026-11-05,dataset,missing,indicadores-anuales-sector-bovino,Ganadería - Indicadores bovinos anuales
+2026-11-05,dataset,missing,tabla-de-conversion-de-radios-censales-2010-2022,Tabla de conversión de radios censales 2010-2022
+2026-11-05,dataset,missing,mapas-historicos,Mapas históricos de Argentina
+2026-11-05,dataset,missing,faena-aviar,Aves - Faena aviar
+2026-11-05,dataset,missing,transporte-hidrocarburos-ductos-troncales-gasoductos,Gasoductos (ENARGAS)
+2026-11-05,dataset,missing,padron-1104,Padrón según Resolución 1104/2004
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2005,Encuesta Permanente de Hogares (EPH). 2005
+2026-11-05,dataset,missing,importaciones-segun-el-nomenclador-comun-del-mercosur-ncm,Importaciones según el Nomenclador Común del Mercosur (NCM)
+2026-11-05,dataset,missing,evaluacion-integral-de-salud-ambiental-en-la-cuenca-matanza-riachuelo,Evaluación Integral de Salud Ambiental en Áreas de Riesgo (EISAAR) en la Cuenca Matanza Riachuelo
+2026-11-05,dataset,missing,produccion-de-carne-aviar,Aves - Producción de carne aviar
+2026-11-05,dataset,missing,archivo-2018-indicadores-de-comercio-exterior,Archivo 2018: Indicadores de Comercio Exterior
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-tesoro-nacional-base-caja,Esquema Ahorro - Inversión - Financiamiento. Tesoro Nacional. Base Caja.
+2026-11-05,dataset,missing,aspectos-socioeconomicos-de-la-poblacion,Aspectos socioeconómicos de la población
+2026-11-05,dataset,missing,sistema-sociodemografico-condiciones-habitacionales,Sistema sociodemográfico - Condiciones habitacionales
+2026-11-05,dataset,missing,archivo-2009-2019-indicadores-sectoriales-de-transporte-y-logistica,Archivo 2009-2019: Indicadores Sectoriales de Transporte y Logística
+2026-11-05,dataset,missing,indicadores-de-la-red-de-datos-abiertos-de-la-administracion-publica-nacional-apn,Indicadores de la Red de Datos Abiertos de la Administración Pública Nacional (APN)
+2026-11-05,dataset,missing,produccion-en-el-congreso-preguntas-al-jefe-de-gabinete-de-ministros,Producción en el Congreso | Preguntas al Jefe de Gabinete de Ministros
+2026-11-05,dataset,missing,agricultura-familiar-huertas-por-provincia,Agricultura familiar - Huertas por provincia
+2026-11-05,dataset,missing,warrants-evolucion-certificados-vigentes-desagregados-por-productos,Warrants - Evolución de certificados vigentes desagregados por productos
+2026-11-05,dataset,missing,indice-de-difusion-de-las-exportaciones-por-producto-y-destino,Indice de difusión de las exportaciones por producto y destino
+2026-11-05,dataset,missing,actividad-economica-empleo-y-pobreza-mercado-de-trabajo,"Actividad económica, empleo y pobreza - Mercado de trabajo"
+2026-11-05,dataset,missing,educacion-ambiental,Educación ambiental
+2026-11-05,dataset,missing,base-de-series-de-tiempo-de-la-administracion-publica-nacional,Base de Series de Tiempo de la Administración Pública Nacional
+2026-11-05,dataset,missing,programa-soluciona-ii,Programa SOLUCIONA II
+2026-11-05,dataset,missing,prestaciones-de-la-seguridad-social-cuenta-de-inversion,Prestaciones de la seguridad social. Cuenta de Inversión.
+2026-11-05,dataset,missing,prospectiva,Prospectiva Eléctrica - Discontinuado
+2026-11-05,dataset,missing,oferta-y-demanda-globales-datos-desestacionalizados-base-1993,Oferta y Demanda Globales. Datos desestacionalizados. Base 1993
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2003-2015-documentos-metodologicos-clasificadores-y-codigos,"Encuesta Permanente de Hogares (EPH). 2003-2015. Documentos metodológicos, clasificadores y códigos."
+2026-11-05,dataset,missing,centros-de-dia,Centros de día
+2026-11-05,dataset,missing,monitoreo-de-calidad-del-agua,Monitoreo de calidad del agua
+2026-11-05,dataset,missing,precios-en-surtidor,Precios en Surtidor - Resolución 314/2016
+2026-11-05,dataset,missing,programa-produccion-colaborativa-de-economia-del-conocimiento,Programa Producción Colaborativa de Economía del Conocimiento
+2026-11-05,dataset,missing,salario-promedio-de-la-poblacion-joven-por-sector-de-actividad-y-provincia,Salario promedio de la población joven por sector de actividad y provincia
+2026-11-05,dataset,missing,registro-de-chas-emitidos-resolucion-166-2019,Registro de CHAS Emitidos - Resolución 166/2019
+2026-11-05,dataset,missing,representaciones-sociales,Representaciones sociales
+2026-11-05,dataset,missing,canasta-basica-alimentaria-y-total-ciudad-de-buenos-aires,Canasta básica alimentaria y total. Ciudad de Buenos Aires
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2001,Presupuesto de la Administración Pública Nacional 2001.
+2026-11-05,dataset,missing,cuenta-corriente-del-balance-de-pagos-en-porcentaje-del-producto,Cuenta Corriente del Balance de Pagos. En porcentaje del producto
+2026-11-05,dataset,missing,curriculums-vitae-de-magistrados-para-cubrir-vacantes-en-el-poder-judicial-y-el-ministerio-publ,Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público
+2026-11-05,dataset,missing,areas-protegidas-nacionales,Áreas protegidas nacionales
+2026-11-05,dataset,missing,glp,GLP - Paridad de Exportación de referencia
+2026-11-05,dataset,missing,archivo-2013-2019-indicadores-sectoriales-de-motos,Archivo 2013-2019: Indicadores Sectoriales de Motos
+2026-11-05,dataset,missing,remuneracion-bruta-de-los-asalariados-registrados-del-sector-privado,Remuneración bruta de los asalariados registrados del sector privado
+2026-11-05,dataset,missing,inscripciones-iniciales-de-autos,Inscripciones iniciales de autos
+2026-11-05,dataset,missing,destino-produccion-leche,Lácteos - Destino de producción de leche
+2026-11-05,dataset,missing,investigacion-y-desarrollo-id,Investigación y Desarrollo (I+D)
+2026-11-05,dataset,missing,produccion-de-glp,Producción de GLP
+2026-11-05,dataset,missing,datos-operativos-de-gas-natural,Datos Operativos de Gas Natural
+2026-11-05,dataset,missing,produccion-carne-bovina,Ganadería - Producción de carne bovina
+2026-11-05,dataset,missing,centros-acopio-granos,Granos - Centros de acopio
+2026-11-05,dataset,missing,porc-de-cobertura-de-la-vacuna-triple-viral-srp-sarampion-parotiditis-o-paperas-y-rubeola,"Porc. de Cobertura de la vacuna Triple Viral (SRP). Sarampión, Parotiditis o Paperas y Rubeóla."
+2026-11-05,dataset,missing,exploracion-hidrocarburos-cuencas-sedimentarias,Exploración Hidrocarburos Cuencas Sedimentarias
+2026-11-05,dataset,missing,sistema-sociodemografico-grupos-poblacionales-e-inequidades,Sistema sociodemográfico - Grupos poblacionales e inequidades
+2026-11-05,dataset,missing,calidad-higienico-sanitaria-de-la-produccion-de-leche-cruda-a-nivel-provincial,Lácteos - Calidad higiénico sanitaria de la leche cruda a nivel provincial
+2026-11-05,dataset,missing,produccion-hidrocarburos-puntos-de-venteo-declarados,Producción de hidrocarburos - Puntos de Venteo Declarados
+2026-11-05,dataset,missing,distribucion-electrica-apelp-la-pampa-mt-lineas,Distribución Eléctrica Apelp La Pampa Media Tensión  Líneas
+2026-11-05,dataset,missing,regimenes-tenencia-tierra-segun-censo-nacional-agropecuario-2002,Censo - Tenencia de tierra CNA 02
+2026-11-05,dataset,missing,importaciones-en-el-marco-del-regimen-de-inversiones-mineras,Importaciones en el marco del régimen de inversiones mineras
+2026-11-05,dataset,missing,archivo-2004-2018-indicador-mensual-de-inversion,Archivo 2004-2018: Indicador Mensual de Inversión
+2026-11-05,dataset,missing,produccion-nacional-fiscalizada-por-especies-registrada-inase,INASE- Producción nacional de semilla fiscalizada
+2026-11-05,dataset,missing,precio-promedio-litro-leche-pagado-al-productor,Lácteos - Precio promedio del litro de leche
+2026-11-05,dataset,missing,portabilidad,Portabilidad
+2026-11-05,dataset,missing,cuenta-satelite-de-cultura-puestos-de-trabajo-privados,Cuenta Satélite de Cultura: puestos de trabajo privados
+2026-11-05,dataset,missing,senasa-movimientos-bovinos,SENASA - Movimientos bovinos
+2026-11-05,dataset,missing,encuesta-nacional-de-victimizacion-2017,Encuesta Nacional de Victimización 2017
+2026-11-05,dataset,missing,compras-covid-19,Compras COVID-19
+2026-11-05,dataset,missing,indices-de-salarios-industriales-basicos-de-convenios-en-la-capital-federal,Índices de salarios industriales básicos de convenios en la Capital Federal.
+2026-11-05,dataset,missing,reconversion-industrial,Reconversión industrial
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2015,Presupuesto de la Administración Pública Nacional 2015.
+2026-11-05,dataset,missing,igj-autoridades-genero,IGJ. Autoridades género
+2026-11-05,dataset,missing,vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina,Vacunas contra COVID-19. Dosis Aplicadas en la República Argentina
+2026-11-05,dataset,missing,alimentos-libres-de-gluten,Alimentos Libres de Gluten
+2026-11-05,dataset,missing,girasol-siembra-cosecha-produccion-rendimiento,"Girasol - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,distribucion-personal-del-ingreso-por-deciles,Distribución personal del ingreso por  deciles
+2026-11-05,dataset,missing,produccion-hidrocarburos-yacimientos-segun-profundidad-promedio,Producción Hidrocarburos - Yacimientos Según Profundidad Promedio
+2026-11-05,dataset,missing,balance-de-pagos-en-millones-de-dolares,Balance de pagos en millones de dólares
+2026-11-05,dataset,missing,rendimiento-titulos-del-tesoro-de-estados-unidos,Rendimiento Títulos del Tesoro de Estados Unidos
+2026-11-05,dataset,missing,traslados-de-jueces-de-la-justicia-federal-y-de-la-justicia-nacional,Traslados de jueces de la Justicia Federal y de la Justicia Nacional
+2026-11-05,dataset,missing,censo-nacional-de-poblacion-hogares-y-viviendas-2022,"Censo Nacional de Población, Hogares y Viviendas 2022"
+2026-11-05,dataset,missing,factores-de-explicacion-de-base-monetaria,Factores de explicación de Base Monetaria
+2026-11-05,dataset,missing,generacion-electrica-bruta-asociada-a-redes-desde-1930,Generación Eléctrica Bruta Asociada a redes desde 1930
+2026-11-05,dataset,missing,puntos-digitales,Puntos Digitales
+2026-11-05,dataset,missing,sonidos-y-lenguas-argentina,Sonidos y Lenguas | Argentina
+2026-11-05,dataset,missing,cebada-siembra-cosecha-produccion-rendimiento,"Cebada - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,sistema-sociodemografico-salud,Sistema sociodemográfico - Salud
+2026-11-05,dataset,missing,regimen-de-promocion-de-biotecnologia-moderna,Régimen de Promoción de Biotecnología Moderna
+2026-11-05,dataset,missing,pib-subtotal-agricola-en-millones-de-pesos-de-1960,PIB Subtotal Agrícola en millones de pesos de 1960
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-instituciones-de-la-seguridad-social-base-caja,Esquema Ahorro - Inversión - Financiamiento. Instituciones de la Seguridad Social. Base Caja.
+2026-11-05,dataset,missing,porcentaje-de-tabaco-claro-y-oscuro-en-cigarrillos,Tabaco - Porcentaje de tabaco claro y oscuro en cigarrillos
+2026-11-05,dataset,missing,ley-yolanda,Ley Yolanda
+2026-11-05,dataset,missing,cebada-con-destino-industria,Cebada - Destino industrial
+2026-11-05,dataset,missing,indice-de-precios-implicitos-del-producto-interno-bruto-ipi-pib-base-2004,Índice de Precios Implícitos del Producto Interno Bruto (IPI - PIB). Base 2004
+2026-11-05,dataset,missing,sio-carnes,SIO Carnes
+2026-11-05,dataset,missing,sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires-agregado,"SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado"
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2007,Encuesta Permanente de Hogares (EPH). 2007
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2009,Presupuesto de la Administración Pública Nacional 2009.
+2026-11-05,dataset,missing,aprender-2023,Aprender 2023
+2026-11-05,dataset,missing,esquema-ahorro-inversion-financiamiento-organismos-descentralizados-base-caja,Esquema Ahorro - Inversión - Financiamiento. Organismos Descentralizados. Base Caja.
+2026-11-05,dataset,missing,entidades-aseguradoras-en-proceso-de-liquidacion,Entidades aseguradoras en proceso de liquidación
+2026-11-05,dataset,missing,trigo-candeal-con-destino-industria,Trigo candeal - destino industrial
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2012,Encuesta Permanente de Hogares (EPH). 2012
+2026-11-05,dataset,missing,suicidios-sistema-de-alerta-temprana-estadisticas-criminales-en-la-republica-argentina,Suicidios. Sistema de Alerta Temprana. Estadísticas criminales en la República Argentina.
+2026-11-05,dataset,missing,indices-bursatiles-argentina,Índices Bursátiles Argentina
+2026-11-05,dataset,missing,estrenos-de-cine-en-argentina,Estrenos de cine en Argentina
+2026-11-05,dataset,missing,encuesta-nacional-de-factores-de-riesgo-enfr-2018,Encuesta Nacional de Factores de Riesgo (ENFR) 2018
+2026-11-05,dataset,missing,soja-siembra-cosecha-produccion-rendimiento,"Soja - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2022,Base de Datos por Escuela 2022
+2026-11-05,dataset,missing,diccionario-panamericano-oima-region-cono-sur,"Internacional - Diccionario Panamericano OIMA, Región Cono Sur"
+2026-11-05,dataset,missing,tasa-de-empleo-por-aglomerado-1974-2003,Tasa de Empleo por aglomerado 1974-2003
+2026-11-05,dataset,missing,centros-de-almacenamiento-transitorio-de-envases-de-productos-fitosanitarios,Producciones Sostenibles - Centros de almacenamiento transitorio envases productos fitosanitarios
+2026-11-05,dataset,missing,puestos-de-trabajo-declarados-por-sector-de-actividad-economica,Puestos de trabajo declarados  por sector de actividad económica
+2026-11-05,dataset,missing,ahorro-del-resto-del-mundo-base-2004,Ahorro del resto del mundo. Base 2004
+2026-11-05,dataset,missing,hogares-con-ingresos-por-debajo-de-la-linea-de-pobreza-eph-puntual-y-continua,Hogares con ingresos por debajo de la línea de pobreza. EPH puntual y continua.
+2026-11-05,dataset,missing,nivel-de-uso-de-prestaciones,Nivel de uso de prestaciones
+2026-11-05,dataset,missing,indice-de-calidad-de-vida-icv,Índice de Calidad de Vida (ICV) de la Cuenca Matanza Riachuelo - Actualización 2022
+2026-11-05,dataset,missing,precios-internacionales-de-minerales-del-siacam,Precios Internacionales de Minerales del SIACAM
+2026-11-05,dataset,missing,emisiones-de-gases-de-efecto-invernadero-provenientes-del-agro,"Producciones Sostenibles - Emisiones de GEI provenientes de la agricultura, ganadería y otros"
+2026-11-05,dataset,missing,receta-electronica,Receta electrónica
+2026-11-05,dataset,missing,participacion-de-los-principales-socios-comerciales-en-el-comercio-argentino,Participación de los principales socios comerciales en el comercio argentino
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2014,Encuesta Permanente de Hogares (EPH). 2014
+2026-11-05,dataset,missing,fitosanitarios-provincias-y-autoridades-competentes-ley-27279,Producciones Sostenibles - Autoridades provinciales competentes de aplicación Ley 27.279
+2026-11-05,dataset,missing,caminos-terciarios,Caminos Terciarios
+2026-11-05,dataset,missing,homicidios-dolosos-sistema-de-alerta-temprana-estadisticas-criminales-en-la-republica-argentina,Homicidios dolosos. Sistema de Alerta Temprana. Estadísticas criminales en la República Argentina.
+2026-11-05,dataset,missing,trabajadores-registrados-segun-modalidad-ocupacional-principal-base-2012,Trabajadores registrados según modalidad ocupacional principal. Base 2012
+2026-11-05,dataset,missing,valores-de-la-canasta-basica-de-alimentos-y-canasta-basica-total,Valores de la Canasta Básica de Alimentos  y Canasta Básica Total.
+2026-11-05,dataset,missing,empresas-de-transporte-de-rmba,Empresas de transporte de RMBA
+2026-11-05,dataset,missing,empleo-del-sector-minero-siacam,Empleo del Sector Minero (SIACAM)
+2026-11-05,dataset,missing,mani-siembra-cosecha-produccion-rendimiento,"Maní - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,warrants-lista-certificados-vigentes,Warrants - Lista de certificados vigentes
+2026-11-05,dataset,missing,internet-fija1,Internet Fija
+2026-11-05,dataset,missing,informe-trimestral-de-coyuntura-energetica,Informe Trimestral de Coyuntura Energética
+2026-11-05,dataset,missing,senasa-existencias-caprinas,SENASA - Existencias caprinas
+2026-11-05,dataset,missing,ambito-de-aplicacion-del-tratado-chile-argentina,Ámbito de aplicación del Tratado Argentina–Chile
+2026-11-05,dataset,missing,producciones-de-los-nucleos-de-agricultura-familiar-naf,Agricultura Familiar - Producciones de los núcleos (NAF)
+2026-11-05,dataset,missing,compras-glp,Compras de GLP
+2026-11-05,dataset,missing,cosfer-modelo-de-estimacion-de-costos-ferroviariosdecarga,COSFER (Modelo de Estimación de Costos Ferroviarios de Carga)
+2026-11-05,dataset,missing,salarios-basicos-de-convenio-del-peon-de-la-industria-manufacturera,Salarios básicos de convenio del peón de la industria manufacturera
+2026-11-05,dataset,missing,datos-censo-nacional-agropecuario-1988-2002,Censo - Datos CNA 88 y 02
+2026-11-05,dataset,missing,brasil-pib-oferta-y-demanda-global,Brasil PIB Oferta y demanda global
+2026-11-05,dataset,missing,centeno-con-destino-industria,Centeno - Destino industrial
+2026-11-05,dataset,missing,actas-del-consejo-municipal-de-acumar,Actas del Consejo Municipal de ACUMAR
+2026-11-05,dataset,missing,registro-nacional-de-sociedades,Registro Nacional de Sociedades
+2026-11-05,dataset,missing,cofesa-actas-consejo-federal-de-salud-de-la-republica-argentina,COFESA Actas (Consejo Federal de Salud de la República Argentina)
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20231,Resultados Provisionales Elecciones 2023
+2026-11-05,dataset,missing,estimaciones-agricolas,Agricultura - Estimaciones agrícolas
+2026-11-05,dataset,missing,metodos-anticonceptivos-e-insumos-distribuidos-por-el-pnssyr,Métodos anticonceptivos e insumos distribuidos por el PNSSyR
+2026-11-05,dataset,missing,herramienta-de-consulta-de-aranceles-vigentes,Aranceles - Consulta de aranceles vigentes
+2026-11-05,dataset,missing,senasa-movimientos-avicolas,SENASA - Movimientos avícolas
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2004,Presupuesto de la Administración Pública Nacional 2004.
+2026-11-05,dataset,missing,remuneracion-bruta-de-los-asalariados-registrados-del-sector-privado-segun-rama-de-actividad,Remuneración bruta de los asalariados registrados del sector privado según rama de actividad
+2026-11-05,dataset,missing,tmda,TMDA
+2026-11-05,dataset,missing,exportaciones-azucar,Azúcar - Exportaciones
+2026-11-05,dataset,missing,registro-nacional-de-desarrollo-de-proveedores-redepro,Registro Nacional de Desarrollo de Proveedores (REDEPRO)
+2026-11-05,dataset,missing,variacion-interanual-mediana-en-la-facturacion-de-las-empresas,Variación interanual mediana en la facturación de las empresas
+2026-11-05,dataset,missing,regulaciones-sobre-aplicacion-de-agroquimicos,Producciones Sostenibles - Regulaciones sobre aplicación de fitosanitarios
+2026-11-05,dataset,missing,red-de-datos-abiertos-de-la-administracion-publica-nacional-apn,Red de Datos Abiertos de la Administración Pública Nacional (APN)
+2026-11-05,dataset,missing,vigilancia-de-infecciones-respiratorias-agudas,Vigilancia de Infecciones respiratorias agudas
+2026-11-05,dataset,missing,comunidad-abierta,Comunidad Abierta
+2026-11-05,dataset,missing,inventario-de-biodiversidad,Inventario de biodiversidad
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2024,Presupuesto de la Administración Pública Nacional 2024.
+2026-11-05,dataset,missing,generacion-electrica-centrales-de-generacion,Generación Eléctrica - Centrales de generación
+2026-11-05,dataset,missing,lucha-contra-la-trata-de-personas-llamados-linea-145-orientaciones,Lucha contra la trata de personas - Llamados línea 145 - Orientaciones
+2026-11-05,dataset,missing,registro-unico-de-audiencias-de-gestion-de-intereses,Registro Único de Audiencias de Gestión de Intereses
+2026-11-05,dataset,missing,metodos-riego-segun-censo-nacional-agropecuario-2002,Censo - Métodos de riego CNA 02
+2026-11-05,dataset,missing,indicadores-de-actividad-economica-mensual-de-los-paises-americanos,Indicadores de actividad económica mensual de los países americanos
+2026-11-05,dataset,missing,canasta-basica-alimentaria-regiones-del-pais,Canasta básica alimentaria. Regiones del país
+2026-11-05,dataset,missing,sintesis-del-mercado-electrico-mayorista,Síntesis del Mercado Eléctrico Mayorista (MEM) de la Comisión Nacional de Energía Atómica (CNEA)
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-1997,Presupuesto de la Administración Pública Nacional 1997.
+2026-11-05,dataset,missing,ingreso-nacional-ahorro-nacional-ahorro-externo-y-ahorro-interno-base-1993,"Ingreso nacional, Ahorro nacional, Ahorro externo y Ahorro interno. Base 1993"
+2026-11-05,dataset,missing,operaciones-por-periodo-modo,"SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires, agregado por Periodo-Modo"
+2026-11-05,dataset,missing,cobros-y-pagos-por-tipo-de-servicio-balance-cambiario,Cobros y pagos por tipo de servicio - Balance Cambiario
+2026-11-05,dataset,missing,icse-2022,ICSE 2022
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20191,Resultados Provisionales Elecciones 2019
+2026-11-05,dataset,missing,politica-de-ingresos-prestaciones-de-la-seguridad-social-bess-mtess,Política de Ingresos. Prestaciones de la seguridad social. BESS-MTESS
+2026-11-05,dataset,missing,indice-de-produccion-industrial-manufacturero-ipi,Índice de Producción Industrial Manufacturero (IPI)
+2026-11-05,dataset,missing,cobertura-satelite-arsat-2,Cobertura Satélite ARSAT-2
+2026-11-05,dataset,missing,ingreso-nacional-ahorro-nacional-y-prestamo-neto-base-2004,"Ingreso nacional, Ahorro nacional y Préstamo neto. Base 2004."
+2026-11-05,dataset,missing,servicios-refefo,Servicios REFEFO
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2011,Presupuesto de la Administración Pública Nacional 2011.
+2026-11-05,dataset,missing,operadores_glp,Operadores de GLP
+2026-11-05,dataset,missing,puestos-de-trabajo-registrados-por-sector-de-actividad-economica-en-el-sector-privado,Puestos de trabajo registrados por sector de actividad económica en el sector privado
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-1999,Presupuesto de la Administración Pública Nacional 1999.
+2026-11-05,dataset,missing,registro-nacional-de-investigaciones-en-salud-renis,Registro Nacional de Investigaciones en Salud (RENIS)
+2026-11-05,dataset,missing,estado-del-suelo,Estado del suelo
+2026-11-05,dataset,missing,cinear-play,Cine.Ar Play
+2026-11-05,dataset,missing,transporte-electrico-at-estaciones-transformadoras,Transporte Eléctrico AT Estaciones Transformadoras
+2026-11-05,dataset,missing,indice-de-costo-de-pollos-parrilleros,Aves - Índice del Costo de la Producción de Pollos Parrilleros
+2026-11-05,dataset,missing,despachoenargas,Despacho Diario
+2026-11-05,dataset,missing,utilizacion-de-la-capacidad-instalada-en-la-industria-en-porcentaje-base-2012,Utilización de la capacidad instalada en la industria. En porcentaje. Base 2012
+2026-11-05,dataset,missing,reclamos-sobre-solicitudes-de-acceso-a-la-informacion-publica,Reclamos sobre solicitudes de acceso a la información pública
+2026-11-05,dataset,missing,centros-de-acceso-a-justicia,Centros de Acceso a Justicia -CAJ-
+2026-11-05,dataset,missing,capacitaciones-sobre-salud-y-derechos-sexuales-y-reproductivos-realizadas-por-la-direccion-naci,Capacitaciones sobre Salud y Derechos Sexuales y Reproductivos realizadas por la Dirección Nacional
+2026-11-05,dataset,missing,indice-de-salario-por-obrero-iso-revisado,Índice de Salario por Obrero (ISO) (Revisado)
+2026-11-05,dataset,missing,programa-potenciar-satelital,Programa POTENCIAR Satelital
+2026-11-05,dataset,missing,informe-semanal,Informe Semanal
+2026-11-05,dataset,missing,brasil-actividad-economica-industrial-y-produccion-automotriz,"Brasil Actividad económica, industrial y producción automotriz"
+2026-11-05,dataset,missing,soluciones-habitacionales-terminadas-convenio-marco-2010,Soluciones Habitacionales Terminadas (Convenio Marco 2010)
+2026-11-05,dataset,missing,geologia-y-geografia,Geología y geografía
+2026-11-05,dataset,missing,inv-actividad-vitivinicola,INV - Actividad vitivinícola
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2011,Base de Datos por Escuela 2011
+2026-11-05,dataset,missing,sector-musical,Sector musical
+2026-11-05,dataset,missing,subsidios-sistau,Sistema Integrado de Transporte Automotor (SISTAU)
+2026-11-05,dataset,missing,pozos-de-petroleo-y-metros-perforados,Pozos de petróleo y metros perforados
+2026-11-05,dataset,missing,agencias-ugls,Listado de Unidades de Gestión Local (UGL) y Agencias
+2026-11-05,dataset,missing,salario-real-y-poder-adquisitivo-en-la-industria,Salario real y poder adquisitivo en la Industria.
+2026-11-05,dataset,missing,encuesta-nacional-sobre-consumo-y-practicas-de-cuidado-encoprac-2022,Encuesta nacional sobre consumo y prácticas de cuidado (encoprac) - 2022
+2026-11-05,dataset,missing,tasa-de-desocupacion-por-aglomerado-1974-2003,Tasa de Desocupación por aglomerado 1974-2003
+2026-11-05,dataset,missing,listado-de-prestadores,Listado de prestadores
+2026-11-05,dataset,missing,importaciones-cif-por-uso-economico,Importaciones CIF por Uso Económico
+2026-11-05,dataset,missing,humedales,Humedales
+2026-11-05,dataset,missing,rentabilidad-del-sistema-financiero,Rentabilidad del sistema financiero
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2004,Encuesta Permanente de Hogares (EPH). 2004
+2026-11-05,dataset,missing,puntos-de-conexion-refefo,Puntos de conexión REFEFO
+2026-11-05,dataset,missing,terminales-portuarias,Terminales Portuarias
+2026-11-05,dataset,missing,trigo-pan-con-destino-industria,Trigo pan - destino industrial
+2026-11-05,dataset,missing,clima,Clima
+2026-11-05,dataset,missing,aprender-2021,Aprender 2021
+2026-11-05,dataset,missing,tabaco-rango-de-precios-por-quartil,Tabaco - Rango de precios por quartil
+2026-11-05,dataset,missing,glaciares,Glaciares
+2026-11-05,dataset,missing,comunicaciones-moviles1,Comunicaciones Móviles
+2026-11-05,dataset,missing,cuentas-nacionales-1980-1990,Cuentas Nacionales 1980-1990
+2026-11-05,dataset,missing,ventas-en-centros-de-compras-discontinuado,Ventas en centros de compras (DISCONTINUADO)
+2026-11-05,dataset,missing,instituciones-del-sistema-nacional-de-ciencia-y-tecnologia-argentino,Instituciones del Sistema Nacional de Ciencia y Tecnología Argentino
+2026-11-05,dataset,missing,puestos-de-trabajo-asalariados-registrados-de-la-poblacion-joven-por-sector-de-actividad-y-prov,Puestos de trabajo asalariados registrados de la población joven por sector de actividad y provincia
+2026-11-05,dataset,missing,isotermas-atlas-2002,Isotermas Atlas 2002
+2026-11-05,dataset,missing,ventas-al-mercado-interno-de-produccion-nacional-base-1994,Ventas al Mercado Interno de Producción Nacional. Base 1994
+2026-11-05,dataset,missing,estadisticas-sobre-uso-racional-de-la-fuerza-y-empleo-de-armas-de-fuego-en-fuerzas-federales,Estadísticas sobre uso racional de la fuerza y empleo de armas de fuego en Fuerzas Federales
+2026-11-05,dataset,missing,creditos-aprobados-escalar-2021,Créditos aprobados Escalar 2021
+2026-11-05,dataset,missing,planes-de-apertura-de-datos,Planes de Apertura de Datos
+2026-11-05,dataset,missing,listado-de-areas-de-proteccion-ambiental-apa-en-la-cmr-limite-politico-administrativo,Áreas de Protección Ambiental (APA) en la Cuenca Matanza Riachuelo
+2026-11-05,dataset,missing,actividad-economica-empleo-y-pobreza-ingresos-y-desigualdad,"Actividad económica, empleo y pobreza - Ingresos y desigualdad"
+2026-11-05,dataset,missing,relevamiento-del-indice-de-transparencia-activa,Relevamiento del Índice de Transparencia Activa
+2026-11-05,dataset,missing,conservacion-y-manejo-de-bosques-nativos,Conservación y  manejo de bosques nativos
+2026-11-05,dataset,missing,complejidad-economica-provincial,Complejidad Económica Provincial
+2026-11-05,dataset,missing,plataforma-de-tramites-a-distancia-tad,Plataforma de Trámites a Distancia - TAD
+2026-11-05,dataset,missing,indicadores-mercado,Indicadores del mercado asegurador
+2026-11-05,dataset,missing,recetas-de-medicamentos-esenciales,Recetas de medicamentos esenciales
+2026-11-05,dataset,missing,aprender-2024,Aprender 2024
+2026-11-05,dataset,missing,exploracion-hidrocarburos-lineas-sismicas-2d,Exploración de Hidrocarburos -  Inventario de Líneas Sísmicas 2D
+2026-11-05,dataset,missing,exportaciones-argentinas-de-litio-siacam,Exportaciones argentinas de litio (SIACAM)
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-continua-actividad,Principales variables ocupacionales. EPH continua. Actividad
+2026-11-05,dataset,missing,programa-de-apoyo-al-sistema-productivo-nacional-en-el-area-de-equipamiento-medico-e-insumos-me,Programa de Apoyo al Sistema Productivo Nacional en el Área de Equipamiento Médico e Insumos Médicos
+2026-11-05,dataset,missing,recuento-de-celulas-somaticas-lecheria,Lácteos - Calidad higiénico sanitaria de la leche cruda a nivel departamental
+2026-11-05,dataset,missing,valor-de-entrada-promedio,Valor de entrada promedio
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2025,Presupuesto de la Administración Pública Nacional 2025.
+2026-11-05,dataset,missing,distribucion-electrica-areas-de-distribucion-de-cooperativas,Distribución Eléctrica - Áreas de distribución de cooperativas
+2026-11-05,dataset,missing,solicitudes-de-acceso-a-la-informacion-publica-en-el-ministerio-de-justicia-y-derechos-humanos,Solicitudes de acceso a la información pública en el Ministerio de Justicia y Derechos Humanos
+2026-11-05,dataset,missing,remuneracion-total-por-sector-de-actividad-economica-en-el-sector-privado,Remuneración total por sector de actividad económica en el sector privado
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2016,Presupuesto de la Administración Pública Nacional 2016.
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-puntual-y-continua,Principales variables ocupacionales. EPH puntual y continua.
+2026-11-05,dataset,missing,senasa-movimientos-camelidos,SENASA - Movimientos camélidos
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2023,Encuesta Permanente de Hogares (EPH). 2023
+2026-11-05,dataset,missing,cuencas-hidricas-cohife,Cuencas Hídricas - COHIFE
+2026-11-05,dataset,missing,flujos-monetarios-netos-de-inversion-extranjera-directa,Flujos monetarios netos de Inversión Extranjera Directa
+2026-11-05,dataset,missing,productos-forestales,Productos forestales
+2026-11-05,dataset,missing,vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina-registro-desagregado,Vacunas contra COVID-19. Dosis Aplicadas en la República Argentina - Registro desagregado
+2026-11-05,dataset,missing,yerba-mate-siembra-cosecha-produccion-rendimiento,"Yerba mate - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,elaboracion-de-combustibles,Elaboración de combustibles
+2026-11-05,dataset,missing,resultados-del-indice-de-transparencia-activa,Resultados del Índice de Transparencia Activa
+2026-11-05,dataset,missing,red-de-datos-abiertos-de-las-provincias-argentinas,Red de Datos Abiertos de las Provincias Argentinas
+2026-11-05,dataset,missing,mapa-de-vaca-muerta,Mapa de Vaca Muerta
+2026-11-05,dataset,missing,central-nuclear-en-atucha,Central Nuclear Atucha
+2026-11-05,dataset,missing,instalaciones-hidrocarburos-puertos-regasificadores-de-gnl,Instalaciones de hidrocarburos - Puertos regasificadores de GNL
+2026-11-05,dataset,missing,aprender-2025,Aprender 2025
+2026-11-05,dataset,missing,censo-mano-de-obra-cna-02,Censo - Mano de obra CNA 02
+2026-11-05,dataset,missing,distribucion-electrica-edelap,Distribución Eléctrica Edelap
+2026-11-05,dataset,missing,listado-de-participantes-de-los-sorteos-mi-pieza,Listado de participantes de los Sorteos Mi Pieza
+2026-11-05,dataset,missing,unidad-de-registro-sistematizacion-y-seguimiento-de-hechos-de-violencia-institucional,"Registro, sistematización y seguimiento de hechos de violencia institucional"
+2026-11-05,dataset,missing,establecimientos-vigentes-inscriptos-rncyf-semillas,INASE - Establecimientos vigentes inscriptos en el RNCyFS
+2026-11-05,dataset,missing,degradacion-en-tierras,Degradación en tierras
+2026-11-05,dataset,missing,producto-interno-bruto-a-precios-de-mercado-valor-agregado-bruto-a-precios-de-productor-ba-1993,Producto Interno Bruto a precios de mercado - Valor Agregado Bruto a precios de productor. Base 1993
+2026-11-05,dataset,missing,listado-oficial-de-personal-estrategico-vacunado-contra-covid-19,Listado oficial de personal estratégico vacunado contra COVID-19
+2026-11-05,dataset,missing,indices-de-obreros-ocupados-ioo,Índices de Obreros Ocupados (IOO)
+2026-11-05,dataset,missing,intermediarios-en-reaseguros,Intermediarios en reaseguros
+2026-11-05,dataset,missing,plan-nacional-de-transporte-sostenible,Plan Nacional de Transporte Sostenible - 2023
+2026-11-05,dataset,missing,registro-sistematizacion-y-seguimiento-de-femicidios-y-homicidios-agravados-por-el-genero,"Registro, sistematización y seguimiento de femicidios y homicidios agravados por el género"
+2026-11-05,dataset,missing,actividad-economica-empleo-y-pobreza-estimador-del-empleo-en-la-obra-publica,"Actividad económica, empleo y pobreza - Estimador del Empleo en la Obra Pública"
+2026-11-05,dataset,missing,verificacion-periodica-de-cinemometros,Verificación periódica de cinemómetros
+2026-11-05,dataset,missing,empleo-total-por-aglomerado,Empleo total por aglomerado
+2026-11-05,dataset,missing,entidades-aseguradoras-y-reaseguradoras,Entidades aseguradoras y reaseguradoras
+2026-11-05,dataset,missing,cantidad-de-carga-y-pasajeros,Cantidad de carga y pasajeros
+2026-11-05,dataset,missing,operaciones-sube-hexagonos,"Operaciones de un día hábil promedio agregados en hexágonos,  por Modo de transporte y Hora"
+2026-11-05,dataset,missing,consultas-efectuadas-en-los-centros-de-acceso-a-la-justicia,Consultas efectuadas en los Centros de Acceso a la Justicia -CAJ-
+2026-11-05,dataset,missing,precio-unitario-de-vacunas-covid-19-adquiridas-por-el-ministerio-de-salud-de-la-nacion,Precio unitario de vacunas COVID-19 adquiridas por el Ministerio de Salud de la Nación
+2026-11-05,dataset,missing,senasa-movimientos-bubalinos,SENASA - Movimientos bubalinos
+2026-11-05,dataset,missing,reservas-de-petroleo-y-gas,Reservas de Petróleo y Gas
+2026-11-05,dataset,missing,produccion-aportes-ventas-y-cupos-de-glp,"Producción, aportes, ventas y cupos de Butano"
+2026-11-05,dataset,missing,snic-provincial-estadisticas-criminales-en-la-republica-argentina-por-provincias,SNIC - Provincial. Estadísticas criminales en la República Argentina por provincias
+2026-11-05,dataset,missing,archivo-2014-2019-indicadores-sectoriales-de-industria,Archivo 2014-2019: Indicadores Sectoriales de Industria
+2026-11-05,dataset,missing,remuneracion-total-de-los-puestos-de-trabajo-por-sector-de-actividad-economica,"Remuneración total de los puestos de trabajo, por sector de actividad económica"
+2026-11-05,dataset,missing,warrants-azucar,Azúcar - Warrants
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-provincia-de-tucuman,Índice de Precios al Consumidor de la Provincia de Tucumán.
+2026-11-05,dataset,missing,registro-de-empresas-e-instalaciones-con-tanques-aereos-de-hidrocarburos-liquidos,Registro de empresas e instalaciones con tanques aéreos de hidrocarburos líquidos
+2026-11-05,dataset,missing,poblacion-urbana-poblacion-economicamente-activa-ocupados-desocupados-y-subocupados,"Población Urbana, población económicamente activa, ocupados, desocupados y subocupados"
+2026-11-05,dataset,missing,poder-de-compra-de-las-exportaciones-de-bienes-y-ganancia-del-intercambio-base-2004,Poder de compra de las exportaciones de bienes y ganancia del intercambio. Base 2004
+2026-11-05,dataset,missing,remuneracion-neta-de-los-puestos-de-trabajo-del-sector-privado-por-provincia,"Remuneración neta de los puestos de trabajo del sector privado, por provincia"
+2026-11-05,dataset,missing,encuesta-nacional-de-gastos-de-los-hogares-2004-2005,Encuesta Nacional de Gastos de los Hogares 2004-2005
+2026-11-05,dataset,missing,asentamientos-humanos-sistemas-de-ciudades-e-infraestructuras-urbanizacion-y-ruralidad,"Asentamientos humanos, sistemas de ciudades e infraestructuras - Urbanización y ruralidad"
+2026-11-05,dataset,missing,centeno-siembra-cosecha-produccion-rendimiento,"Centeno - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,registro-de-importacion-del-sector-editorial-rise,Registro de Importación del Sector Editorial (RISE)
+2026-11-05,dataset,missing,covid-19-determinaciones-registradas-en-la-republica-argentina,COVID-19. Determinaciones registradas en la República Argentina
+2026-11-05,dataset,missing,tabaco-evolucion-porcentual-de-ventas-de-cigarrillos-segun-precio,Tabaco - Evolución porcentual de ventas de cigarrillos según precio
+2026-11-05,dataset,missing,residuos-peligrosos,Residuos peligrosos
+2026-11-05,dataset,missing,indice-de-costo-de-la-construccion-icc,Índice de Costo de la Construcción (ICC)
+2026-11-05,dataset,missing,alta-atmosfera,Alta atmósfera
+2026-11-05,dataset,missing,cuentas-nacionales-1970-1980-base-1960,Cuentas Nacionales 1970-1980. Base 1960
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2006,Encuesta Permanente de Hogares (EPH). 2006
+2026-11-05,dataset,missing,regiones-forestales,Regiones forestales
+2026-11-05,dataset,missing,obras-de-gas,Obras de GAS
+2026-11-05,dataset,missing,reclamos-resueltos-distribuidoras-gas-natural,Reclamos resueltos por las Distribuidoras de gas natural
+2026-11-05,dataset,missing,prendas-de-autos,Prendas de autos
+2026-11-05,dataset,missing,actualizaciones-del-vademecun-nacional-de-medicamentos-vnm,Actualizaciones del Vademecun Nacional de Medicamentos (VNM)
+2026-11-05,dataset,missing,precios-de-biodiesel,Precios de biodiesel
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-1998,Presupuesto de la Administración Pública Nacional 1998.
+2026-11-05,dataset,missing,boletin-mensual-de-combustibles,Boletín Mensual de Combustibles - Discontinuado
+2026-11-05,dataset,missing,bovinos-limitantes-tecnologicas-de-la-cria-bovina,Bovinos - Limitantes tecnológicas de la Cría Bovina
+2026-11-05,dataset,missing,puntos-wifi-pais-digital,Puntos WiFi País Digital
+2026-11-05,dataset,missing,estado-del-tiempo-presente,Estado del Tiempo presente
+2026-11-05,dataset,missing,permer-ii,PERMER II
+2026-11-05,dataset,missing,ingreso-familiar-de-emergencia,Ingreso Familiar de Emergencia
+2026-11-05,dataset,missing,financiamiento-de-obras-sociales-nacionales,Financiamiento de Obras Sociales Nacionales
+2026-11-05,dataset,missing,informacion-geografica-del-enargas,Información Geográfica del ENARGAS
+2026-11-05,dataset,missing,instalaciones-hidrocarburos-instalaciones-res-319-93,Instalaciones de hidrocarburos - Instalaciones Res. 319/1993 (P. Característicos)
+2026-11-05,dataset,missing,cantidad-de-empresas-exportadoras-por-sector-de-actividad-rangos-de-exportacion-y-saldo-comerci,"Cantidad de empresas exportadoras por sector de actividad, rangos de exportación y saldo comercial"
+2026-11-05,dataset,missing,indices-de-valor-precio-y-cantidad-de-las-importaciones-de-bienes,"Índices de valor, precio y cantidad de las importaciones de bienes"
+2026-11-05,dataset,missing,senasa-existencias-ovinas,SENASA - Existencias ovinas
+2026-11-05,dataset,missing,cuenta-satelite-de-cultura-comercio-exterior,Cuenta satélite de cultura: comercio exterior
+2026-11-05,dataset,missing,autoridades-historicas-del-ministerio-de-justicia-y-derechos-humanos,Autoridades históricas del Ministerio de Justicia y Derechos Humanos
+2026-11-05,dataset,missing,estadisticas-criminales-en-la-republica-argentina-muertes-violentas-de-mujeres,Estadísticas criminales en la República Argentina. Muertes violentas de mujeres
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20211,Resultados Provisionales Elecciones 2021
+2026-11-05,dataset,missing,indice-de-precios-implicitos-de-la-oferta-y-demanda-globales-base-2004,Índice de precios implícitos de la Oferta y Demanda Globales. Base 2004
+2026-11-05,dataset,missing,exportaciones-segun-el-nomenclador-comun-del-mercosur-ncm,Exportaciones según el Nomenclador Común del Mercosur (NCM)
+2026-11-05,dataset,missing,listado-de-comunidades-indigenas-con-personeria-juridica-y-o-relevamiento-territorial,Listado de comunidades indígenas con personería jurídica y/o relevamiento territorial
+2026-11-05,dataset,missing,cantidad-de-reclamos-realizados-en-la-superintendencia-de-servicios-de-salud,Cantidad de Reclamos Realizados en  la Superintendencia de Servicios de Salud
+2026-11-05,dataset,missing,gobernanza-en-evaluacion-ambiental,Gobernanza en evaluación ambiental
+2026-11-05,dataset,missing,ventas-glp,Ventas GLP
+2026-11-05,dataset,missing,informe-matriz-origen-destino-vial-de-transporte-de-cargas,Informe Matriz Origen-Destino vial de Transporte de Cargas
+2026-11-05,dataset,missing,volumen-fisico-de-exportaciones-e-importaciones-1935-1954,Volumen Físico de Exportaciones e Importaciones 1935-1954
+2026-11-05,dataset,missing,haber-minimo-jubilatorio-pesos-corrientes,Haber mínimo jubilatorio. Pesos corrientes
+2026-11-05,dataset,missing,demanda-mundial-de-litio-tablero-global-del-litio-siacam,Demanda mundial de litio (Tablero global del litio - SIACAM)
+2026-11-05,dataset,missing,integrantes-de-los-nucleos-de-agricultura-familiar-naf,Agricultura Familiar - Integrantes de los núcleos (NAF)
+2026-11-05,dataset,missing,produccion-biodiesel-por-planta-produccion,Biocombustible - Producción de biodiesel por planta
+2026-11-05,dataset,missing,girasol-con-destino-industria,Girasol - Destino industrial
+2026-11-05,dataset,missing,autoridades-de-los-tribunales-superiores-de-justicia,Autoridades de los Tribunales Superiores y Cortes Supremas de Justicia de la República Argentina
+2026-11-05,dataset,missing,mani-con-destino-industria,Maní - Destino industrial
+2026-11-05,dataset,missing,indicadores-de-sustentabilidad-del-siacam,Indicadores de sustentabilidad del SIACAM
+2026-11-05,dataset,missing,produccion-mundial-de-litio-tablero-global-del-litio-siacam,Producción mundial de litio (Tablero global del litio - SIACAM)
+2026-11-05,dataset,missing,radiacion-solar,Radiación solar y distribución de proyectos solares RenovAr
+2026-11-05,dataset,missing,contrataciones-compras-y-licitaciones-de-la-superintendencia-de-servicios-de-salud-sss,"Contrataciones, Compras y Licitaciones de la Superintendencia de Servicios de Salud (SSS)"
+2026-11-05,dataset,missing,produccion-de-combustibles,Producción de combustibles
+2026-11-05,dataset,missing,encuesta-nacional-sobre-salud-sexual-y-reproductiva-enssyr-2013,Encuesta Nacional sobre Salud Sexual y Reproductiva (ENSSyR) 2013
+2026-11-05,dataset,missing,registro-de-empresas-de-hidrocarburos-del-upstream,Registro de empresas de hidrocarburos del upstream
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-continua-empleo,Principales variables ocupacionales. EPH continua. Empleo
+2026-11-05,dataset,missing,serie-de-profesionales-de-enfermeria-auxiliarato-tecnicatura-y-licenciatura,"Serie de profesionales de enfermería (auxiliarato, tecnicatura y licenciatura)"
+2026-11-05,dataset,missing,tesauro-saij-de-derecho-argentino,Tesauro SAIJ de Derecho Argentino
+2026-11-05,dataset,missing,demanda-de-electricidad,Demanda de electricidad
+2026-11-05,dataset,missing,vuelos-de-aerolineas-argentinas-covid-19,Vuelos de Aerolineas Argentinas - COVID-19
+2026-11-05,dataset,missing,http-www-magyp-gob-ar-sitio-areas-pesca-maritima-desembarques,Pesca - Desembarques de capturas marítimas
+2026-11-05,dataset,missing,lebac-mercado-secundario,Lebac mercado secundario
+2026-11-05,dataset,missing,expansion-de-indicadores-de-la-eph-a-la-poblacion-total-urbana,Expansión de indicadores de la EPH a la Población Total Urbana
+2026-11-05,dataset,missing,produccion-minera-de-argentina-y-participacion-en-el-total-de-la-economia-siacam,Producción minera de Argentina y participación en el total de la economía (SIACAM)
+2026-11-05,dataset,missing,programa-nodos-de-la-economia-del-conocimiento,Programa NODOS de la Economía del Conocimiento
+2026-11-05,dataset,missing,tasa-de-mortalidad-fetal-total,Tasa de Mortalidad Fetal Total
+2026-11-05,dataset,missing,cambios-de-genero,Cambios de género
+2026-11-05,dataset,missing,seguimiento-de-obras-de-agua-y-cloaca,Seguimiento de Obras de Agua y Cloaca (2024-2025)
+2026-11-05,dataset,missing,indices-de-horas-trabajadas-iht,Índices de Horas trabajadas (IHT)
+2026-11-05,dataset,missing,desarrollo-de-vaca-muerta-impacto-economico-agregado-y-sectorial,Desarrollo de Vaca Muerta
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-gba-ipc-gba-por-principales-aperturas-serie-discontinuada,"Índice de Precios al Consumidor GBA (IPC-GBA), por principales aperturas. SERIE DISCONTINUADA"
+2026-11-05,dataset,missing,flujos-de-inversion-extranjera-directa-bcra,Flujos de Inversión Extranjera Directa - BCRA
+2026-11-05,dataset,missing,covid-19,COVID-19
+2026-11-05,dataset,missing,listado-de-establecimientos-de-farmacias,Listado de Establecimientos de Farmacias
+2026-11-05,dataset,missing,balance-cambiario,Balance Cambiario
+2026-11-05,dataset,missing,sube-cantidad-de-tarjetas-usuarios-por-dia-en-amba,SUBE - Cantidad de tarjetas (usuarios) por día en AMBA.
+2026-11-05,dataset,missing,internet-fija,Internet Fija
+2026-11-05,dataset,missing,innovacion-sector-manufacturero,Innovación sector manufacturero
+2026-11-05,dataset,missing,informacion-socioeconomica-indice-de-pobreza-multidimensional,Información Socioeconómica Índice de Pobreza Multidimensional
+2026-11-05,dataset,missing,certificado-unico-habilitante-para-circulacion-cuhc-verano,Certificado Único Habilitante para Circulación (CUHC) - VERANO
+2026-11-05,dataset,missing,ventas-en-supermercados,Ventas en supermercados
+2026-11-05,dataset,missing,emisiones-de-gases-de-efecto-invernadero,Emisiones de gases de efecto invernadero
+2026-11-05,dataset,missing,proyectos-audiovisuales-activos,Proyectos audiovisuales activos
+2026-11-05,dataset,missing,tv-por-suscripcion,Tv por Suscripción
+2026-11-05,dataset,missing,estimacion-consumo-productos-lacteos,Lácteos - Estimación de la distribución y consumo
+2026-11-05,dataset,missing,senasa-movimientos-ovinos,SENASA - Movimientos ovinos
+2026-11-05,dataset,missing,siembra-directa-segun-censo-nacional-agropecuario-2002,Censo - Siembra directa CNA 02
+2026-11-05,dataset,missing,predios-aeropuertos,Predios Aeropuertos
+2026-11-05,dataset,missing,sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires,SUBE Operaciones de viaje por mes de Región Metropolitana de Buenos Aires
+2026-11-05,dataset,missing,actividad-ambiental-petroleo-y-gas,Actividad ambiental de petróleo y gas
+2026-11-05,dataset,missing,indices-de-precios-internacionales-de-productos-basicos,Índices de precios internacionales de productos básicos
+2026-11-05,dataset,missing,nacimientos-en-argentina,Nacimientos en Argentina
+2026-11-05,dataset,missing,productores-asesores-de-seguros,Productores Asesores de Seguros
+2026-11-05,dataset,missing,aprender-2022,Aprender 2022
+2026-11-05,dataset,missing,lacteos-precio-promedio-pagado-por-provincia,Lácteos - Precio promedio pagado por provincia
+2026-11-05,dataset,missing,clubes-de-dia,Clubes de Dia
+2026-11-05,dataset,missing,residencias-larga-estadia,Residencias de larga estadía
+2026-11-05,dataset,missing,estadisticas-de-servicios-publicos,Estadísticas de servicios públicos.
+2026-11-05,dataset,missing,programa-de-apoyo-a-la-competitividad-pac-proyectos-aprobados-en-llamados-especificos,Programa de Apoyo a la Competitividad (PAC): Proyectos aprobados en llamados específicos.
+2026-11-05,dataset,missing,sube-cantidad-de-tarjetas-usuarios-por-dia,SUBE - Cantidad de tarjetas (usuarios) por día.
+2026-11-05,dataset,missing,precios-eess-resolucion-1104-04,Precios y volúmenes EESS - Resolución 1104/04
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-gba-base-1988-serie-discontinuada,Índice de Precios al Consumidor GBA - Base 1988. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,rutas-culturales,Rutas Culturales
+2026-11-05,dataset,missing,declaraciones-juradas-patrimoniales,Declaraciones Juradas Patrimoniales
+2026-11-05,dataset,missing,creditos-con-tasa-bonificada-del-fondep,Créditos con tasa bonificada del FONDEP
+2026-11-05,dataset,missing,lineas-de-transporte,Lineas y Empresas de transporte urbano de pasajeros de Región Metropolitana de Buenos Aires - SUBE
+2026-11-05,dataset,missing,importaciones-de-bienes-valores-y-cantidad-de-empresas-por-sector-de-actividad,"Importaciones de bienes (valores y cantidad de empresas), por sector de actividad"
+2026-11-05,dataset,missing,balances1,Balances
+2026-11-05,dataset,missing,canon-hidrocarburifero,Canon Hidrocarburífero
+2026-11-05,dataset,missing,remuneracion-total-de-los-puestos-de-trabajo-del-sector-privado-por-provincia,"Remuneración total de los puestos de trabajo del sector privado, por provincia"
+2026-11-05,dataset,missing,indicadores-mensuales-sector-bovino,Ganadería - Indicadores bovinos mensuales
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2015,Base de Datos por Escuela 2015
+2026-11-05,dataset,missing,proyectos-de-ciencia-tecnologia-e-innovacion,"Proyectos de ciencia, tecnología e innovación"
+2026-11-05,dataset,missing,gasto-publico-del-gobierno-nacional-en-politica-de-ingresos,Gasto Público del Gobierno Nacional en Política de Ingresos
+2026-11-05,dataset,missing,ventas-en-autoservicios-mayoristas,Ventas en autoservicios mayoristas
+2026-11-05,dataset,missing,agua-saneamiento-e-infraestructura-hidrica-agua-y-saneamiento,"Agua, saneamiento e infraestructura hídrica - Agua y saneamiento"
+2026-11-05,dataset,missing,resoluciones-de-pago,Forestales - Ley 25.080 inversiones para bosques cultivados
+2026-11-05,dataset,missing,estudio-nacional-en-poblacion-general-sobre-consumo-de-sustancias-psicoactivas-2017,Estudio nacional en población general sobre consumo de sustancias psicoactivas - 2017
+2026-11-05,dataset,missing,aterrizajes-y-despegues-procesados-por-la-administracion-nacional-de-aviacion-civil-anac,Aterrizajes y despegues procesados por la Administración Nacional de Aviación Civil (ANAC)
+2026-11-05,dataset,missing,consultas-medicamentos-esenciales,Consultas medicamentos esenciales
+2026-11-05,dataset,missing,oferta-y-demanda-globales-datos-desestacionalizados-base-2004,Oferta y Demanda Globales. Datos desestacionalizados. Base 2004
+2026-11-05,dataset,missing,indice-de-tipo-de-cambio-real-multilateral-base-17-de-diciembre-de-2015-100,Índice de Tipo de Cambio Real Multilateral Base 17 de Diciembre de 2015 = 100
+2026-11-05,dataset,missing,metodos-anticonceptivos-distribuidos-por-el-plan-nacional-de-prevencion-del-embarazo-no-intenci,Métodos anticonceptivos distribuidos por el Plan Nacional de Prevención del Embarazo No Intencional
+2026-11-05,dataset,missing,programa-renovar-proyecto-solar-cauchari,Programa RenovAR - Proyecto solar Cauchari
+2026-11-05,dataset,missing,warrants-evolucion-certificados-emitidos-desagregados-por-principales-productos,Warrants - Evolución de certificados emitidos desagregados por productos
+2026-11-05,dataset,missing,poderes-judiciales-causas-no-penales,Poderes judiciales - Causas no penales
+2026-11-05,dataset,missing,ingreso-de-la-inversion-extranjera-directa-bcra,Ingreso de la inversión extranjera directa - BCRA
+2026-11-05,dataset,missing,distribucion-electrica-concesiones-de-empresas-distribuidoras,Distribución Eléctrica - Concesiones de empresas distribuidoras
+2026-11-05,dataset,missing,dosis-aplicadas-a-nivel-nacional,Dosis aplicadas a nivel nacional
+2026-11-05,dataset,missing,empleo-total-y-por-sector-de-actividad,Empleo total y por sector de actividad
+2026-11-05,dataset,missing,autoridades-y-designaciones,Autoridades y Designaciones
+2026-11-05,dataset,missing,snic-total-pais-estadisticas-criminales-en-la-republica-argentina,SNIC - Total país. Estadísticas criminales en la República Argentina
+2026-11-05,dataset,missing,sociedades-de-productores-asesores-de-seguros,Sociedades de Productores Asesores de Seguros
+2026-11-05,dataset,missing,acord-ar-acuerdos-nacionales,Acord.Ar - Acuerdos Nacionales
+2026-11-05,dataset,missing,distribucion-de-petroleo,Distribución de petróleo
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-provincia-de-cordoba-base-2014-100,Índice de Precios al Consumidor de la Provincia de Córdoba. Base 2014 = 100
+2026-11-05,dataset,missing,cuentas-nacionales-1970-1980-base-1970,Cuentas Nacionales 1970-1980. Base 1970
+2026-11-05,dataset,missing,recuperacion-del-camino-de-sirga,Recuperación del Camino de Sirga
+2026-11-05,dataset,missing,vehiculos-habilitados-para-gnc,Vehículos habilitados para GNC
+2026-11-05,dataset,missing,actividad-agricola,Actividad agrícola
+2026-11-05,dataset,missing,lino-siembra-cosecha-produccion-rendimiento,"Lino - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,missing,sociedades-de-garantia-reciproca-sgr,Sociedades de Garantía Recíproca (SGR)
+2026-11-05,dataset,missing,indicadores-de-evolucion-del-sector-agropecuario,Indicadores de evolución del sector agropecuario
+2026-11-05,dataset,missing,estadisticas-de-biodiesel-y-bioetanol,Estadísticas de biodiesel y bioetanol
+2026-11-05,dataset,missing,conectividad-terrestre-interurbana,Conectividad Terrestre Interurbana
+2026-11-05,dataset,missing,actitud-de-los-jovenes-hacia-las-profesiones-stem,Actitud de los jóvenes hacia las profesiones STEM
+2026-11-05,dataset,missing,listado-de-establecimientos-de-droguerias-redro,Listado de Establecimientos de Droguerías (REDRO)
+2026-11-05,dataset,missing,impuestos-sobre-las-tarifas-electricas-a-usuario-final-de-cooperativas-electricas-de-bs-as,Impuestos sobre las tarifas eléctricas a usuario final de Cooperativas Eléctricas de Bs. As
+2026-11-05,dataset,missing,redes-inteligentes-realidad-utopia-o-futuro,"Redes Inteligentes - Realidad, utopía o futuro"
+2026-11-05,dataset,missing,indices-de-obreros-ocupados-horas-trabajadas-y-salario-por-obrero-en-la-industria,"Índices de obreros ocupados, horas trabajadas y salario por obrero en la industria"
+2026-11-05,dataset,missing,movilidad-residencial-en-argentina,Movilidad Residencial en Argentina
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-continua-subocupacion-no-demandante,Principales variables ocupacionales. EPH continua. Subocupación no demandante
+2026-11-05,dataset,missing,datos-meteorologicos-horarios,Datos meteorológicos horarios
+2026-11-05,dataset,missing,transferencias-de-autos,Transferencias de autos
+2026-11-05,dataset,missing,indice-de-confianza-del-consumidor,Índice de Confianza del Consumidor
+2026-11-05,dataset,missing,comercio-mundial-de-mineria1,Comercio mundial de minería
+2026-11-05,dataset,missing,api-de-presupuesto-abierto,API de Presupuesto Abierto
+2026-11-05,dataset,missing,historia-del-alumbrado,Historia del Alumbrado
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2013,Encuesta Permanente de Hogares (EPH). 2013
+2026-11-05,dataset,missing,molienda-granos,Granos - Molienda
+2026-11-05,dataset,missing,principales-subgrupos-de-recaudacion-tributaria,Principales subgrupos de recaudación tributaria
+2026-11-05,dataset,missing,registro-de-consultores-en-evaluacion-ambiental,Registro de consultores en evaluación ambiental
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2017,Presupuesto de la Administración Pública Nacional 2017.
+2026-11-05,dataset,missing,oferta-y-demanda-globales-base-1993,Oferta y Demanda Globales. Base 1993
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2019,Presupuesto de la Administración Pública Nacional 2019.
+2026-11-05,dataset,missing,conceptos-sobre-hidrocarburos,Conceptos sobre Hidrocarburos
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-provincia-de-mendoza-base-2010-100,Índice de Precios al Consumidor de la Provincia de Mendoza. Base 2010 = 100
+2026-11-05,dataset,missing,senasa-movimientos-apicolas,SENASA - Movimientos apícolas
+2026-11-05,dataset,missing,senasa-movimientos-cunicolas,SENASA - Movimientos cunícolas
+2026-11-05,dataset,missing,registro-de-operadores-autorizados-para-la-venta-de-combustibles-liquidos,Padrón de operadores autorizados para la venta de combustibles líquidos
+2026-11-05,dataset,missing,base-de-datos-legislativos-infoleg,Base Infoleg de Normativa Nacional
+2026-11-05,dataset,missing,proyeccion-de-la-demanda-y-oferta-global-de-litio-tablero-global-del-litio-siacam,Proyección de la demanda y oferta global de litio (Tablero global del litio - SIACAM)
+2026-11-05,dataset,missing,emisiones-de-co2-calculadas-a-partir-de-ventas-de-combustibles-liquidos-en-estaciones-de-servic,Emisiones de CO2. Calculadas a partir de ventas de combustibles líquidos en estaciones de servicio
+2026-11-05,dataset,missing,encuesta-nacional-de-uso-del-tiempo-2021-enut-2021,Encuesta Nacional de Uso del Tiempo 2021 (ENUT 2021)
+2026-11-05,dataset,missing,potencia-de-vientos,Potencia de vientos y  distribución de proyectos eólicos RenovAr
+2026-11-05,dataset,missing,oferta-tecnologica-del-instituto-nacional-de-tecnologia-industrial,Oferta tecnológica del Instituto Nacional de Tecnologia Industrial
+2026-11-05,dataset,missing,precios-de-escalante,Precios de Venta al Mercado Interno de Petróleo Escalante
+2026-11-05,dataset,missing,porcentaje-de-solidos-en-leche-cruda,Lácteos - Porcentaje de Sólidos en Leche Cruda
+2026-11-05,dataset,missing,transporte-electrico-at-lineas,Transporte Eléctrico AT Líneas
+2026-11-05,dataset,missing,balances-energeticos,Balances Energéticos
+2026-11-05,dataset,missing,indice-de-produccion-industrial-mundial-ipi-mundial,Índice de Producción Industrial Mundial (IPI Mundial)
+2026-11-05,dataset,missing,refinacion-y-comercializacion-de-petroleo-gas-y-derivados-tablas-dinamicas,"Refinación y Comercialización de petróleo, gas y derivados (Tablas Dinámicas)"
+2026-11-05,dataset,missing,produccion-y-ventas-de-petroleo-gas-y-derivados-por-empresa,"Producción y Ventas de Petróleo, Gas y Derivados por Empresa"
+2026-11-05,dataset,missing,produccion-y-ventas-de-biocombustibles,Producción y ventas de biocombustibles
+2026-11-05,dataset,missing,roha-registro-oncopediatrico-hospitalario-de-argentina-de-personas-entre-0-a-14-anos-2000-2019,ROHA: Registro Oncopediátrico Hospitalario de Argentina de personas entre 0 a 14 años (2000-2019)
+2026-11-05,dataset,missing,registro-nacional-de-prestadores-profesionales-inscriptos-en-la-sss,Registro Nacional de Prestadores Profesionales Inscriptos en la SSS
+2026-11-05,dataset,missing,estaciones-de-trenes-y-servicios-activos-a-2022,Estaciones de Trenes y Servicios activos a 2022
+2026-11-05,dataset,missing,potencia-maxima-del-sistema-electrico-1980-2017,Potencia Máxima del Sistema Eléctrico
+2026-11-05,dataset,missing,faena-pecuaria,Faena pecuaria
+2026-11-05,dataset,missing,actividad-ganadera,Actividad ganadera
+2026-11-05,dataset,missing,liquidacion-de-divisas-por-exportaciones-de-oleaginosas-y-cereales,Liquidación de divisas por Exportaciones de Oleaginosas y Cereales
+2026-11-05,dataset,missing,lucha-contra-la-trata-de-personas-llamados-linea-145-denuncias,Lucha contra la trata de personas - Llamados línea 145 - Denuncias
+2026-11-05,dataset,missing,inv-elaboracion-de-mostos-y-vino,INV - Elaboración de mostos y vino
+2026-11-05,dataset,missing,husohorario,Análisis de cambio de huso horario en Argentina
+2026-11-05,dataset,missing,concentracion-anual-del-valor-exportado-por-complejo-exportador,Concentración anual del valor exportado por complejo exportador
+2026-11-05,dataset,missing,mijo-con-destino-industria,Mijo - destino industrial
+2026-11-05,dataset,missing,cantidad-de-empresas-mineras-siacam,Cantidad de empresas mineras (SIACAM)
+2026-11-05,dataset,missing,memoria-anual-de-la-subsecretaria-de-ahorro-y-eficiencia-energetica,Memoria Anual  de la Subsecretaría de Ahorro y Eficiencia Energética
+2026-11-05,dataset,missing,anuarios-de-energia-electrica,Anuarios de Energía Eléctrica
+2026-11-05,dataset,missing,tv-por-suscripcion1,Tv por Suscripción
+2026-11-05,dataset,missing,internos-del-servicio-penitenciario-federal-spf,Internos del Servicio Penitenciario Federal - SPF
+2026-11-05,dataset,missing,archivo-1997-2018-sector-externo,Archivo 1997-2018: Sector Externo
+2026-11-05,dataset,missing,liquidadores-de-siniestros-y-averias,Liquidadores de siniestros y averías
+2026-11-05,dataset,missing,api-publicacion-de-resultados-electorales,API Publicación de Resultados Electorales
+2026-11-05,dataset,missing,certificados-de-importacion-segun-regimen-de-inversiones-mineras,Certificados de importación según régimen de inversiones mineras
+2026-11-05,dataset,missing,nominas-copia-a,Nóminas Copia A
+2026-11-05,dataset,missing,encuesta-de-ocupacion-hotelera,Encuesta de ocupación hotelera
+2026-11-05,dataset,missing,calculo-del-factor-de-emision-de-co2-de-la-red-argentina-de-energia-electrica,Cálculo del Factor de Emisión de CO2 de la Red Argentina de Energía Eléctrica
+2026-11-05,dataset,missing,informacion-economica-al-dia,Información Económica al Día
+2026-11-05,dataset,missing,geologia-climatologia-curvas-de-nivel-ign,Geología Climatología Curvas de Nivel del IGN (Instituto Geográfico Nacional)
+2026-11-05,dataset,missing,subsidios-al-transporte-publico-de-pasajeros,Subsidios al transporte público de pasajeros
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2012,Base de Datos por Escuela 2012
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-gba-ipc-gba-base-abril-2008-serie-discontinuada,Índice de Precios al Consumidor GBA (IPC-GBA). Base abril 2008. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2019,Encuesta Permanente de Hogares (EPH). 2019
+2026-11-05,dataset,missing,exportaciones-de-bienes-valores-y-cantidad-de-empresas-por-sector-de-actividad,"Exportaciones de bienes (valores y cantidad de empresas), por sector de actividad"
+2026-11-05,dataset,missing,representaciones-argentinas,Representaciones Argentinas
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-de-la-ciudad-de-buenos-aires,Índice de Precios al Consumidor de la Ciudad de Buenos Aires.
+2026-11-05,dataset,missing,centrales-energia-renovables,Proyectos y obras de centrales de energía renovables
+2026-11-05,dataset,missing,incendios-forestales,Incendios forestales
+2026-11-05,dataset,missing,modulo-de-la-eahu-sobre-actividades-de-ninos-ninas-y-adolescentes-mannya-tercer-trimestre-2012,"Módulo de la EAHU sobre Actividades de Niños, Niñas y Adolescentes (MANNyA) - Tercer trimestre 2012"
+2026-11-05,dataset,missing,banco-de-evaluaciones-de-la-politica-nacional-de-desarrollo-productivo,Banco de evaluaciones de la política nacional de desarrollo productivo
+2026-11-05,dataset,missing,parques-nacionales,Parques Nacionales
+2026-11-05,dataset,missing,precios-claros-sepa-mayorista,Precios Claros - SEPA Mayorista
+2026-11-05,dataset,missing,personal-de-ciencia-y-tecnologia,Personal de ciencia y tecnología
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2000,Presupuesto de la Administración Pública Nacional 2000.
+2026-11-05,dataset,missing,producto-interno-bruto-a-precios-de-mercado-precios-corrientes-base-2004,Producto Interno Bruto a Precios de Mercado. Precios corrientes. Base 2004
+2026-11-05,dataset,missing,legisalud-argentina,Legisalud Argentina
+2026-11-05,dataset,missing,presupuesto-de-la-administracion-publica-nacional-2012,Presupuesto de la Administración Pública Nacional 2012.
+2026-11-05,dataset,missing,estudio-nacional-en-poblacion-general-sobre-consumo-de-sustancias-psicoactivas-2008,Estudio nacional en población general sobre consumo de sustancias psicoactivas - 2008
+2026-11-05,dataset,missing,registro-federal-de-cultura,Registro Federal de Cultura
+2026-11-05,dataset,missing,aprender-2019,Aprender 2019
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2014,Base de Datos por Escuela 2014
+2026-11-05,dataset,missing,encuesta-nacional-de-gastos-de-los-hogares-engho-2017-2018,Encuesta Nacional de Gastos de los Hogares (ENGHo) 2017-2018
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-gba-ipc-gba-base-diciembre-2016,Índice de Precios al Consumidor GBA (IPC-GBA). Base diciembre 2016.
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20171,Resultados Provisionales Elecciones 2017
+2026-11-05,dataset,missing,nacidos-vivos-registrados-por-jurisdiccion-de-residencia-de-la-madre-republica-argentina,Nacidos Vivos Registrados por Jurisdicción de Residencia de la Madre - República Argentina
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2008,Encuesta Permanente de Hogares (EPH). 2008
+2026-11-05,dataset,missing,precios-mayoristas-resolucion-1104-04,Precios Mayoristas - Resolución 1104/04
+2026-11-05,dataset,missing,profesionales-medicos-por-provincia-segun-domicilio-electoral,Profesionales Médicos por provincia según domicilio electoral
+2026-11-05,dataset,missing,saldo-comercial-por-paises-y-regiones-fob-cif,Saldo Comercial por Países y Regiones (FOB-CIF)
+2026-11-05,dataset,missing,energias-renovables-puntos-de-interes-geotermico,Energías renovables - Puntos de Interés Geotérmico
+2026-11-05,dataset,missing,turismo-social,Turismo Social
+2026-11-05,dataset,missing,terminales-automaticas-sube,Terminales Automáticas SUBE
+2026-11-05,dataset,missing,programa-soluciona,Programa SOLUCIONA
+2026-11-05,dataset,missing,cobros-y-pagos-por-bienes-sectorial-balance-cambiario,Cobros y pagos por bienes sectorial - Balance Cambiario
+2026-11-05,dataset,missing,registro-unificado-de-victimas-del-terrorismo-de-estado-ruvte,Registro Unificado de Víctimas del Terrorismo de Estado -RUVTE-
+2026-11-05,dataset,missing,refinacion-hidrocarburos-petroquimicas,Refinación de hidrocarburos -  Petroquímicas
+2026-11-05,dataset,missing,acuerdo-de-escazu,Acuerdo de Escazú
+2026-11-05,dataset,missing,encuesta-de-actividades-de-ninos-ninas-y-adolescentes-eanna-2016-2017,"Encuesta de Actividades de Niños, Niñas y Adolescentes (EANNA) 2016-2017"
+2026-11-05,dataset,missing,base-linea-141,Base Línea 141
+2026-11-05,dataset,missing,pacientes-en-lista-de-espera-del-incucai,Pacientes en lista de espera del Incucai
+2026-11-05,dataset,missing,distribucion-funcional-del-ingreso-respecto-al-producto-interno-bruto,Distribución funcional del ingreso respecto al Producto Interno Bruto
+2026-11-05,dataset,missing,facturacion-de-hospitales-publicos-de-gestion-descentralizada,Facturación de Hospitales Públicos de Gestión Descentralizada
+2026-11-05,dataset,missing,sector-audiovisual,Sector audiovisual
+2026-11-05,dataset,missing,consumo-electrico-por-sectores-manufactureros,Consumo eléctrico por sectores manufactureros
+2026-11-05,dataset,missing,cer-uva-y-uvi,"CER, UVA y UVI"
+2026-11-05,dataset,missing,tasas-de-vih-por-100-mil-habitantes,Tasas de VIH por 100 mil habitantes
+2026-11-05,dataset,missing,compras-y-contrataciones-de-nivel-central-2017,Compras y contrataciones de Nivel Central- 2017
+2026-11-05,dataset,missing,puertos,Puertos
+2026-11-05,dataset,missing,base-de-datos-de-la-2-encuesta-nacional-de-nutricion-y-salud-ennys2-2018-2019,Base de datos de la 2° Encuesta Nacional de Nutrición y Salud (ENNyS2) 2018-2019
+2026-11-05,dataset,missing,archivos-recibidos-de-los-ministerios-publicos-provinciales,Archivos recibidos de los ministerios públicos provinciales
+2026-11-05,dataset,missing,indice-de-precios-internos-basicos-al-por-mayor-serie-discontinuada,Índice de Precios Internos Básicos al por Mayor. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,mapas-de-explortacion-y-produccion-de-hidrocarburos,Mapas de Exploración y Explotación de Hidrocarburos
+2026-11-05,dataset,missing,programa-de-recuperacion-productiva-ii,Programa de Recuperación Productiva II
+2026-11-05,dataset,missing,obras-de-transmision-y-distribucion,Obras de transmisión y distribución
+2026-11-05,dataset,missing,grupo-de-trabajo-de-transiciones-energeticas-presidencia-argentina-de-g20,"Grupo de Trabajo de Transiciones Energéticas, Presidencia Argentina de G20"
+2026-11-05,dataset,missing,tasas-trimestrales-de-variacion-de-precios,Tasas trimestrales de variación de precios
+2026-11-05,dataset,missing,encuesta-permanente-de-hogares-eph-2009,Encuesta Permanente de Hogares (EPH). 2009
+2026-11-05,dataset,missing,actividad-industrial,Actividad industrial
+2026-11-05,dataset,missing,tipos-de-cambio-historicos,Tipos de Cambio Históricos
+2026-11-05,dataset,missing,salarios-promedio-y-mediano-por-provincia-y-sector-de-actividad,"Salarios promedio y mediano, por provincia y sector de actividad"
+2026-11-05,dataset,missing,nombres-propios-en-argentina,Nombres propios en Argentina
+2026-11-05,dataset,missing,transporte-de-hidrocarburos,Transporte de Hidrocarburos
+2026-11-05,dataset,missing,produccion-leche-nivel-nacional,Lácteos - Producción de leche hasta 2016
+2026-11-05,dataset,missing,recorridos-de-lineas-de-transporte-rmba-jn,Recorridos de Líneas de Transporte de Región Metropolitana de Buenos Aires (RMBA)
+2026-11-05,dataset,missing,proyectos-de-integracion-socio-urbana,Proyectos de integración socio urbana
+2026-11-05,dataset,missing,registro-nacional-de-parques-industriales-renpi,Registro Nacional de Parques Industriales (RENPI)
+2026-11-05,dataset,missing,energias-renovables-radiacion-solar-incidente,Energías renovables - Radiación Solar Incidente
+2026-11-05,dataset,missing,indice-de-precios-internos-al-por-mayor-ipim-dic-2015-100,Índice de Precios Internos al por Mayor (IPIM). Dic-2015 = 100
+2026-11-05,dataset,missing,censo-nacional-de-poblacion-hogares-y-viviendas-1991,"Censo Nacional de Población, Hogares y Viviendas 1991"
+2026-11-05,dataset,missing,archivos-recibidos-de-los-poderes-judiciales-provinciales-justicia-penal,Archivos recibidos de los poderes judiciales provinciales - Justicia penal
+2026-11-05,dataset,missing,emisiones-de-dioxido-de-nitrogeno-no2,Emisiones de dióxido de nitrógeno (NO2)
+2026-11-05,dataset,missing,registro-de-empresas-de-transporte-de-hidrocarburos-por-ductos,Registro de empresas de transporte de hidrocarburos por ductos
+2026-11-05,dataset,missing,profesionales-de-salud-certificados-por-especialidad-y-jurisdiccion-en-la-republica-argentina,Profesionales de Salud certificados por Especialidad y Jurisdicción en la República Argentina
+2026-11-05,dataset,missing,principales-variables-ocupacionales-eph-continua-subocupacion,Principales variables ocupacionales. EPH continua. Subocupación
+2026-11-05,dataset,missing,previaje,Previaje
+2026-11-05,dataset,missing,sneep,Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP
+2026-11-05,dataset,missing,recorridos-de-servicios-de-colectivos-amba,Recorridos de servicios de colectivos AMBA
+2026-11-05,dataset,missing,importaciones-azucar,Azúcar - Importaciones
+2026-11-05,dataset,missing,farmacias,Farmacias
+2026-11-05,dataset,missing,proyectos-fonapyme-agroindustriales,Alimentos y Bebidas - Proyectos FONAPYME Agroindustriales
+2026-11-05,dataset,missing,salarios-por-departamento-partido-y-sector-de-actividad,Salarios por departamento/partido y sector de actividad
+2026-11-05,dataset,missing,fracciones-censales-censos-1991-a-2022,Fracciones censales - Censos 1991 a 2022
+2026-11-05,dataset,missing,mapa-de-inversiones-argentina,Mapa de inversiones Argentina
+2026-11-05,dataset,missing,producto-interno-bruto-a-precios-de-mercado-precios-constantes-base-2004,Producto Interno Bruto a Precios de Mercado. Precios constantes. Base 2004
+2026-11-05,dataset,missing,transporte-electrico-at-estructuras,Transporte Eléctrico AT Estructuras
+2026-11-05,dataset,missing,centros-de-jubilados,Centros de jubilados
+2026-11-05,dataset,missing,indicadores-economicos-para-ganaderia-bovina,Ganadería - Indicadores económicos bovinos
+2026-11-05,dataset,missing,encuesta-nacional-sobre-acceso-y-uso-de-tecnologias-de-la-informacion-y-la-comunicacion-entic,Encuesta Nacional sobre Acceso y Uso de Tecnologías de la Información y la Comunicación (ENTIC)
+2026-11-05,dataset,missing,ciclo-de-capacitacion-aportes-a-la-mejora-de-la-insercion-internacional-de-las-empresas,"Ciclo de Capacitación: “Aportes a la mejora de la inserción internacional de las empresas"""
+2026-11-05,dataset,missing,informe-estadistico,Informe Estadístico Anual del sector energético
+2026-11-05,dataset,missing,rutas-provinciales,Rutas Provinciales
+2026-11-05,dataset,missing,operaciones-de-sube-por-ano-en-rmba,Operaciones de SUBE por año en RMBA
+2026-11-05,dataset,missing,indice-de-precios-al-consumidor-historico-serie-discontinuada,Índice de Precios al Consumidor histórico. SERIE DISCONTINUADA
+2026-11-05,dataset,missing,puestos-de-trabajo-asalariados-registrados-por-provincia-y-sector-de-actividad,"Puestos de trabajo asalariados registrados, por provincia y sector de actividad"
+2026-11-05,dataset,missing,pago-de-impuestos-nacionales-de-grandes-empresas-mineras-siacam,Pago de Impuestos Nacionales de Grandes Empresas Mineras (SIACAM)
+2026-11-05,dataset,missing,degradacion-del-bosque-nativo,Degradación del bosque nativo
+2026-11-05,dataset,missing,salario-mediano-de-la-poblacion-joven-por-sector-de-actividad-y-provincia,Salario mediano de la población joven por sector de actividad y provincia
+2026-11-05,dataset,missing,snic-departamental-estadisticas-criminales-en-la-republica-argentina-por-departamentos,SNIC - Departamental. Estadísticas criminales en la República Argentina por departamentos
+2026-11-05,dataset,missing,actas-del-consejo-directivo-de-acumar,Actas del Consejo Directivo de ACUMAR
+2026-11-05,dataset,missing,redes-de-monitoreo-de-agua,Redes de Monitoreo de Agua
+2026-11-05,dataset,missing,estudio-nacional-en-poblacion-general-sobre-consumo-de-sustancias-psicoactivas-2010,Estudio nacional en población general sobre consumo de sustancias psicoactivas - 2010
+2026-11-05,dataset,missing,guia-diplomatica,Guía Diplomática
+2026-11-05,dataset,missing,anuario-importaciones-frutas,Frutas - Anuario de importaciones
+2026-11-05,dataset,missing,precios-claros-base-sepa,Precios Claros - Base SEPA
+2026-11-05,dataset,missing,intercambio-comercial-argentino,Intercambio Comercial Argentino
+2026-11-05,dataset,missing,mapas-de-transporte-de-hidrocarburos,Mapas de Transporte de Hidrocarburos
+2026-11-05,dataset,missing,indice-de-calidad-de-agua,Índice de calidad de agua
+2026-11-05,dataset,missing,muertes-viales-sistema-de-alerta-temprana-estadisticas-criminales-en-la-republica-argentina,Muertes viales. Sistema de Alerta Temprana. Estadísticas criminales en la República Argentina.
+2026-11-05,dataset,missing,mineria-comparada-siacam,Minería Comparada (SIACAM)
+2026-11-05,dataset,missing,mapas-de-comercializacion-de-gas-licuado-de-petroleo-glp2,Mapas de comercialización de Gas Licuado de Petróleo (GLP)
+2026-11-05,dataset,missing,central-nuclear-en-embalse,Central Nuclear Embalse
+2026-11-05,dataset,missing,distribucion-electrica-edesur,Distribución Eléctrica Edesur
+2026-11-05,dataset,missing,sistema-nacional-de-estadisticas-sobre-ejecucion-de-la-pena-sneep-series-de-tiempo,Sistema Nacional de Estadísticas sobre Ejecución de la Pena - SNEEP - Series de tiempo
+2026-11-05,dataset,missing,ingreso-nacional-ahorro-nacional-y-prestamo-neto-base-1993,"Ingreso Nacional, Ahorro Nacional y Préstamo Neto. Base 1993"
+2026-11-05,dataset,missing,censo-nacional-de-poblacion-hogares-y-viviendas-2010,"Censo Nacional de Población, Hogares y Viviendas 2010"
+2026-11-05,dataset,missing,comercializacion-hidrocarburos-combustibles-liquidos-aeroplantas,Comercialización de hidrocarburos - Combustibles líquidos - Aeroplantas (según Res. 1102/04)
+2026-11-05,dataset,missing,compras-realizadas-por-empresas-mineras-siacam,Compras Realizadas por Empresas Mineras (SIACAM)
+2026-11-05,dataset,missing,lacteos-balanza-comercial,Lácteos - Balanza comercial
+2026-11-05,dataset,missing,auditorias-e-inspecciones-en-instalaciones-de-hidrocarburos,Inspecciones de abastecimiento en instalaciones de hidrocarburos
+2026-11-05,dataset,missing,indice-de-calidad-de-vida-icv-de-la-cuenca-matanza-riachuelo-actualizacion-2025,Índice de Calidad de Vida (ICV) de la Cuenca Matanza Riachuelo - Actualización 2025
+2026-11-05,dataset,missing,indices-de-obreros-ocupados-ioo-revisado,Índices de Obreros Ocupados (IOO) (Revisado)
+2026-11-05,dataset,missing,anuncios-de-inversion-en-el-sector-minero-de-argentina-del-siacam,Anuncios de Inversión en el Sector Minero de Argentina del SIACAM
+2026-11-05,dataset,missing,defunciones-ocurridas-y-registradas-en-la-republica-argentina,Defunciones ocurridas y registradas en la República Argentina
+2026-11-05,dataset,missing,base-de-datos-por-escuela-2018,Base de Datos por Escuela 2018
+2026-11-05,dataset,missing,empresas-vigentes-inscriptas-rncyf-semillas,INASE - Empresas vigentes inscriptas en el RNCyFS
+2026-11-05,dataset,missing,pronosticos-de-produccion-de-petroleo-y-gas-tablas-dinamicas,Pronósticos de Producción de Petróleo y Gas
+2026-11-05,dataset,missing,tasa-de-actividad-por-aglomerado-1974-2003,Tasa de Actividad por aglomerado 1974-2003
+2026-11-05,dataset,missing,inventario-de-presas-y-centrales-hidroelectricas-de-la-republica-argentina,Inventario de Presas y Centrales Hidroeléctricas de la República Argentina
+2026-11-05,dataset,missing,indice-novillo-sio-carnes-insc,SIO Carnes - Índice Novillo INSC
+2026-11-05,dataset,missing,padron-de-operadores-organicos-certificados,Orgánicos - Padrón de operadores certificados
+2026-11-05,dataset,missing,listado-de-compras-y-contrataciones-de-acumar,Compras y Contrataciones de ACUMAR
+2026-11-05,dataset,missing,operaciones-de-sube-por-mes-en-rmba,Operaciones de SUBE por mes en RMBA
+2026-11-05,dataset,missing,valor-bruto-de-produccion-a-precios-basicos-por-rama-de-actividad-economica,Valor Bruto de Producción a precios básicos por rama de actividad económica
+2026-11-05,dataset,missing,tasa-de-asalarizacion-y-de-asalariados-sin-descuento-jubilatorio,Tasa de asalarización y de asalariados sin descuento jubilatorio
+2026-11-05,dataset,missing,entidades-constituidas-en-la-inspeccion-general-de-justicia-igj,Entidades constituidas en la Inspección General de Justicia
+2026-11-05,dataset,missing,postes-kilometricos,Postes Kilométricos
+2026-11-05,dataset,missing,senasa-movimientos-equinos,SENASA - Movimientos equinos
+2026-11-05,dataset,missing,tasa-de-mortalidad-infantil,Tasa de Mortalidad Infantil
+2026-11-05,dataset,missing,remuneracion-imponible-promedio-de-los-trabajadores-estables-ripte,Remuneración imponible promedio de los trabajadores estables (RIPTE)
+2026-11-05,dataset,missing,costo-salarial-promedio-del-sector-privado-por-provincia,"Costo Salarial  promedio del sector privado, por provincia"
+2026-11-05,dataset,missing,informe-mensual-de-ingresos-y-gastos-del-sector-publico-nacional-no-financiero-imig,Informe Mensual de Ingresos y Gastos del Sector Público Nacional No Financiero (IMIG)
+2026-11-05,dataset,missing,serie-historica-de-nacimientos-ocurridos-en-argentina-por-jurisdiccion,Serie histórica de nacimientos ocurridos en argentina por jurisdicción
+2026-11-05,dataset,missing,porcentaje-de-mujeres-por-provincia-y-sector-de-actividad,"Porcentaje de mujeres, por provincia y sector de actividad"
+2026-11-05,dataset,missing,arroz-cascara-con-destino-industria,Arroz cáscara - Destino industrial
+2026-11-05,dataset,missing,resultados-provisionales-elecciones-20131,Resultados Provisionales Elecciones 2013
+2026-11-05,dataset,missing,guias-de-uso-responsable-de-la-energia-y-de-eficiencia-energetica,Guías de Uso Responsable de la Energía y de Eficiencia Energética
+2026-11-05,dataset,missing,glp-parque-de-envases-habiles-de-10-y-15-kg-de-capacidad,"GLP - Parque de envases hábiles de 10, 15 y 45 Kg. de capacidad"
+2026-11-05,dataset,missing,rita-registro-institucional-de-tumores-de-argentina-casos-de-cancer-diagnosticados-2012-2022,RITA: Registro Institucional de Tumores de Argentina. Casos de cáncer diagnosticados (2012-2022)
+2026-11-05,dataset,missing,precios-en-planta-res-s-e-606-2003,Precios en planta (Res. S.E. 606/2003)
+2026-11-05,dataset,missing,registro-de-temperatura-365-dias,Registro de Temperatura (365 días)
+2026-11-05,dataset,missing,produccion-nacional-lactea-por-mes-y-por-anio,Lácteos - Producción nacional de leche por mes y por año
+2026-11-05,dataset,missing,inversiones,Inversiones
+2026-11-05,dataset,missing,consultas-medicas-ambulatorias-republica-argentina,Consultas Médicas Ambulatorias. República Argentina.
+2026-11-05,dataset,missing,costo-salarial-por-sector-de-actividad-economica-en-el-sector-privado,Costo salarial por sector de actividad económica en el sector privado
+2026-11-05,dataset,missing,existencias-equinas,Ganadería - Existencias equinas
+2026-11-05,dataset,new,defensa-inventario-documentos-hallados-edificio-condor,Inventario de documentos hallados en el Edificio Condor
+2026-11-05,dataset,new,sspm-poblacion-con-ingresos-por-debajo-linea-indigencia-eph-puntual-continua,Población con ingresos por debajo de la línea de indigencia  EPH puntual y continua
+2026-11-05,dataset,new,interior-solicitudes-acceso-informacion-publica-ano-2017,Solicitudes de Acceso a la Información Pública Año 2017
+2026-11-05,dataset,new,otros-indicador-importaciones-bienes-capital-productivo---discontinuado,Indicador de Importaciones de Bienes de Capital Productivo - Discontinuado
+2026-11-05,dataset,new,energia-comercializacion-hidrocarburos-combustibles-liquidos,Comercialización Hidrocarburos Combustibles Líquidos
+2026-11-05,dataset,new,interior-estaciones-medicion-valores-parametros-productos-red,"Estaciones de medición, valores de parámetros y productos de la Red"
+2026-11-05,dataset,new,cultura-cuenta-satelite-cultura-valor-agregado-bruto-vab,Cuenta Satélite de Cultura: Valor Agregado Bruto (V.A.B.)
+2026-11-05,dataset,new,otros-contratos-alquiler-estado-nacional-como-locador,Contratos de Alquiler del Estado Nacional como Locador
+2026-11-05,dataset,new,defensa-compras-contrataciones-ministerio-defensa,Compras y contrataciones Ministerio de Defensa
+2026-11-05,dataset,new,otros-ahora-12---discontinuado,Ahora 12 - Discontinuado
+2026-11-05,dataset,new,sspm-deuda-externa-bruta-por-sector-residente,Deuda externa bruta por sector residente
+2026-11-05,dataset,new,defensa-solicitud-acceso-informacion-publica-2020,Solicitud de Acceso a la Información Pública 2020
+2026-11-05,dataset,new,desarrollo-social-montos-programa-transferencia-condicionada,Montos de Programa de Transferencia Condicionada
+2026-11-05,dataset,new,defensa-personal-ministerio-defensa,Personal del Ministerio de Defensa
+2026-11-05,dataset,new,defensa-solicitud-acceso-informacion-publica-2019,Solicitud de Acceso a la Información Pública 2019
+2026-11-05,dataset,new,turismo-base-datos-alojamientos-colectivos-argentina,Base de Datos de Alojamientos Colectivos en Argentina
+2026-11-05,dataset,new,otros-indicadores-sectoriales-agroindustria---discontinuado,Indicadores Sectoriales de Agroindustria - Discontinuado
+2026-11-05,dataset,new,desarrollo-social-programa-acompanamiento-para-egreso-jovenes-sin-cuidados-parentales,Programa de acompañamiento para el egreso de jóvenes sin cuidados parentales
+2026-11-05,dataset,new,defensa-patrimonio-cultural-ministerio-defensa-fuerzas-armadas,Patrimonio Cultural del Ministerio de Defensa y Fuerzas Armadas
+2026-11-05,dataset,new,shn-salida-puesta-luna,Salida y puesta de luna
+2026-11-05,dataset,new,energia-produccion-hidrocarburos---productores-glp,Producción de hidrocarburos - Productores de GLP
+2026-11-05,dataset,new,desarrollo-social-centros-referencia,Centros de Referencia
+2026-11-05,dataset,new,smn-estadisticas-climaticas-normales,Estadísticas Climáticas Normales
+2026-11-05,dataset,new,defensa-defensa-auditorias,Defensa-Auditorias
+2026-11-05,dataset,new,defensa-fragata-libertad,Fragata Libertad
+2026-11-05,dataset,new,desarrollo-social-programa-ingreso-social-con-trabajo-2009-2018,Programa Ingreso Social con Trabajo (2009-2018)
+2026-11-05,dataset,new,sspm-hogares-con-ingresos-por-debajo-linea-indigencia-eph-puntual-continua,Hogares con ingresos por debajo de la línea de indigencia EPH puntual y continua
+2026-11-05,dataset,new,defensa-inventario-sobre-documental-isaac-francisco-rojas,Inventario sobre documental Isaac Francisco Rojas.
+2026-11-05,dataset,new,otros-gps-empresas---discontinuado,GPS Empresas - Discontinuado
+2026-11-05,dataset,new,desarrollo-social-hacemos-futuro-2018-2020,Hacemos Futuro (2018-2020)
+2026-11-05,dataset,new,otros-indicadores-remuneraciones-trabajadores-registrados-oede---discontinuado,Indicadores de Remuneraciones de Trabajadores Registrados (OEDE) - Discontinuado
+2026-11-05,dataset,new,defensa-solicitud-aip-mindef-2017,Solicitud AIP Mindef 2017
+2026-11-05,dataset,new,otros-inmuebles-propios-estado-nacional-alquilados,Inmuebles Propios del Estado Nacional y Alquilados
+2026-11-05,dataset,new,enargas-transferencias-fondos-enargas,Transferencias de fondos del ENARGAS
+2026-11-05,dataset,new,desarrollo-social-programa-nacional-primeros-anos,Programa Nacional Primeros Años
+2026-11-05,dataset,new,habitat-relevamiento-nacional-zonas-estrategicas-produccion-alimentos,Relevamiento Nacional de Zonas Estratégicas de Producción de Alimentos
+2026-11-05,dataset,new,sspm-produccion-ventas-petroleo-derivados,Producción y ventas de petróleo y derivados
+2026-11-05,dataset,new,desarrollo-social-reparacion-economica-para-hijos-e-hijas-victimas-violencia-genero,Reparación económica para hijos e hijas de víctimas de violencia de género
+2026-11-05,dataset,new,cultura-cuenta-satelite-cultura-gasto-publico,Cuenta Satélite de Cultura: Gasto Público
+2026-11-05,dataset,new,shn-salida-puesta-sol,Salida y puesta de sol
+2026-11-05,dataset,new,defensa-inventario-servicio-historico-ejercito-argentino,Inventario del Servicio Histórico del Ejército Argentino
+2026-11-05,dataset,new,desarrollo-social-potenciar-trabajo,Potenciar Trabajo
+2026-11-05,dataset,new,defensa-inventario-serie-actas-reunion-junta-militar,Inventario de la serie de Actas de la Reunión de la Junta Militar
+2026-11-05,dataset,new,defensa-ministros-defensa,Ministros de Defensa
+2026-11-05,dataset,new,obras-pmye---indicadores-contexto---agua-potable-saneamiento-1,PMyE - Indicadores de contexto - Agua Potable y Saneamiento 1
+2026-11-05,dataset,new,desarrollo-social-proyectos-productivos-comunitarios-2017-2020,Proyectos Productivos Comunitarios (2017-2020)
+2026-11-05,dataset,new,cultura-cuenta-satelite-cultura-puestos-trabajo-cultural,Cuenta Satélite de Cultura: Puestos de trabajo cultural
+2026-11-05,dataset,new,shn-estaciones-mareograficas,Estaciones Mareográficas
+2026-11-05,dataset,new,agroindustria-cebada-cervecera---siembra-cosecha-produccion-rendimiento,"Cebada cervecera - siembra, cosecha, producción, rendimiento"
+2026-11-05,dataset,new,exterior-cuadro-clasificacion-archivo-historico,Cuadro de Clasificación del Archivo Histórico
+2026-11-05,dataset,new,defensa-instituto-penal-fuerzas-armadas,Instituto Penal de las Fuerzas Armadas
+2026-11-05,dataset,new,desarrollo-social-dispositivos-aprehension-especializados-para-adolescentes-presuntos-infractores,Dispositivos de aprehensión especializados para adolescentes presuntos infractores a la ley penal.
+2026-11-05,dataset,new,obras-pmye---indicadores-contexto---educacion,PMyE - Indicadores de contexto -  Educación
+2026-11-05,dataset,new,sspm-financiamiento-privado-mercado-capitales,Financiamiento privado en mercado de capitales
+2026-11-05,dataset,new,pami-padron-afiliados,Padrón de afiliados
+2026-11-05,dataset,new,transporte-trenes---transporte-pasajeros,Trenes - transporte de pasajeros
+2026-11-05,dataset,new,generos-base-datos-linea-144,Base de datos de la Línea 144
+2026-11-05,dataset,new,energia-pozos-metros-perforados-tablas-dinamicas,Pozos y Metros Perforados (Tablas Dinámicas)
+2026-11-05,dataset,new,energia-glp-distancia-areas-urbanas-depositos-fraccionadoras,GLP: Distancia de áreas urbanas a depósitos y fraccionadoras
+2026-11-05,dataset,new,desarrollo-social-actividades-formacion-promocion-secretaria-nacional-ninez-adolescencia-familia,"Actividades de formación y promoción de la Secretaría Nacional de Niñez, Adolescencia y Familia"
+2026-11-05,dataset,new,desarrollo-social-linea-102,Línea 102
+2026-11-05,dataset,new,defensa-personal-ministerio-defensa-al-31-enero-2021,Personal Ministerio de Defensa al 31 de enero 2021
+2026-11-05,dataset,new,sspm-politica-ingresos-asignacion-universal-por-hijo-para-proteccion-social-por-embarazo,Política de Ingresos. Asignación Universal Por Hijo para la Protección Social y por Embarazo.
+2026-11-05,dataset,new,smn-alertas-meteorologicas-365-dias,Alertas Meteorológicas (365 días)
+2026-11-05,dataset,new,otros-nombres-personas-fisicas,Nombres de personas físicas
+2026-11-05,dataset,new,desarrollo-social-microcreditos-otorgados,Microcréditos otorgados
+2026-11-05,dataset,new,desarrollo-social-monotributo-social,Monotributo Social
+2026-11-05,dataset,new,sspm-posicion-inversion-nacional-base-1991,Posición de inversión Nacional (Base 1991)
+2026-11-05,dataset,new,trabajo-programa-asistencia-al-trabajo-independiente,Programa de Asistencia al Trabajo Independiente
+2026-11-05,dataset,new,defensa-inventario-documentos-utilizados-causa-xiii-juicio-juntas-militares,Inventario de documentos utilizados en la Causa XIII en Juicio a las Juntas Militares
+2026-11-05,dataset,new,exterior-estadisticas-isen,Estadísticas ISEN
+2026-11-05,dataset,new,interior-ingresos-egresos-personas-al-pais-residencias-otorgadas,Ingresos y Egresos de personas al pais y Residencias Otorgadas.
+2026-11-05,dataset,new,otros-indice-tipo-cambio-real-sectorial-efectivo---discontinuado,Índice de Tipo de Cambio Real Sectorial Efectivo - Discontinuado
+2026-11-05,dataset,new,defensa-personal-militar-segun-genero,Personal Militar según Género
+2026-11-05,dataset,new,empleo-registrado-sector-privado-por-rama-actividad,"Empleo registrado del sector privado, por rama de actividad"
+2026-11-05,dataset,new,ambiente-pueblos-originarios,Pueblos originarios
+2026-11-05,dataset,new,otros-indicadores-empleo-trabajadores-registrados-oede---discontinuado,Indicadores de Empleo de Trabajadores Registrados (OEDE) - Discontinuado
+2026-11-05,dataset,new,energia-comercializacion-hidrocarburos---depositos-glp,Comercialización de hidrocarburos - Depósitos de GLP
+2026-11-05,dataset,new,defensa-solicitud-aip-mindef-2018,Solicitud AIP Mindef 2018
+2026-11-05,dataset,new,sspm-indice-precios-materias-primas-base-1995,Índice de precios de materias primas. Base 1995
+2026-11-05,dataset,new,obras-pmye---indicadores-sociodemograficos,PMyE - Indicadores sociodemograficos
+2026-11-05,dataset,new,otros-refeglo---registro-federal-gobiernos-locales,REFEGLO - Registro Federal de Gobiernos Locales
+2026-11-05,dataset,new,defensa-inventario-comision-analisis-acciones-combate-malvinas-armada-argentina,Inventario de la Comisión de Análisis de Acciones en Combate en Malvinas de la Armada Argentina
+2026-11-05,dataset,new,energia-generacion-electrica---pequenos-aprovechamientos-hidroelectricos-pah,Generación Eléctrica - Pequeños Aprovechamientos Hidroeléctricos (PAH)
+2026-11-05,dataset,new,obras-pmye---indices-multidimensionales,PMyE - Indices Multidimensionales
+2026-11-05,dataset,new,obras-pmye---indicadores-contexto---agua-potable-saneamiento-2,PMyE - Indicadores de contexto - Agua Potable y Saneamiento 2
+2026-11-05,dataset,new,defensa-programa-investigacion-desarrollo-para-defensa-piddef,Programa de Investigación y Desarrollo para la Defensa (PIDDEF)
+2026-11-05,dataset,new,defensa-documentacion-preservada-archivos-fuerzas-armadas,Documentación preservada de Archivos de las Fuerzas Armadas
+2026-11-05,dataset,new,desarrollo-social-titulares-prestacion-alimentar,Titulares de la Prestación Alimentar
+2026-11-05,dataset,new,otros-solicitudes-acceso-informacion-publica-2015-2016,Solicitudes de Acceso a la Información Pública (2015 y 2016)
