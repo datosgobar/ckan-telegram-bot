@@ -17,7 +17,8 @@ def safe_get(url, retries=3, backoff=5, timeout=30):
     """Hace un GET con reintentos en caso de error de conexión o respuesta JSON inválida."""
     for attempt in range(1, retries + 1):
         try:
-            resp = requests.get(url, timeout=timeout)
+            headers = {"User-Agent":"github-datob"}
+            resp = requests.get(url,headers=headers, timeout=timeout)
             resp.raise_for_status()
             return resp.json()
         except json.JSONDecodeError:
@@ -39,7 +40,7 @@ def get_current_datasets(ckan_url, chunk_size=10, max_limit=None):
     start = 0
 
     while True:
-        url = f"{ckan_url}api/3/action/package_search?rows={chunk_size}&start={start}&q=dataset_pablo"
+        url = f"{ckan_url}api/3/action/package_search?rows={chunk_size}&start={start}"
         data = safe_get(url)
 
         results = data["result"]["results"]
